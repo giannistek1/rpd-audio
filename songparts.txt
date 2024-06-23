@@ -24,6 +24,8 @@
 {A.C.E}{Siren Dawn}{Higher}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Siren Dawn][Higher][C][1].mp3?raw=true}
 {A.C.E}{Under Cover The Mad Squad}{Savage}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Under Cover The Mad Squad][Savage][C][1].mp3?raw=true}
 {A.C.E}{Under Cover}{Under Cover}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Under Cover][Under Cover][C][1].mp3?raw=true}
+{ACE}{My Girl My Choice}{My Girl}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][My Girl My Choice][My Girl][C][1].mp3?raw=true}
+{ACE}{My Girl My Choice}{My Girl}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][My Girl My Choice][My Girl][P][1].mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Armageddon][Armageddon][DBE][1].mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Armageddon][Armageddon][P][1].mp3?raw=true}
 {aespa}{Better Things}{Better Things}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Better Things][Better Things][CDB][2].mp3?raw=true}
