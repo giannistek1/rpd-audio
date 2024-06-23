@@ -93,7 +93,7 @@
 {ATEEZ}{Zero Fever Part 1}{Good Lil Boy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 1][Good Lil Boy][C][1].mp3?raw=true}
 {ATEEZ}{Zero Fever Part 1}{INCEPTION}{CDB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 1][INCEPTION][CDB][1].mp3?raw=true}
 {ATEEZ}{Zero Fever Part 1}{THANXX}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 1][THANXX][P][1].mp3?raw=true}
-{ATEEZ}{Zero Fever Part 2}{Fireworks (I’m the One)}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 2][Fireworks (I’m the One)][P][1].mp3?raw=true}
+{ATEEZ}{Zero Fever Part 2}{Fireworks (Im the One)}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 2][Fireworks (Im the One)][P][1].mp3?raw=true}
 {ATEEZ}{Zero Fever Part 3}{Deja Vu}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 3][Deja Vu][P][1].mp3?raw=true}
 {ATEEZ}{Zero Fever Part 3}{Eternal Sunshine}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ATEEZ][Zero Fever Part 3][Eternal Sunshine][P][1].mp3?raw=true}
 {B.A.P}{One Shot}{One Shot}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[B.A.P][One Shot][One Shot][C][1].mp3?raw=true}
@@ -316,7 +316,7 @@
 {HyunA}{Bubble Pop!}{Bubble Pop!}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Bubble Pop!][Bubble Pop!][C][1].mp3?raw=true}
 {HyunA}{Flower Shower}{FLOWER SHOWER}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Flower Shower][FLOWER SHOWER][C][1].mp3?raw=true}
 {HyunA}{Following}{Babe}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Following][Babe][C][1].mp3?raw=true}
-{HyunA}{Im Not Cool}{I’m Not Cool}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Im Not Cool][I’m Not Cool][C][1].mp3?raw=true}
+{HyunA}{Im Not Cool}{Im Not Cool}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Im Not Cool][Im Not Cool][C][1].mp3?raw=true}
 {HyunA}{Lip & Hip}{Lip & Hip}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Lip & Hip][Lip & Hip][P][1].mp3?raw=true}
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[I-LAND][Into the I-LAND][Into the I-LAND (applicants ver.)][C][3].mp3?raw=true}
 {I.O.I}{Miss Me}{Very Very Very}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[I.O.I][Miss Me][Very Very Very][C][1].mp3?raw=true}
@@ -363,11 +363,6 @@
 {IVE}{IVE SWITCH}{Accendio}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE SWITCH][Accendio][P][1].mp3?raw=true}
 {IVE}{IVE SWITCH}{HEYA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE SWITCH][HEYA][P][1].mp3?raw=true}
 {IVE}{IVE x PEPSI}{I WANT}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE x PEPSI][I WANT][C][1].mp3?raw=true}
-{IVE}{I’ve IVE}{Blue Blood}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I’ve IVE][Blue Blood][C][1].mp3?raw=true}
-{IVE}{I’ve IVE}{Cherish}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I’ve IVE][Cherish][C][2].mp3?raw=true}
-{IVE}{I’ve IVE}{I AM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I’ve IVE][I AM][C][1].mp3?raw=true}
-{IVE}{I’ve IVE}{Lips}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I’ve IVE][Lips][C][1].mp3?raw=true}
-{IVE}{I’VE MINE}{Baddie}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][I’VE MINE][Baddie][P][1].mp3?raw=true}
 {IVE}{KITSCH}{KITSCH}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][KITSCH][KITSCH][C][1].mp3?raw=true}
 {IVE}{Love Dive}{Love Dive}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Love Dive][Love Dive][DB][1].mp3?raw=true}
 {IVE}{Love Dive}{Love Dive}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Love Dive][Love Dive][P][1].mp3?raw=true}
@@ -422,7 +417,7 @@
 {Mamamoo}{Gleam}{Gleam}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Gleam][Gleam][C][1].mp3?raw=true}
 {Mamamoo}{Hello}{Mr. Ambiguous}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Hello][Mr. Ambiguous][C][1].mp3?raw=true}
 {Mamamoo}{I Say Mamamoo The Best}{Mumumumuch}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][I Say Mamamoo The Best][Mumumumuch][C][1].mp3?raw=true}
-{Mamamoo}{Memory}{Décalcomanie}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Memory][Décalcomanie][C][1].mp3?raw=true}
+{Mamamoo}{Memory}{Decalcomanie}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Memory][Decalcomanie][C][1].mp3?raw=true}
 {Mamamoo}{Pink Funky}{Um Oh Ah Yeh}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Pink Funky][Um Oh Ah Yeh][C][1].mp3?raw=true}
 {Mamamoo}{Pink Funky}{Um Oh Ah Yeh}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Pink Funky][Um Oh Ah Yeh][C][2].mp3?raw=true}
 {Mamamoo}{Reality in Black}{Hip}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Mamamoo][Reality in Black][Hip][P][1].mp3?raw=true}
@@ -488,13 +483,13 @@
 {NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][We Are Superhuman][Highway to Heaven][C][1].mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Superhuman}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][We Are Superhuman][Superhuman][C][1].mp3?raw=true}
 {NCT Dream}{Chewing Gum}{Chewing Gum}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Chewing Gum][Chewing Gum][C][1].mp3?raw=true}
-{NCT Dream}{Dont Need Your Love}{Don’t Need Your Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dont Need Your Love][Don’t Need Your Love][C][1].mp3?raw=true}
+{NCT Dream}{Dont Need Your Love}{Dont Need Your Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dont Need Your Love][Dont Need Your Love][C][1].mp3?raw=true}
 {NCT Dream}{Fireflies}{Fireflies}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Fireflies][Fireflies][C][1].mp3?raw=true}
 {NCT Dream}{Fireflies}{Fireflies}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Fireflies][Fireflies][C][2].mp3?raw=true}
 {NCT Dream}{Hello Future}{Hello Future}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Hello Future][Hello Future][C][1].mp3?raw=true}
 {NCT Dream}{Hot Sauce}{Hot Sauce}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Hot Sauce][Hot Sauce][C][1].mp3?raw=true}
 {NCT Dream}{NCT 2018 Empathy}{GO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][NCT 2018 Empathy][GO][C][1].mp3?raw=true}
-{NCT Dream}{Reload}{Ridin’}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Reload][Ridin’][C][1].mp3?raw=true}
+{NCT Dream}{Reload}{Ridin}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Reload][Ridin][C][1].mp3?raw=true}
 {NCT Dream}{The First}{My First and Last}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][The First][My First and Last][C][1].mp3?raw=true}
 {NCT Dream}{We Boom}{Boom}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][We Boom][Boom][P][1].mp3?raw=true}
 {NCT Dream}{We Go Up}{We Go Up}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][We Go Up][We Go Up][C][1].mp3?raw=true}
@@ -505,10 +500,10 @@
 {NCT U}{NCT 2018 Empathy}{Baby Dont Stop}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT 2018 Empathy][Baby Dont Stop][C][1].mp3?raw=true}
 {NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT 2018 Empathy][BOSS][C][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 1}{Make A Wish}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 1][Make A Wish][P][1].mp3?raw=true}
-{NCT U}{NCT Resonance Pt. 2}{90’s Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90’s Love][C][1].mp3?raw=true}
-{NCT U}{NCT Resonance Pt. 2}{90’s Love}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90’s Love][DB][1].mp3?raw=true}
+{NCT U}{NCT Resonance Pt. 2}{90s Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90s Love][C][1].mp3?raw=true}
+{NCT U}{NCT Resonance Pt. 2}{90s Love}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90s Love][DB][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][Work It][C][1].mp3?raw=true}
-{NCT U}{Universe}{Universe (Let’s Play Ball)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][Universe][Universe (Let’s Play Ball)][C][1].mp3?raw=true}
+{NCT U}{Universe}{Universe (Lets Play Ball)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][Universe][Universe (Lets Play Ball)][C][1].mp3?raw=true}
 {NCT x aespa}{2021 Winter SMTOWN SMCU EXPRESS}{ZOO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][2021 Winter SMTOWN SMCU EXPRESS][ZOO][C][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][B][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{O}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][O][1].mp3?raw=true}
@@ -575,6 +570,7 @@
 {Red Velvet}{The ReVe Festival Day 2}{Umpah Umpah}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The ReVe Festival Day 2][Umpah Umpah][C][1].mp3?raw=true}
 {Red Velvet}{The ReVe Festival Finale}{Psycho}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The ReVe Festival Finale][Psycho][C][1].mp3?raw=true}
 {RIIZE}{Get A Guitar}{Get A Guitar}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Get A Guitar][Get A Guitar][P][1].mp3?raw=true}
+{RIIZE}{Impossible}{Impossible}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Impossible][Impossible][C][1].mp3?raw=true}
 {RIIZE}{Love 119}{Love 119}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Love 119][Love 119][C][1].mp3?raw=true}
 {RIIZE}{Love 119}{Love 119}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Love 119][Love 119][C][2].mp3?raw=true}
 {RIIZE}{RIIZING}{Impossible}{CDB}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][RIIZING][Impossible][CDB][3].mp3?raw=true}
