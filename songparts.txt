@@ -313,6 +313,9 @@
 {Hwa Sa}{Guilty Pleasure}{Im a B}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Hwa Sa][Guilty Pleasure][Im a B][C][1].mp3?raw=true}
 {Hwa Sa}{Maria}{Maria}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Hwa Sa][Maria][Maria][P][1].mp3?raw=true}
 {Hwa Sa}{TWIT}{TWIT}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Hwa Sa][TWIT][TWIT][C][1].mp3?raw=true}
+{HWASA}{I Love My Body}{I Love My Body}{CDB}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA][I Love My Body][I Love My Body][CDB][3].mp3?raw=true}
+{HWASA}{I Love My Body}{I Love My Body}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA][I Love My Body][I Love My Body][C][1].mp3?raw=true}
+{HWASA}{I Love My Body}{I Love My Body}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA][I Love My Body][I Love My Body][DB][1].mp3?raw=true}
 {HYOLYN}{Dally}{Dally}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Dally][Dally][C][1].mp3?raw=true}
 {HYOLYN}{Layin Low}{Layin Low}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Layin Low][Layin Low][C][1].mp3?raw=true}
 {HYOLYN}{See Sea}{See Sea}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][See Sea][See Sea][C][2].mp3?raw=true}
