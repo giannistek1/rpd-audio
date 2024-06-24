@@ -109,7 +109,7 @@
 {BIGBANG}{Alive (Kor. Version)}{Fantastic Baby}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][Alive (Kor. Version)][Fantastic Baby][C][1].mp3?raw=true}
 {BIGBANG}{A}{Bang Bang Bang}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][A][Bang Bang Bang][C][1].mp3?raw=true}
 {Billie Eilish}{Therefore I Am}{Therefore I Am}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][Therefore I Am][Therefore I Am][C][2].mp3?raw=true}
-{Blackpink}{As If Its Your Last}{As If It’s Your Last}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][As If Its Your Last][As If It’s Your Last][C][1].mp3?raw=true}
+{Blackpink}{As If Its Your Last}{As If Its Your Last}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][As If Its Your Last][As If Its Your Last][C][1].mp3?raw=true}
 {Blackpink}{How You Like That}{How You Like That}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][How You Like That][How You Like That][C][1].mp3?raw=true}
 {Blackpink}{How You Like That}{How You Like That}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][How You Like That][How You Like That][DB][1].mp3?raw=true}
 {Blackpink}{Ice Cream (with Selena Gomez)}{Ice Cream (with Selena Gomez)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Blackpink][Ice Cream (with Selena Gomez)][Ice Cream (with Selena Gomez)][C][1].mp3?raw=true}
@@ -362,10 +362,14 @@
 {IVE}{After LIKE}{After LIKE}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][After LIKE][After LIKE][P][1].mp3?raw=true}
 {IVE}{All Night}{All Night (feat. Saweetie)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][All Night][All Night (feat. Saweetie)][C][1].mp3?raw=true}
 {IVE}{ELEVEN}{ELEVEN}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][ELEVEN][ELEVEN][C][1].mp3?raw=true}
+{IVE}{Ive IVE}{Blue Blood}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Blue Blood][CDB][2].mp3?raw=true}
 {IVE}{Ive IVE}{Blue Blood}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Blue Blood][C][1].mp3?raw=true}
+{IVE}{Ive IVE}{Blue Blood}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Blue Blood][DBE][1].mp3?raw=true}
+{IVE}{Ive IVE}{Blue Blood}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Blue Blood][DB][1].mp3?raw=true}
 {IVE}{Ive IVE}{Cherish}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Cherish][C][2].mp3?raw=true}
 {IVE}{Ive IVE}{I AM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][I AM][C][1].mp3?raw=true}
 {IVE}{Ive IVE}{Lips}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Ive IVE][Lips][C][1].mp3?raw=true}
+{IVE}{IVE MINE}{Baddie}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE MINE][Baddie][C][1].mp3?raw=true}
 {IVE}{IVE MINE}{Baddie}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE MINE][Baddie][P][1].mp3?raw=true}
 {IVE}{IVE SWITCH}{Accendio}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE SWITCH][Accendio][C][1].mp3?raw=true}
 {IVE}{IVE SWITCH}{Accendio}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][IVE SWITCH][Accendio][DBE][1].mp3?raw=true}
