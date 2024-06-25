@@ -774,8 +774,8 @@
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TVXQ][Mirotic][Mirotic][C][1].mp3?raw=true}
 {Twice}{&TWICE}{Fake & True}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][&TWICE][Fake & True][C][2].mp3?raw=true}
 {Twice}{Cry for Me}{Cry for Me}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Cry for Me][Cry for Me][C][1].mp3?raw=true}
-{Twice}{Eyes Wide Open}{I Can’t Stop Me}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Eyes Wide Open][I Can’t Stop Me][C][1].mp3?raw=true}
-{Twice}{Eyes Wide Open}{I Can’t Stop Me}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Eyes Wide Open][I Can’t Stop Me][P][1].mp3?raw=true}
+{Twice}{Eyes Wide Open}{I Cant Stop Me}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Eyes Wide Open][I Cant Stop Me][C][1].mp3?raw=true}
+{Twice}{Eyes Wide Open}{I Cant Stop Me}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Eyes Wide Open][I Cant Stop Me][P][1].mp3?raw=true}
 {Twice}{Fancy you}{Fancy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Fancy you][Fancy][C][1].mp3?raw=true}
 {Twice}{Feel Special}{Feel Special}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Feel Special][Feel Special][DB][1].mp3?raw=true}
 {Twice}{Feel Special}{Feel Special}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Feel Special][Feel Special][P][1].mp3?raw=true}
@@ -809,12 +809,12 @@
 {TXT}{The Chaos Chapter FREEZE}{Magic}{P}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Chaos Chapter FREEZE][Magic][P][2].mp3?raw=true}
 {TXT}{The Chaos Chapter FREEZE}{No Rules}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Chaos Chapter FREEZE][No Rules][C][1].mp3?raw=true}
 {TXT}{The Chaos Chapter FREEZE}{No Rules}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Chaos Chapter FREEZE][No Rules][C][2].mp3?raw=true}
-{TXT}{The Dream Chapter ETERNITY}{Can’t You See Me}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter ETERNITY][Can’t You See Me][P][1].mp3?raw=true}
+{TXT}{The Dream Chapter ETERNITY}{Cant You See Me}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter ETERNITY][Cant You See Me][P][1].mp3?raw=true}
 {TXT}{The Dream Chapter ETERNITY}{Drama}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter ETERNITY][Drama][C][1].mp3?raw=true}
 {TXT}{The Dream Chapter ETERNITY}{PUMA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter ETERNITY][PUMA][P][1].mp3?raw=true}
 {TXT}{The Dream Chapter MAGIC}{9 and Three Quarters - Run Away}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][9 and Three Quarters - Run Away][P][1].mp3?raw=true}
 {TXT}{The Dream Chapter MAGIC}{Angel or Devil}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][Angel or Devil][C][1].mp3?raw=true}
-{TXT}{The Dream Chapter MAGIC}{Can’t We Just Leave The Monster Alive}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][Can’t We Just Leave The Monster Alive][C][1].mp3?raw=true}
+{TXT}{The Dream Chapter MAGIC}{Cant We Just Leave The Monster Alive}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][Cant We Just Leave The Monster Alive][C][1].mp3?raw=true}
 {TXT}{The Dream Chapter MAGIC}{New Rules}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][New Rules][C][1].mp3?raw=true}
 {TXT}{The Dream Chapter MAGIC}{Poppin Star}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][Poppin Star][C][3].mp3?raw=true}
 {TXT}{The Dream Chapter MAGIC}{Roller Coaster}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Dream Chapter MAGIC][Roller Coaster][C][1].mp3?raw=true}
