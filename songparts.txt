@@ -457,6 +457,7 @@
 {KISS OF LIFE}{Midas Touch}{Midas Touch}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][Midas Touch][Midas Touch][C][1].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][1].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][3].mp3?raw=true}
+{LE SERRAFIM}{Perfect Night}{Perfect Night}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Perfect Night][Perfect Night][C][1].mp3?raw=true}
 {Lee Jinhyuk}{S.O.L}{I Like That}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk][S.O.L][I Like That][C][1].mp3?raw=true}
 {LISA}{LALISA}{LALISA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA][LALISA][LALISA][P][1].mp3?raw=true}
 {LISA}{LALISA}{Money}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA][LALISA][Money][C][1].mp3?raw=true}
@@ -487,6 +488,7 @@
 {MCND}{THE EARTH SECRET MISSION Chapter 1}{Movin}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][THE EARTH SECRET MISSION Chapter 1][Movin][C][2].mp3?raw=true}
 {MCND}{TOP GANG}{TOP GANG}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][TOP GANG][TOP GANG][C][1].mp3?raw=true}
 {MIRAE}{Splash}{Splash}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][Splash][Splash][C][1].mp3?raw=true}
+{MISAMO}{Masterpiece}{Do not touch}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO][Masterpiece][Do not touch][C][1].mp3?raw=true}
 {MOMOLAND & Natti Natasha}{Yummy Yummy Love}{Yummy Yummy Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][Yummy Yummy Love][Yummy Yummy Love][C][1].mp3?raw=true}
 {MOMOLAND}{Freeze!}{Freeze}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Freeze!][Freeze][C][1].mp3?raw=true}
 {MOMOLAND}{Fun to The World}{BAAM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Fun to The World][BAAM][C][1].mp3?raw=true}
@@ -516,6 +518,8 @@
 {MONSTA X}{The Connect Dejavu}{Jealousy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][The Connect Dejavu][Jealousy][C][1].mp3?raw=true}
 {MONSTA X}{Trespass}{Trespass}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MONSTA X][Trespass][Trespass][C][1].mp3?raw=true}
 {NAYEON (TWICE)}{IM NAYEON}{POP!}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (TWICE)][IM NAYEON][POP!][C][1].mp3?raw=true}
+{NAYEON (TWICE)}{NA}{ABCD}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (TWICE)][NA][ABCD][C][1].mp3?raw=true}
+{NAYEON (TWICE)}{NA}{ABCD}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NAYEON (TWICE)][NA][ABCD][DB][1].mp3?raw=true}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][2 Baddies][2 Baddies][DB][1].mp3?raw=true}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][2 Baddies][2 Baddies][P][1].mp3?raw=true}
 {NCT 127}{Awaken}{Wakey Wakey}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][Awaken][Wakey Wakey][C][1].mp3?raw=true}
@@ -562,6 +566,7 @@
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][Work It][C][1].mp3?raw=true}
 {NCT U}{Universe}{Universe (Lets Play Ball)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][Universe][Universe (Lets Play Ball)][C][1].mp3?raw=true}
 {NCT x aespa}{2021 Winter SMTOWN SMCU EXPRESS}{ZOO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][2021 Winter SMTOWN SMCU EXPRESS][ZOO][C][1].mp3?raw=true}
+{NewJeans}{NewJeans Super Shy}{New Jeans}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][NewJeans Super Shy][New Jeans][C][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][B][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{O}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][O][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][P][1].mp3?raw=true}
