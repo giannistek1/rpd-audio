@@ -484,7 +484,7 @@
 {LE SERRAFIM}{ANTIFRAGILE}{No Celestial}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][ANTIFRAGILE][No Celestial][C][2].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][1].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][3].mp3?raw=true}
-{LE SERRAFIM}{Eve, Psyche & The Bluebeard’s Wife}{Eve, Psyche & The Bluebeard’s Wife}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Eve, Psyche & The Bluebeard’s Wife][Eve, Psyche & The Bluebeard’s Wife][C][1].mp3?raw=true}
+{LE SERRAFIM}{Eve, Psyche & The Bluebeard’s Wife}{Eve, Psyche & The Bluebeards Wife}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Eve, Psyche & The Bluebeard’s Wife][Eve, Psyche & The Bluebeards Wife][C][1].mp3?raw=true}
 {LE SERRAFIM}{FEARLESS}{Blue Flame}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][FEARLESS][Blue Flame][C][1].mp3?raw=true}
 {LE SERRAFIM}{FEARLESS}{FEARLESS}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][FEARLESS][FEARLESS][C][1].mp3?raw=true}
 {LE SERRAFIM}{Perfect Night}{Perfect Night}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Perfect Night][Perfect Night][C][1].mp3?raw=true}
