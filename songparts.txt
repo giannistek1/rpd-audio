@@ -40,7 +40,7 @@
 {aespa}{Better Things}{Better Things}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Better Things][Better Things][P][1].mp3?raw=true}
 {aespa}{Black Mamba}{Black Mamba}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Black Mamba][Black Mamba][C][1].mp3?raw=true}
 {aespa}{Drama}{Drama}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Drama][Drama][P][1].mp3?raw=true}
-{aespa}{Dreams Come True - SM Station}{Dreams Come True}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Dreams Come True - SM Station][Dreams Come True][C][1].mp3?raw=true}
+{aespa}{Dreams Come True}{Dreams Come True}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Dreams Come True][Dreams Come True][C][1].mp3?raw=true}
 {aespa}{Girls}{Girls}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Girls][Girls][DB][1].mp3?raw=true}
 {aespa}{Girls}{Girls}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Girls][Girls][P][1].mp3?raw=true}
 {aespa}{Illusion}{Illusion}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Illusion][Illusion][C][1].mp3?raw=true}
@@ -62,7 +62,7 @@
 {Apink}{Look}{Dumhdurum}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Look][Dumhdurum][P][1].mp3?raw=true}
 {Apink}{One & Six}{Im So Sick}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][One & Six][Im So Sick][P][1].mp3?raw=true}
 {Apink}{Percent}{%% (Eung Eung)}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Percent][%% (Eung Eung)][P][1].mp3?raw=true}
-{Apink}{Pink Blossom}{Mr. Chu}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Pink Blossom][Mr. Chu][C][1].mp3?raw=true}
+{Apink}{PINK BLOSSOM}{Mr. Chu}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][PINK BLOSSOM][Mr. Chu][C][1].mp3?raw=true}
 {Apink}{Pink Luv}{Luv}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Pink Luv][Luv][C][1].mp3?raw=true}
 {Apink}{Pink MEMORY}{Remember}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Pink MEMORY][Remember][C][1].mp3?raw=true}
 {Apink}{Secret Garden}{No No No}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Apink][Secret Garden][No No No][C][2].mp3?raw=true}
