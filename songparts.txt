@@ -837,9 +837,9 @@
 {The Boyz}{The Start}{Giddy Up}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][The Start][Giddy Up][C][1].mp3?raw=true}
 {The Boyz}{Thrill-ing}{Thrill Ride}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Thrill-ing][Thrill Ride][C][1].mp3?raw=true}
 {TREASURE}{Going Crazy}{Going Crazy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][Going Crazy][Going Crazy][C][1].mp3?raw=true}
-{TREASURE}{King Kong}{King Kong}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][King Kong][King Kong][C][1].mp3?raw=true}
-{TREASURE}{King Kong}{King Kong}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][King Kong][King Kong][DBE][1].mp3?raw=true}
-{TREASURE}{King Kong}{King Kong}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][King Kong][King Kong][DB][1].mp3?raw=true}
+{TREASURE}{KING KONG}{King Kong}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][KING KONG][King Kong][C][1].mp3?raw=true}
+{TREASURE}{KING KONG}{King Kong}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][KING KONG][King Kong][DBE][1].mp3?raw=true}
+{TREASURE}{KING KONG}{King Kong}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][KING KONG][King Kong][DB][1].mp3?raw=true}
 {TREASURE}{MOVE (T5)}{MOVE (T5 Unit)}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][MOVE (T5)][MOVE (T5 Unit)][DBE][1].mp3?raw=true}
 {TREASURE}{MOVE (T5)}{MOVE (T5 Unit)}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][MOVE (T5)][MOVE (T5 Unit)][P][1].mp3?raw=true}
 {TREASURE}{REBOOT}{BONA BONA}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TREASURE][REBOOT][BONA BONA][DBE][1].mp3?raw=true}
