@@ -441,9 +441,9 @@
 {IVE}{Love Dive}{Love Dive}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Love Dive][Love Dive][DB][1].mp3?raw=true}
 {IVE}{Love Dive}{Love Dive}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Love Dive][Love Dive][P][1].mp3?raw=true}
 {IVE}{Love Dive}{ROYAL}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IVE][Love Dive][ROYAL][C][1].mp3?raw=true}
-{IZ ONE}{BLOOMIZ}{Fiesta}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][BLOOMIZ][Fiesta][C][1].mp3?raw=true}
-{IZ ONE}{COLORIZ}{La Vie en Rose}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][COLORIZ][La Vie en Rose][C][1].mp3?raw=true}
-{IZ ONE}{COLORIZ}{Violeta}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][COLORIZ][Violeta][C][1].mp3?raw=true}
+{IZ ONE}{BLOOM IZ}{Fiesta}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][BLOOM IZ][Fiesta][C][1].mp3?raw=true}
+{IZ ONE}{COLOR IZ}{La Vie en Rose}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][COLOR IZ][La Vie en Rose][C][1].mp3?raw=true}
+{IZ ONE}{COLOR IZ}{Violeta}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][COLOR IZ][Violeta][C][1].mp3?raw=true}
 {IZ ONE}{One-reeler Act IV}{Panorama}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][One-reeler Act IV][Panorama][C][1].mp3?raw=true}
 {IZ ONE}{Oneiric Diary}{Secret Story of the Swan}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][Oneiric Diary][Secret Story of the Swan][C][1].mp3?raw=true}
 {J-Hope}{Chicken Noodle Soup}{Chicken Noodle Soup feat. Becky G}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J-Hope][Chicken Noodle Soup][Chicken Noodle Soup feat. Becky G][C][1].mp3?raw=true}
