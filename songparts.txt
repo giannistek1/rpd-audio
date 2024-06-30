@@ -527,7 +527,7 @@
 {MCND}{THE EARTH SECRET MISSION Chapter 1}{Movin}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][THE EARTH SECRET MISSION Chapter 1][Movin][C][2].mp3?raw=true}
 {MCND}{TOP GANG}{TOP GANG}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MCND][TOP GANG][TOP GANG][C][1].mp3?raw=true}
 {MIRAE}{Splash}{Splash}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MIRAE][Splash][Splash][C][1].mp3?raw=true}
-{MISAMO}{Masterpiece}{Do not touch}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO][Masterpiece][Do not touch][C][1].mp3?raw=true}
+{MISAMO (TWICE)}{Masterpiece}{Do not touch}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MISAMO (TWICE)][Masterpiece][Do not touch][C][1].mp3?raw=true}
 {MOMOLAND & Natti Natasha}{Yummy Yummy Love}{Yummy Yummy Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND & Natti Natasha][Yummy Yummy Love][Yummy Yummy Love][C][1].mp3?raw=true}
 {MOMOLAND}{Freeze!}{Freeze}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Freeze!][Freeze][C][1].mp3?raw=true}
 {MOMOLAND}{Fun to The World}{BAAM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Fun to The World][BAAM][C][1].mp3?raw=true}
@@ -773,7 +773,7 @@
 {Stray Kids}{NOEASY}{DOMINO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][NOEASY][DOMINO][C][1].mp3?raw=true}
 {Stray Kids}{NOEASY}{Red Lights}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][NOEASY][Red Lights][C][1].mp3?raw=true}
 {Stray Kids}{NOEASY}{THUNDEROUS}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][NOEASY][THUNDEROUS][P][1].mp3?raw=true}
-{Stray Kids}{Oddinary}{Maniac}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][Oddinary][Maniac][P][1].mp3?raw=true}
+{Stray Kids}{ODDINARY}{Maniac}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][ODDINARY][Maniac][P][1].mp3?raw=true}
 {Stray Kids}{ROCK-STAR}{LALALALA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][ROCK-STAR][LALALALA][C][1].mp3?raw=true}
 {Stray Kids}{ROCK-STAR}{LALALALA}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][ROCK-STAR][LALALALA][C][3].mp3?raw=true}
 {Stray Kids}{ROCK-STAR}{LALALALA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][ROCK-STAR][LALALALA][P][1].mp3?raw=true}
