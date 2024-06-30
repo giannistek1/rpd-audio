@@ -710,8 +710,8 @@
 {SECRET NUMBER}{Got That Boom}{Got That Boom}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Got That Boom][Got That Boom][C][1].mp3?raw=true}
 {SECRET NUMBER}{Got That Boom}{PRIVACY}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Got That Boom][PRIVACY][C][1].mp3?raw=true}
 {SECRET NUMBER}{Who Dis}{Who Dis}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Who Dis][Who Dis][C][1].mp3?raw=true}
-{SEO SOOJIN}{2nd EP RIZZ}{MONA LISA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SEO SOOJIN][2nd EP RIZZ][MONA LISA][C][1].mp3?raw=true}
-{SEO SOOJIN}{2nd EP RIZZ}{MONA LISA}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SEO SOOJIN][2nd EP RIZZ][MONA LISA][DB][1].mp3?raw=true}
+{SEO SOOJIN}{RIZZ}{MONA LISA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SEO SOOJIN][RIZZ][MONA LISA][C][1].mp3?raw=true}
+{SEO SOOJIN}{RIZZ}{MONA LISA}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SEO SOOJIN][RIZZ][MONA LISA][DB][1].mp3?raw=true}
 {Seventeen}{17 Carat}{Adore U}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][17 Carat][Adore U][C][1].mp3?raw=true}
 {Seventeen}{17 IS RIGHT HERE}{MAESTRO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][17 IS RIGHT HERE][MAESTRO][C][1].mp3?raw=true}
 {Seventeen}{17 IS RIGHT HERE}{MAESTRO}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][17 IS RIGHT HERE][MAESTRO][DBE][1].mp3?raw=true}
