@@ -221,7 +221,7 @@
 {CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][HELLO Chapter 1. Hello, Stranger][Movie Star][C][2].mp3?raw=true}
 {CIX}{HELLO Chapter 2. Hello, Strange Place}{Numb}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][HELLO Chapter 2. Hello, Strange Place][Numb][C][1].mp3?raw=true}
 {CIX}{HELLO Chapter 3. Hello, Strange Time}{Jungle}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][HELLO Chapter 3. Hello, Strange Time][Jungle][C][1].mp3?raw=true}
-{CIX}{HELLO Chapter Ø. Hello, Strange Dream}{Cinema}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][HELLO Chapter Ø. Hello, Strange Dream][Cinema][C][1].mp3?raw=true}
+{CIX}{HELLO Chapter. Hello, Strange Dream}{Cinema}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CIX][HELLO Chapter. Hello, Strange Dream][Cinema][C][1].mp3?raw=true}
 {CLC}{Black Dress}{Black Dress}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][Black Dress][Black Dress][C][1].mp3?raw=true}
 {CLC}{CryStyle}{Hobgoblin}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][CryStyle][Hobgoblin][C][2].mp3?raw=true}
 {CLC}{Devil}{Devil}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[CLC][Devil][Devil][C][1].mp3?raw=true}
