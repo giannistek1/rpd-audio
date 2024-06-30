@@ -366,8 +366,8 @@
 {HYOLYN}{Dally}{Dally}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Dally][Dally][C][1].mp3?raw=true}
 {HYOLYN}{Layin Low}{Layin Low}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Layin Low][Layin Low][C][1].mp3?raw=true}
 {HYOLYN}{See Sea}{See Sea}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][See Sea][See Sea][C][2].mp3?raw=true}
-{HYOYEON}{Dessert}{Dessert}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][Dessert][Dessert][CDB][2].mp3?raw=true}
-{HYOYEON}{Dessert}{Dessert}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][Dessert][Dessert][C][1].mp3?raw=true}
+{HYOYEON}{DESSERT}{Dessert}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][DESSERT][Dessert][CDB][2].mp3?raw=true}
+{HYOYEON}{DESSERT}{Dessert}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][DESSERT][Dessert][C][1].mp3?raw=true}
 {HyunA & Dawn}{1 1 1}{Ping Pong}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][1 1 1][Ping Pong][P][1].mp3?raw=true}
 {HyunA}{A Talk}{Red}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][A Talk][Red][C][1].mp3?raw=true}
 {HyunA}{Bubble Pop!}{Bubble Pop!}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Bubble Pop!][Bubble Pop!][C][1].mp3?raw=true}
@@ -492,7 +492,7 @@
 {LE SERRAFIM}{ANTIFRAGILE}{No Celestial}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][ANTIFRAGILE][No Celestial][C][2].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][1].mp3?raw=true}
 {LE SERRAFIM}{EASY}{EASY}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][EASY][EASY][C][3].mp3?raw=true}
-{LE SERRAFIM}{Eve, Psyche & The Bluebeard’s Wife}{Eve, Psyche & The Bluebeards Wife}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Eve, Psyche & The Bluebeard’s Wife][Eve, Psyche & The Bluebeards Wife][C][1].mp3?raw=true}
+{LE SERRAFIM}{Eve, Psyche & The Bluebeards Wife}{Eve, Psyche & The Bluebeards Wife}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Eve, Psyche & The Bluebeards Wife][Eve, Psyche & The Bluebeards Wife][C][1].mp3?raw=true}
 {LE SERRAFIM}{FEARLESS}{Blue Flame}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][FEARLESS][Blue Flame][C][1].mp3?raw=true}
 {LE SERRAFIM}{FEARLESS}{FEARLESS}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][FEARLESS][FEARLESS][C][1].mp3?raw=true}
 {LE SERRAFIM}{Perfect Night}{Perfect Night}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Perfect Night][Perfect Night][C][1].mp3?raw=true}
