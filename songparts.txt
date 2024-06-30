@@ -764,8 +764,8 @@
 {Stray Kids}{5 STAR}{S-Class}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][5 STAR][S-Class][DB][1].mp3?raw=true}
 {Stray Kids}{5 STAR}{Super Bowl}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][5 STAR][Super Bowl][C][1].mp3?raw=true}
 {Stray Kids}{Christmas EveL}{Christmas EveL}{T}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][Christmas EveL][Christmas EveL][T][1].mp3?raw=true}
-{Stray Kids}{GO}{God’s Menu}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][GO][God’s Menu][P][1].mp3?raw=true}
-{Stray Kids}{GO}{God’s Menu}{P}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][GO][God’s Menu][P][2].mp3?raw=true}
+{Stray Kids}{GO}{Gods Menu}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][GO][Gods Menu][P][1].mp3?raw=true}
+{Stray Kids}{GO}{Gods Menu}{P}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][GO][Gods Menu][P][2].mp3?raw=true}
 {Stray Kids}{In Life}{Back Door}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][In Life][Back Door][C][1].mp3?raw=true}
 {Stray Kids}{In Life}{Back Door}{O}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][In Life][Back Door][O][1].mp3?raw=true}
 {Stray Kids}{In Life}{Easy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Stray Kids][In Life][Easy][C][1].mp3?raw=true}
