@@ -721,7 +721,7 @@
 {Seventeen}{Attacca}{Rock with you}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Attacca][Rock with you][C][1].mp3?raw=true}
 {Seventeen}{Boys Be}{Mansae}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Boys Be][Mansae][C][1].mp3?raw=true}
 {Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Going Seventeen][BOOMBOOM][C][1].mp3?raw=true}
-{Seventeen}{Henggaræ}{Left & Right}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Henggaræ][Left & Right][P][1].mp3?raw=true}
+{Seventeen}{Henggarae}{Left & Right}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Henggarae][Left & Right][P][1].mp3?raw=true}
 {Seventeen}{HIT}{Hit}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][HIT][Hit][P][1].mp3?raw=true}
 {Seventeen}{Love & Letter}{Pretty U}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Love & Letter][Pretty U][C][1].mp3?raw=true}
 {Seventeen}{Semicolon}{HOME;RUN}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Seventeen][Semicolon][HOME;RUN][C][1].mp3?raw=true}
