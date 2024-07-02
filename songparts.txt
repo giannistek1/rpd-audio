@@ -687,8 +687,8 @@
 {Red Velvet}{The Perfect Red Velvet}{Bad Boy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Perfect Red Velvet][Bad Boy][C][1].mp3?raw=true}
 {Red Velvet}{The Red Summer}{Red Flavor}{CDB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Red Summer][Red Flavor][CDB][1].mp3?raw=true}
 {Red Velvet}{The Red}{Dumb Dumb}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Red][Dumb Dumb][C][1].mp3?raw=true}
-{Red Velvet}{The Reve festival 2022 – Birthday}{Birthday}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Reve festival 2022 – Birthday][Birthday][DBE][1].mp3?raw=true}
-{Red Velvet}{The Reve festival 2022 – Birthday}{Birthday}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Reve festival 2022 – Birthday][Birthday][P][1].mp3?raw=true}
+{Red Velvet}{The Reve festival 2022 Birthday}{Birthday}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Reve festival 2022 Birthday][Birthday][DBE][1].mp3?raw=true}
+{Red Velvet}{The Reve festival 2022 Birthday}{Birthday}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The Reve festival 2022 Birthday][Birthday][P][1].mp3?raw=true}
 {Red Velvet}{The ReVe Festival Day 1}{Zimzalabim}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The ReVe Festival Day 1][Zimzalabim][CDB][2].mp3?raw=true}
 {Red Velvet}{The ReVe Festival Day 2}{Umpah Umpah}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The ReVe Festival Day 2][Umpah Umpah][C][1].mp3?raw=true}
 {Red Velvet}{The ReVe Festival Finale}{Psycho}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][The ReVe Festival Finale][Psycho][C][1].mp3?raw=true}
