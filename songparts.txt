@@ -30,8 +30,10 @@
 {A.C.E}{Siren Dawn}{Higher}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Siren Dawn][Higher][C][1].mp3?raw=true}
 {A.C.E}{Under Cover The Mad Squad}{Savage}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Under Cover The Mad Squad][Savage][C][1].mp3?raw=true}
 {A.C.E}{Under Cover}{Under Cover}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[A.C.E][Under Cover][Under Cover][C][1].mp3?raw=true}
+{ACE}{Callin}{Callin}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][Callin][Callin][C][1].mp3?raw=true}
 {ACE}{My Girl My Choice}{My Girl}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][My Girl My Choice][My Girl][C][1].mp3?raw=true}
 {ACE}{My Girl My Choice}{My Girl}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][My Girl My Choice][My Girl][P][1].mp3?raw=true}
+{ACE}{Supernatural}{Supernatural}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ACE][Supernatural][Supernatural][C][1].mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Armageddon][Armageddon][DBE][1].mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Armageddon][Armageddon][P][1].mp3?raw=true}
 {aespa}{Better Things}{Better Things}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Better Things][Better Things][CDB][2].mp3?raw=true}
@@ -318,9 +320,12 @@
 {f(x)}{4 Walls}{4 Walls}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][4 Walls][4 Walls][C][2].mp3?raw=true}
 {f(x)}{4 Walls}{4 Walls}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][4 Walls][4 Walls][P][1].mp3?raw=true}
 {f(x)}{Electric Shock}{Electric Shock}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Electric Shock][Electric Shock][C][1].mp3?raw=true}
+{f(x)}{Hot Summer}{Hot Summer}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Hot Summer][Hot Summer][C][1].mp3?raw=true}
 {f(x)}{LA chA TA}{LA chA TA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][LA chA TA][LA chA TA][C][1].mp3?raw=true}
 {f(x)}{Nu ABO}{Nu ABO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Nu ABO][Nu ABO][C][1].mp3?raw=true}
+{f(x)}{Pink Tape}{Rum Pum Pum Pum}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Pink Tape][Rum Pum Pum Pum][C][1].mp3?raw=true}
 {f(x)}{Pinocchio}{Pinocchio (Danger)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Pinocchio][Pinocchio (Danger)][C][1].mp3?raw=true}
+{f(x)}{Red Light}{Red Light}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Red Light][Red Light][C][1].mp3?raw=true}
 {fromis_9}{9 Way Ticket}{WE GO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][9 Way Ticket][WE GO][C][1].mp3?raw=true}
 {fromis_9}{From.9}{Love Bomb}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][From.9][Love Bomb][C][1].mp3?raw=true}
 {fromis_9}{FUN FACTORY}{Fun!}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][FUN FACTORY][Fun!][C][2].mp3?raw=true}
@@ -399,6 +404,7 @@
 {Infinite}{Reality}{Bad}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Reality][Bad][P][1].mp3?raw=true}
 {Irene & Seulgi}{MONSTER}{MONSTER}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi][MONSTER][MONSTER][C][1].mp3?raw=true}
 {Irene & Seulgi}{MONSTER}{Naughty}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi][MONSTER][Naughty][C][1].mp3?raw=true}
+{ITZY}{Blah Blah Blah}{Blah Blah Blah}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Blah Blah Blah][Blah Blah Blah][CDB][2].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][C][1].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][DBE][1].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][DB][1].mp3?raw=true}
@@ -620,6 +626,7 @@
 {NewJeans}{NewJeans Super Shy}{New Jeans}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][NewJeans Super Shy][New Jeans][C][1].mp3?raw=true}
 {NewJeans}{NewJeans Super Shy}{Super Shy}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][NewJeans Super Shy][Super Shy][C][2].mp3?raw=true}
 {NewJeans}{OMG}{OMG}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][OMG][OMG][C][1].mp3?raw=true}
+{NMIXX}{A Midsummer NMIXXs Dream}{Party OClock}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][A Midsummer NMIXXs Dream][Party OClock][C][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][B][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{O}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][O][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][P][1].mp3?raw=true}
