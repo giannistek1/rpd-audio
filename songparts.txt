@@ -826,7 +826,8 @@
 {Teen Top}{Addition}{Rocking}{P}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][Addition][Rocking][P][2].mp3?raw=true}
 {Teen Top}{No. 1}{Miss Right}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][No. 1][Miss Right][C][1].mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][[Addition][Rocking][P][1].mp3?raw=true}
-{Ten}{Paint Me Naked – SM STATION}{Paint Me Naked}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Ten][Paint Me Naked – SM STATION][Paint Me Naked][C][1].mp3?raw=true}
+{TEN & YANGYANG (WayV)}{Low Low}{Low Low}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN & YANGYANG (WayV)][Low Low][Low Low][C][1].mp3?raw=true}
+{TEN (NCT 127)}{Paint Me Naked}{Paint Me Naked}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN (NCT 127)][Paint Me Naked][Paint Me Naked][C][1].mp3?raw=true}
 {The Boyz}{Chase}{The Stealer}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Chase][The Stealer][C][2].mp3?raw=true}
 {The Boyz}{Dreamlike}{D.D.D}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Dreamlike][D.D.D][C][1].mp3?raw=true}
 {The Boyz}{Maverick}{Maverick}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Maverick][Maverick][C][1].mp3?raw=true}
@@ -943,7 +944,6 @@
 {Wanna One}{Nothing Without You}{Beautiful}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Wanna One][Nothing Without You][Beautiful][C][1].mp3?raw=true}
 {Wanna One}{To Be One}{Energetic}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Wanna One][To Be One][Energetic][C][1].mp3?raw=true}
 {Wanna One}{Undivided}{Light}{CDB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Wanna One][Undivided][Light][CDB][1].mp3?raw=true}
-{WayV-TEN&YANGYANG}{Low Low}{Low Low}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV-TEN&YANGYANG][Low Low][Low Low][C][1].mp3?raw=true}
 {WayV}{Awaken The World}{Bad Alive}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Awaken The World][Bad Alive][C][1].mp3?raw=true}
 {WayV}{Awaken The World}{Turn Back Time}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Awaken The World][Turn Back Time][C][1].mp3?raw=true}
 {WayV}{Awaken The World}{Turn Back Time}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Awaken The World][Turn Back Time][DB][1].mp3?raw=true}
