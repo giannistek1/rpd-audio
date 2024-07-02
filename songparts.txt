@@ -314,7 +314,13 @@
 {EXO}{Power}{Power}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO][Power][Power][C][1].mp3?raw=true}
 {EXO}{The War}{Ko Ko Bop}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO][The War][Ko Ko Bop][C][1].mp3?raw=true}
 {EXO}{The War}{The Eve}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[EXO][The War][The Eve][C][1].mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][4 Walls][4 Walls][C][1].mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][4 Walls][4 Walls][C][2].mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][4 Walls][4 Walls][P][1].mp3?raw=true}
 {f(x)}{Electric Shock}{Electric Shock}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Electric Shock][Electric Shock][C][1].mp3?raw=true}
+{f(x)}{LA chA TA}{LA chA TA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][LA chA TA][LA chA TA][C][1].mp3?raw=true}
+{f(x)}{Nu ABO}{Nu ABO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Nu ABO][Nu ABO][C][1].mp3?raw=true}
+{f(x)}{Pinocchio}{Pinocchio (Danger)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[f(x)][Pinocchio][Pinocchio (Danger)][C][1].mp3?raw=true}
 {fromis_9}{9 Way Ticket}{WE GO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][9 Way Ticket][WE GO][C][1].mp3?raw=true}
 {fromis_9}{From.9}{Love Bomb}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][From.9][Love Bomb][C][1].mp3?raw=true}
 {fromis_9}{FUN FACTORY}{Fun!}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][FUN FACTORY][Fun!][C][2].mp3?raw=true}
