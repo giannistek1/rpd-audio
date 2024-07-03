@@ -545,7 +545,7 @@
 {MOMOLAND}{Fun to The World}{BAAM}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Fun to The World][BAAM][C][1].mp3?raw=true}
 {MOMOLAND}{GREAT!}{BBoom BBoom}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][GREAT!][BBoom BBoom][C][1].mp3?raw=true}
 {MOMOLAND}{Ready Or Not}{Ready Or Not}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Ready Or Not][Ready Or Not][C][1].mp3?raw=true}
-{MOMOLAND}{Show Me}{I’m So Hot}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Show Me][I’m So Hot][C][1].mp3?raw=true}
+{MOMOLAND}{Show Me}{Im So Hot}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Show Me][Im So Hot][C][1].mp3?raw=true}
 {MOMOLAND}{Thumbs Up}{Thumbs Up}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Thumbs Up][Thumbs Up][C][1].mp3?raw=true}
 {MOMOLAND}{Welcome to MOMOLAND}{Jjan! Koong! Kwang!}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Welcome to MOMOLAND][Jjan! Koong! Kwang!][C][1].mp3?raw=true}
 {MOMOLAND}{Wonderful Love (EDM Ver.)}{Wonderful Love (EDM Ver.)}{CDB}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[MOMOLAND][Wonderful Love (EDM Ver.)][Wonderful Love (EDM Ver.)][CDB][2].mp3?raw=true}
