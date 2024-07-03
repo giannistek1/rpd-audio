@@ -613,6 +613,7 @@
 {NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT 2018 Empathy][BOSS][C][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 1}{Make A Wish}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 1][Make A Wish][P][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{90s Love}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90s Love][C][1].mp3?raw=true}
+{NCT U}{NCT Resonance Pt. 2}{90s Love}{DBE}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90s Love][DBE][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{90s Love}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][90s Love][DB][1].mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][NCT Resonance Pt. 2][Work It][C][1].mp3?raw=true}
 {NCT U}{Universe}{Universe (Lets Play Ball)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT U][Universe][Universe (Lets Play Ball)][C][1].mp3?raw=true}
@@ -689,6 +690,7 @@
 {PURPLE K!SS}{Into Violet}{Ponzona}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[PURPLE K!SS][Into Violet][Ponzona][C][1].mp3?raw=true}
 {PURPLE K!SS}{My Heart Skip a Beat}{My Heart Skip a Beat}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[PURPLE K!SS][My Heart Skip a Beat][My Heart Skip a Beat][C][1].mp3?raw=true}
 {PURPLE K!SS}{My Heart Skip a Beat}{My Heart Skip a Beat}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[PURPLE K!SS][My Heart Skip a Beat][My Heart Skip a Beat][DB][1].mp3?raw=true}
+{Red Velvet}{Cosmic}{Cosmic}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][Cosmic][Cosmic][C][1].mp3?raw=true}
 {Red Velvet}{Happiness}{Happiness}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][Happiness][Happiness][C][1].mp3?raw=true}
 {Red Velvet}{Ice Cream Cake}{Ice Cream Cake}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][Ice Cream Cake][Ice Cream Cake][C][1].mp3?raw=true}
 {Red Velvet}{Perfect Velvet}{Peek-A-Boo}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Red Velvet][Perfect Velvet][Peek-A-Boo][C][1].mp3?raw=true}
@@ -908,6 +910,8 @@
 {TWICE}{With YOU-th}{ONE SPARK}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TWICE][With YOU-th][ONE SPARK][C][1].mp3?raw=true}
 {TWICE}{With YOU-th}{ONE SPARK}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TWICE][With YOU-th][ONE SPARK][P][1].mp3?raw=true}
 {Twice}{YES or YES}{YES or YES}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][YES or YES][YES or YES][P][1].mp3?raw=true}
+{TWS}{Sparkling Blue}{plot twist}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][Sparkling Blue][plot twist][C][1].mp3?raw=true}
+{TWS}{SUMMER BEAT!}{If Im S Can You Be My N}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TWS][SUMMER BEAT!][If Im S Can You Be My N][C][1].mp3?raw=true}
 {TXT}{Minisode 1 Blue Hour}{Blue Hour}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Minisode 1 Blue Hour][Blue Hour][P][1].mp3?raw=true}
 {TXT}{Minisode 1 Blue Hour}{We Lost The Summer}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][Minisode 1 Blue Hour][We Lost The Summer][C][1].mp3?raw=true}
 {TXT}{minisode 3 TOMORROW}{Deja Vu}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][minisode 3 TOMORROW][Deja Vu][C][2].mp3?raw=true}
