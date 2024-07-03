@@ -426,7 +426,7 @@
 {ITZY}{ITz Me}{Wannabe}{V}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][ITz Me][Wannabe][V][1].mp3?raw=true}
 {ITZY}{KILL MY DOUBT}{CAKE}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][KILL MY DOUBT][CAKE][C][2].mp3?raw=true}
 {ITZY}{Not Shy}{Not Shy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Not Shy][Not Shy][C][1].mp3?raw=true}
-{ITZY}{Street Dance Girls Fighter (SGF) Special}{Weapon (With Newnion & FLOOR) (Prod. by Czaer)}{B}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Street Dance Girls Fighter (SGF) Special][Weapon (With Newnion & FLOOR) (Prod. by Czaer)][B][1].mp3?raw=true}
+{ITZY}{Street Dance Girls Fighter (SGF) Special}{Weapon (Prod. by Czaer)}{T}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Street Dance Girls Fighter (SGF) Special][Weapon (Prod. by Czaer)][T][1].mp3?raw=true}
 {IU}{BBIBBI}{BBIBBI}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][BBIBBI][BBIBBI][C][1].mp3?raw=true}
 {IU}{Chat-Shire}{Twenty-Three}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][Chat-Shire][Twenty-Three][C][1].mp3?raw=true}
 {IU}{Lilac}{Celebrity}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][Lilac][Celebrity][C][1].mp3?raw=true}
