@@ -400,6 +400,7 @@
 {iKON}{Why Why Why}{Why Why Why}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[iKON][Why Why Why][Why Why Why][C][1].mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Lucky Girl Syndrome}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][SUPER REAL ME][Lucky Girl Syndrome][C][1].mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT][SUPER REAL ME][Magnetic][C][1].mp3?raw=true}
+{ILLIT}{SUPER REAL ME}{Magnetic}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT]][SUPER REAL ME][Magnetic][C][3].mp3?raw=true}
 {Infinite}{Infinite Only}{The Eye}{CDB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Infinite Only][The Eye][CDB][1].mp3?raw=true}
 {Infinite}{Reality}{Bad}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Reality][Bad][P][1].mp3?raw=true}
 {Irene & Seulgi}{MONSTER}{MONSTER}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi][MONSTER][MONSTER][C][1].mp3?raw=true}
@@ -462,12 +463,12 @@
 {J.Y. Park}{24 34}{Whos Your Mama ft. Jessi}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][24 34][Whos Your Mama ft. Jessi][C][1].mp3?raw=true}
 {J.Y. Park}{Fever}{Fever (Short Ver.)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][Fever][Fever (Short Ver.)][C][1].mp3?raw=true}
 {J.Y. Park}{When We Disco}{When We Disco (Duet with Sunmi)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][When We Disco][When We Disco (Duet with Sunmi)][C][1].mp3?raw=true}
-{Jackson Wang}{100 Ways}{100 Ways}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang][100 Ways][100 Ways][C][2].mp3?raw=true}
-{Jackson Wang}{Pretty Please}{Pretty Please}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang][Pretty Please][Pretty Please][C][1].mp3?raw=true}
+{Jackson Wang (GOT7)}{100 Ways}{100 Ways}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][100 Ways][100 Ways][C][2].mp3?raw=true}
+{Jackson Wang (GOT7)}{Pretty Please}{Pretty Please}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Jackson Wang (GOT7)][Pretty Please][Pretty Please][C][1].mp3?raw=true}
 {Jay Park}{Mommae}{Mommae}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[Jay Park][Mommae][Mommae][C][3].mp3?raw=true}
+{JENNIE (BLACKPINK)}{SOLO}{SOLO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (BLACKPINK)][SOLO][SOLO][C][1].mp3?raw=true}
 {JENNIE (BLACKPINK)}{You & Me}{You & Me}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (BLACKPINK)][You & Me][You & Me][C][1].mp3?raw=true}
 {JENNIE (BLACKPINK)}{You & Me}{You & Me}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[JENNIE (BLACKPINK)][You & Me][You & Me][C][2].mp3?raw=true}
-{Jennie}{SOLO}{SOLO}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Jennie][SOLO][SOLO][C][1].mp3?raw=true}
 {Jessi}{Cold Blooded}{Cold Blooded}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Cold Blooded][Cold Blooded][C][1].mp3?raw=true}
 {Jessi}{Nuna}{Nunu Nana}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][Nuna][Nunu Nana][C][2].mp3?raw=true}
 {Jessi}{What Type of X}{What Type of X}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Jessi][What Type of X][What Type of X][C][1].mp3?raw=true}
@@ -480,8 +481,8 @@
 {JUST B}{Just Beat}{Tick Tock}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Beat][Tick Tock][C][1].mp3?raw=true}
 {JUST B}{Just Beat}{Try}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Beat][Try][C][1].mp3?raw=true}
 {JUST B}{Just Burn}{Damage}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Burn][Damage][C][1].mp3?raw=true}
-{KAI}{KAI}{Mmmh}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI][KAI][Mmmh][C][1].mp3?raw=true}
-{KAI}{Peaches}{Peaches}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI][Peaches][Peaches][C][1].mp3?raw=true}
+{KAI (EXO)}{KAI}{Mmmh}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][KAI][Mmmh][C][1].mp3?raw=true}
+{KAI (EXO)}{Peaches}{Peaches}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Peaches][Peaches][C][1].mp3?raw=true}
 {KARD}{Bomb Bomb}{Bomb Bomb}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Bomb Bomb][Bomb Bomb][C][1].mp3?raw=true}
 {KARD}{Don’t Recall}{Dont Recall}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Don’t Recall][Dont Recall][C][1].mp3?raw=true}
 {KARD}{Dumb Litty}{Dumb Litty}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Dumb Litty][Dumb Litty][C][1].mp3?raw=true}
@@ -510,8 +511,8 @@
 {LE SERRAFIM}{Perfect Night}{Perfect Night}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Perfect Night][Perfect Night][C][1].mp3?raw=true}
 {LE SERRAFIM}{UNFORGIVEN}{UNFORGIVEN}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][UNFORGIVEN][UNFORGIVEN][C][1].mp3?raw=true}
 {Lee Jinhyuk}{S.O.L}{I Like That}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk][S.O.L][I Like That][C][1].mp3?raw=true}
-{LISA}{LALISA}{LALISA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA][LALISA][LALISA][P][1].mp3?raw=true}
-{LISA}{LALISA}{Money}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA][LALISA][Money][C][1].mp3?raw=true}
+{LISA (BLACKPINK)}{LALISA}{LALISA}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (BLACKPINK)][LALISA][LALISA][P][1].mp3?raw=true}
+{LISA (BLACKPINK)}{LALISA}{Money}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (BLACKPINK)][LALISA][Money][C][1].mp3?raw=true}
 {LOONA}{&}{PTT (Paint The Town)}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][&][PTT (Paint The Town)][P][1].mp3?raw=true}
 {LOONA}{12 00}{Why Not}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][12 00][Why Not][C][1].mp3?raw=true}
 {LOONA}{Hashtag}{So What}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][Hashtag][So What][C][1].mp3?raw=true}
@@ -720,7 +721,7 @@
 {RIIZE}{Siren}{Siren}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Siren][Siren][C][2].mp3?raw=true}
 {RIIZE}{Talk Saxy}{Talk Saxy}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Talk Saxy][Talk Saxy][C][1].mp3?raw=true}
 {RIIZE}{Talk Saxy}{Talk Saxy}{P}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[RIIZE][Talk Saxy][Talk Saxy][P][1].mp3?raw=true}
-{Rose}{-R-}{On The Ground}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Rose][-R-][On The Ground][C][1].mp3?raw=true}
+{Rose (BLACKPINK)}{-R-}{On The Ground}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Rose (BLACKPINK)][-R-][On The Ground][C][1].mp3?raw=true}
 {SECRET NUMBER}{Fire Saturday}{Fire Saturday}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Fire Saturday][Fire Saturday][C][1].mp3?raw=true}
 {SECRET NUMBER}{Got That Boom}{Got That Boom}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Got That Boom][Got That Boom][C][1].mp3?raw=true}
 {SECRET NUMBER}{Got That Boom}{PRIVACY}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[SECRET NUMBER][Got That Boom][PRIVACY][C][1].mp3?raw=true}
@@ -835,8 +836,8 @@
 {TAEMIN (SHINee)}{Never Gonna Dance Again Act 2}{IDEA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEMIN (SHINee)][Never Gonna Dance Again Act 2][IDEA][C][1].mp3?raw=true}
 {TAEMIN (SHINee)}{Never Gonna Dance Again Act 2}{IDEA}{C}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEMIN (SHINee)][Never Gonna Dance Again Act 2][IDEA][C][2].mp3?raw=true}
 {TAEMIN (SHINee)}{WANT}{WANT}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEMIN (SHINee)][WANT][WANT][C][1].mp3?raw=true}
-{Taeyeon}{INVU}{INVU}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon][INVU][INVU][C][1].mp3?raw=true}
-{Taeyeon}{Weekend}{Weekend}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon][Weekend][Weekend][C][1].mp3?raw=true}
+{Taeyeon (SNSD)}{INVU}{INVU}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][INVU][INVU][C][1].mp3?raw=true}
+{Taeyeon (SNSD)}{Weekend}{Weekend}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Weekend][Weekend][C][1].mp3?raw=true}
 {TAEYONG (NCT 127)}{SHALALA}{SHALALA}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEYONG (NCT 127)][SHALALA][SHALALA][C][1].mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{2}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][Addition][Rocking][P][2].mp3?raw=true}
 {Teen Top}{No. 1}{Miss Right}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][No. 1][Miss Right][C][1].mp3?raw=true}
@@ -1012,4 +1013,3 @@
 {ZEROBASEONE}{YOUTH IN THE SHADE}{New Kidz on the Block}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][YOUTH IN THE SHADE][New Kidz on the Block][C][1].mp3?raw=true}
 {ZICO}{Any song}{Any song}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ZICO][Any song][Any song][C][1].mp3?raw=true}
 {ZICO}{SPOT!}{SPOT! (feat. Jennie)}{T}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[ZICO][SPOT!][SPOT! (feat. Jennie)][T][1].mp3?raw=true}
-{ILLIT}{SUPER REAL ME}{Magnetic}{C}{3}{https://github.com/giannistek1/rpd-audio/blob/main/[[ILLIT]][SUPER REAL ME][Magnetic][C][3].mp3?raw=true}
