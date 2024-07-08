@@ -967,7 +967,7 @@
 {WayV}{Awaken The World}{Turn Back Time}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Awaken The World][Turn Back Time][DB][1].mp3?raw=true}
 {WayV}{Kick Back}{Action Figure}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Kick Back][Action Figure][C][1].mp3?raw=true}
 {WayV}{Kick Back}{Kick Back}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Kick Back][Kick Back][C][1].mp3?raw=true}
-{WayV}{Love Talk (English Version)}{Love Talk – English Version}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Love Talk (English Version)][Love Talk – English Version][C][1].mp3?raw=true}
+{WayV}{Love Talk (English Version)}{Love Talk English Version}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Love Talk (English Version)][Love Talk English Version][C][1].mp3?raw=true}
 {WayV}{Take Off}{Take Off}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Take Off][Take Off][C][1].mp3?raw=true}
 {WayV}{Take Off}{Take Off}{DB}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Take Off][Take Off][DB][1].mp3?raw=true}
 {WayV}{Take Over The Moon}{Moonwalk}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[WayV][Take Over The Moon][Moonwalk][C][1].mp3?raw=true}
