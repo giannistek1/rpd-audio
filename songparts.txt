@@ -459,7 +459,7 @@
 {IZ ONE}{COLOR IZ}{Violeta}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][COLOR IZ][Violeta][C][1].mp3?raw=true}
 {IZ ONE}{One-reeler Act IV}{Panorama}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][One-reeler Act IV][Panorama][C][1].mp3?raw=true}
 {IZ ONE}{Oneiric Diary}{Secret Story of the Swan}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[IZ ONE][Oneiric Diary][Secret Story of the Swan][C][1].mp3?raw=true}
-{J-Hope}{Chicken Noodle Soup}{Chicken Noodle Soup feat. Becky G}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J-Hope][Chicken Noodle Soup][Chicken Noodle Soup feat. Becky G][C][1].mp3?raw=true}
+{J-Hope (BTS)}{Chicken Noodle Soup}{Chicken Noodle Soup feat. Becky G}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J-Hope (BTS)][Chicken Noodle Soup][Chicken Noodle Soup feat. Becky G][C][1].mp3?raw=true}
 {J.Y. Park}{24 34}{Whos Your Mama ft. Jessi}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][24 34][Whos Your Mama ft. Jessi][C][1].mp3?raw=true}
 {J.Y. Park}{Fever}{Fever (Short Ver.)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][Fever][Fever (Short Ver.)][C][1].mp3?raw=true}
 {J.Y. Park}{When We Disco}{When We Disco (Duet with Sunmi)}{C}{1}{https://github.com/giannistek1/rpd-audio/blob/main/[J.Y. Park][When We Disco][When We Disco (Duet with Sunmi)][C][1].mp3?raw=true}
