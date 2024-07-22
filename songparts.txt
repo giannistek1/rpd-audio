@@ -8,6 +8,7 @@
 {(G)I-DLE}{I Love}{Nxde}{C}{1}{39,456}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][I Love][Nxde][C][1].mp3?raw=true}
 {(G)I-DLE}{I Made}{Senorita}{C}{1}{39,131375}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][I Made][Senorita][C][1].mp3?raw=true}
 {(G)I-DLE}{I Never Die}{Tomboy}{P}{1}{28,2905625}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][I Never Die][Tomboy][P][1].mp3?raw=true}
+{(G)I-DLE}{I Sway}{Klaxon}{C}{1}{42,12}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][I Sway][Klaxon][C][1].mp3?raw=true}
 {(G)I-DLE}{I Trust}{Oh My God}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][I Trust][Oh My God][C][1].mp3?raw=true}
 {(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}{41,0905625}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][Queendom Final Comeback][LION][C][1].mp3?raw=true}
 {(G)I-DLE}{Uh-Oh}{Uh-Oh}{C}{1}{35,8660625}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][Uh-Oh][Uh-Oh][C][1].mp3?raw=true}
@@ -46,6 +47,8 @@
 {aespa}{Girls}{Girls}{DB}{1}{26,76}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Girls][Girls][DB][1].mp3?raw=true}
 {aespa}{Girls}{Girls}{P}{1}{42,264}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Girls][Girls][P][1].mp3?raw=true}
 {aespa}{Hold On Tight}{Hold On Tight}{T}{1}{23,76}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hold On Tight][Hold On Tight][T][1].mp3?raw=true}
+{aespa}{Hot Mess}{Hot Mess}{C}{1}{41,448}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hot Mess][Hot Mess][C][1].mp3?raw=true}
+{aespa}{Hot Mess}{Hot Mess}{DBC}{1}{58,584}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hot Mess][Hot Mess][DBC][1].mp3?raw=true}
 {aespa}{Illusion}{Illusion}{C}{1}{46,32}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Illusion][Illusion][C][1].mp3?raw=true}
 {aespa}{MY WORLD}{Spicy}{C}{1}{44,904}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][MY WORLD][Spicy][C][1].mp3?raw=true}
 {aespa}{Next Level}{Next Level}{P}{1}{32,91425}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Next Level][Next Level][P][1].mp3?raw=true}
@@ -132,6 +135,7 @@
 {BABYMONSTER}{BATTER UP}{BATTER UP}{C}{1}{26,4}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][BATTER UP][BATTER UP][C][1].mp3?raw=true}
 {BABYMONSTER}{BATTER UP}{BATTER UP}{DB}{1}{43,368}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][BATTER UP][BATTER UP][DB][1].mp3?raw=true}
 {BABYMONSTER}{BATTER UP}{BATTER UP}{P}{1}{34,248}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][BATTER UP][BATTER UP][P][1].mp3?raw=true}
+{BABYMONSTER}{FOREVER}{FOREVER}{C}{1}{43,416}{https://github.com/giannistek1/rpd-audio/blob/main/[BABYMONSTER][FOREVER][FOREVER][C][1].mp3?raw=true}
 {BADVILLAIN}{OVERSTEP}{BADVILLAIN}{C}{1}{23,184}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][OVERSTEP][BADVILLAIN][C][1].mp3?raw=true}
 {Baekhyun}{Delight}{Candy}{C}{1}{31,1640625}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun][Delight][Candy][C][1].mp3?raw=true}
 {BEAST}{Fiction and Fact}{Fiction}{C}{1}{36,3363125}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Fiction and Fact][Fiction][C][1].mp3?raw=true}
@@ -287,6 +291,9 @@
 {ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{CDB}{2}{33,768}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][CDB][2].mp3?raw=true}
 {ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{C}{1}{38,76}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][C][1].mp3?raw=true}
 {ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{DBC}{1}{53,136}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][DBC][1].mp3?raw=true}
+{ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{1}{18,624}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][1].mp3?raw=true}
+{ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{2}{36,0}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][2].mp3?raw=true}
+{ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{3}{37,032}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][3].mp3?raw=true}
 {EVERGLOW}{-77.82X-78.29}{La Di Da}{P}{1}{36,3624375}{https://github.com/giannistek1/rpd-audio/blob/main/[EVERGLOW][-77.82X-78.29][La Di Da][P][1].mp3?raw=true}
 {EVERGLOW}{ALL MY GIRLS}{SLAY}{C}{1}{48,0}{https://github.com/giannistek1/rpd-audio/blob/main/[EVERGLOW][ALL MY GIRLS][SLAY][C][1].mp3?raw=true}
 {EVERGLOW}{Arrival of Everglow}{Bon Bon Chocolat}{P}{1}{30,171375}{https://github.com/giannistek1/rpd-audio/blob/main/[EVERGLOW][Arrival of Everglow][Bon Bon Chocolat][P][1].mp3?raw=true}
