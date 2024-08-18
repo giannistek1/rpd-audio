@@ -769,6 +769,8 @@
 {SHINee}{Odd}{View}{C}{1}{34,9518125}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINee][Odd][View][C][1].mp3?raw=true}
 {SHINee}{Replay}{Replay}{C}{1}{25,417125}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINee][Replay][Replay][C][1].mp3?raw=true}
 {SHINee}{Sherlock}{Sherlock}{C}{1}{27,0366875}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINee][Sherlock][Sherlock][C][1].mp3?raw=true}
+{SHINHWA}{Resolver}{Resolver}{CDB}{3}{50,568}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][Resolver][Resolver][CDB][3].mp3?raw=true}
+{SHINHWA}{Resolver}{Resolver}{C}{1}{25,2}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][Resolver][Resolver][C][1].mp3?raw=true}
 {SISTAR}{Touch N Move}{Touch My Body}{C}{1}{49,580375}{https://github.com/giannistek1/rpd-audio/blob/main/[SISTAR][Touch N Move][Touch My Body][C][1].mp3?raw=true}
 {Solar (MAMAMOO)}{COLOURS}{Colors}{C}{1}{44,52}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (MAMAMOO)][COLOURS][Colors][C][1].mp3?raw=true}
 {Solar (MAMAMOO)}{Spit It Out}{Spit It Out}{C}{1}{41,016}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (MAMAMOO)][Spit It Out][Spit It Out][C][1].mp3?raw=true}
