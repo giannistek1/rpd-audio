@@ -56,6 +56,8 @@
 {aespa}{Supernova}{Supernova}{DB}{1}{30,048}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Supernova][Supernova][DB][1].mp3?raw=true}
 {aespa}{Supernova}{Supernova}{P}{1}{35,304}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Supernova][Supernova][P][1].mp3?raw=true}
 {Agust D (BTS)}{D-2}{Daechwita}{C}{3}{31,52975}{https://github.com/giannistek1/rpd-audio/blob/main/[Agust D (BTS)][D-2][Daechwita][C][3].mp3?raw=true}
+{Ailee}{Invitation}{I Will Show You}{CE}{3}{52,896}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Invitation][I Will Show You][CE][3].mp3?raw=true}
+{Ailee}{Invitation}{I Will Show You}{C}{1}{38,784}{https://github.com/giannistek1/rpd-audio/blob/main/[Ailee][Invitation][I Will Show You][C][1].mp3?raw=true}
 {AOA}{Angels Knock}{Excuse Me}{C}{3}{34,7950625}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Angels Knock][Excuse Me][C][3].mp3?raw=true}
 {AOA}{Bingle Bangle}{Bingle Bangle}{C}{1}{23,6930625}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Bingle Bangle][Bingle Bangle][C][1].mp3?raw=true}
 {AOA}{Good Luck}{Good Luck}{C}{1}{29,07425}{https://github.com/giannistek1/rpd-audio/blob/main/[AOA][Good Luck][Good Luck][C][1].mp3?raw=true}
