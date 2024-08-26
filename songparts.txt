@@ -505,6 +505,9 @@
 {KARD}{Rumor}{Rumor}{C}{1}{36,702}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Rumor][Rumor][C][1].mp3?raw=true}
 {KARD}{Way with words}{Gunshot}{C}{1}{23,4579375}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Way with words][Gunshot][C][1].mp3?raw=true}
 {KARD}{You & Me}{You in Me}{C}{1}{26,749375}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][You & Me][You in Me][C][1].mp3?raw=true}
+{KARINA (aespa)}{aespa}{Dopamine}{C}{1}{35,592}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][Dopamine][C][1].mp3?raw=true}
+{KARINA (aespa)}{aespa}{Dopamine}{DB}{1}{41,568}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][Dopamine][DB][1].mp3?raw=true}
+{KARINA (aespa)}{aespa}{UP}{C}{1}{27,624}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][UP][C][1].mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{1}{27,888}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Debut][Debut][C][1].mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{2}{55,056}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Debut][Debut][C][2].mp3?raw=true}
 {KATSEYE}{Touch}{Touch}{C}{1}{33,288}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Touch][Touch][C][1].mp3?raw=true}
