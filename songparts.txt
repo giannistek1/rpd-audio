@@ -862,7 +862,7 @@
 {Teen Top}{No. 1}{Miss Right}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][No. 1][Miss Right][C][1].mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{1}{32,9665}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][[Addition][Rocking][P][1].mp3?raw=true}
 {TEN & YANGYANG (WayV)}{Low Low}{Low Low}{C}{1}{26,488125}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN & YANGYANG (WayV)][Low Low][Low Low][C][1].mp3?raw=true}
-{TEN (NCT 127)}{Paint Me Naked}{Paint Me Naked}{C}{1}{33,4105625}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN (NCT 127)][Paint Me Naked][Paint Me Naked][C][1].mp3?raw=true}
+{TEN (NCT)}{Paint Me Naked}{Paint Me Naked}{C}{1}{33,4105625}{https://github.com/giannistek1/rpd-audio/blob/main/[TEN (NCT)][Paint Me Naked][Paint Me Naked][C][1].mp3?raw=true}
 {The Boyz}{Chase}{The Stealer}{C}{2}{29,048125}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Chase][The Stealer][C][2].mp3?raw=true}
 {The Boyz}{Dreamlike}{D.D.D}{C}{1}{30,6155}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Dreamlike][D.D.D][C][1].mp3?raw=true}
 {The Boyz}{Maverick}{Maverick}{C}{1}{45,60975}{https://github.com/giannistek1/rpd-audio/blob/main/[The Boyz][Maverick][Maverick][C][1].mp3?raw=true}
