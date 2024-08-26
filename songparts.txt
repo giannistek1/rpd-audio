@@ -492,6 +492,9 @@
 {JUST B}{Just Burn}{Damage}{C}{1}{30,8244375}{https://github.com/giannistek1/rpd-audio/blob/main/[JUST B][Just Burn][Damage][C][1].mp3?raw=true}
 {KAI (EXO)}{KAI}{Mmmh}{C}{1}{32,2350625}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][KAI][Mmmh][C][1].mp3?raw=true}
 {KAI (EXO)}{Peaches}{Peaches}{C}{1}{31,84325}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI (EXO)][Peaches][Peaches][C][1].mp3?raw=true}
+{KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][2022 Winter SMTOWN SMCU PALACE][Hot & Cold][C][1].mp3?raw=true}
+{KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{2}{45,36}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][2022 Winter SMTOWN SMCU PALACE][Hot & Cold][C][2].mp3?raw=true}
+{KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{3}{46,728}{https://github.com/giannistek1/rpd-audio/blob/main/[KAI, SEULGI, JENO, KARINA][2022 Winter SMTOWN SMCU PALACE][Hot & Cold][C][3].mp3?raw=true}
 {KARD}{Bomb Bomb}{Bomb Bomb}{C}{1}{25,0775}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Bomb Bomb][Bomb Bomb][C][1].mp3?raw=true}
 {KARD}{Don’t Recall}{Dont Recall}{C}{1}{47,4905625}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Don’t Recall][Dont Recall][C][1].mp3?raw=true}
 {KARD}{Dumb Litty}{Dumb Litty}{C}{1}{23,3795625}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Dumb Litty][Dumb Litty][C][1].mp3?raw=true}
