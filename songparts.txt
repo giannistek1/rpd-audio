@@ -360,6 +360,8 @@
 {Girls Generation (SNSD)}{Run Devil Run}{Run Devil Run}{C}{1}{37,041625}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][Run Devil Run][Run Devil Run][C][1].mp3?raw=true}
 {Girls Generation (SNSD)}{Tell Me Your Wish}{Genie}{C}{1}{35,78775}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][Tell Me Your Wish][Genie][C][1].mp3?raw=true}
 {Girls Generation (SNSD)}{The Boys}{The Boys}{C}{1}{22,67425}{https://github.com/giannistek1/rpd-audio/blob/main/[Girls Generation (SNSD)][The Boys][The Boys][C][1].mp3?raw=true}
+{GISELLE (aespa)}{aespa}{Dopamine}{C}{1}{35,592}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][aespa][Dopamine][C][1].mp3?raw=true}
+{GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}{41,568}{https://github.com/giannistek1/rpd-audio/blob/main/[GISELLE (aespa)][aespa][Dopamine][DB][1].mp3?raw=true}
 {GOT The Beat}{Step Back}{Step Back}{C}{1}{29,7011875}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT The Beat][Step Back][Step Back][C][1].mp3?raw=true}
 {GOT7}{Breath of Love Last Piece}{Breath}{C}{1}{33,4105625}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT7][Breath of Love Last Piece][Breath][C][1].mp3?raw=true}
 {GOT7}{Call My Name}{You Calling My Name}{P}{2}{37,82525}{https://github.com/giannistek1/rpd-audio/blob/main/[GOT7][Call My Name][You Calling My Name][P][2].mp3?raw=true}
@@ -505,8 +507,6 @@
 {KARD}{Rumor}{Rumor}{C}{1}{36,702}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Rumor][Rumor][C][1].mp3?raw=true}
 {KARD}{Way with words}{Gunshot}{C}{1}{23,4579375}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][Way with words][Gunshot][C][1].mp3?raw=true}
 {KARD}{You & Me}{You in Me}{C}{1}{26,749375}{https://github.com/giannistek1/rpd-audio/blob/main/[KARD][You & Me][You in Me][C][1].mp3?raw=true}
-{KARINA (aespa)}{aespa}{Dopamine}{C}{1}{35,592}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][Dopamine][C][1].mp3?raw=true}
-{KARINA (aespa)}{aespa}{Dopamine}{DB}{1}{41,568}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][Dopamine][DB][1].mp3?raw=true}
 {KARINA (aespa)}{aespa}{UP}{C}{1}{27,624}{https://github.com/giannistek1/rpd-audio/blob/main/[KARINA (aespa)][aespa][UP][C][1].mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{1}{27,888}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Debut][Debut][C][1].mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{2}{55,056}{https://github.com/giannistek1/rpd-audio/blob/main/[KATSEYE][Debut][Debut][C][2].mp3?raw=true}
