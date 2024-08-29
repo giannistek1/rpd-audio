@@ -379,12 +379,12 @@
 {H.I.N.P}{30 Girls 6 Concepts}{Rumor}{C}{1}{28,133875}{https://github.com/giannistek1/rpd-audio/blob/main/[H.I.N.P][30 Girls 6 Concepts][Rumor][C][1].mp3?raw=true}
 {Highlight}{Celebrate}{Can Be Better}{C}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/[Highlight][Celebrate][Can Be Better][C][1].mp3?raw=true}
 {HINAPIA}{New Start}{DRIP}{C}{1}{37,1983125}{https://github.com/giannistek1/rpd-audio/blob/main/[HINAPIA][New Start][DRIP][C][1].mp3?raw=true}
-{HWASA (MAMAMOO)}{Guilty Pleasure}{Im a B}{C}{1}{32,1566875}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][Guilty Pleasure][Im a B][C][1].mp3?raw=true}
-{HWASA (MAMAMOO)}{I Love My Body}{I Love My Body}{CDB}{3}{36,648}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][I Love My Body][I Love My Body][CDB][3].mp3?raw=true}
-{HWASA (MAMAMOO)}{I Love My Body}{I Love My Body}{C}{1}{22,632}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][I Love My Body][I Love My Body][C][1].mp3?raw=true}
-{HWASA (MAMAMOO)}{I Love My Body}{I Love My Body}{DB}{1}{23,832}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][I Love My Body][I Love My Body][DB][1].mp3?raw=true}
-{HWASA (MAMAMOO)}{Maria}{Maria}{P}{1}{41,9265}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][Maria][Maria][P][1].mp3?raw=true}
-{HWASA (MAMAMOO)}{TWIT}{TWIT}{C}{1}{34,5860625}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (MAMAMOO)][TWIT][TWIT][C][1].mp3?raw=true}
+{HWASA (Mamamoo)}{Guilty Pleasure}{Im a B}{C}{1}{32,1566875}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][Guilty Pleasure][Im a B][C][1].mp3?raw=true}
+{HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{CDB}{3}{36,648}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][I Love My Body][I Love My Body][CDB][3].mp3?raw=true}
+{HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{C}{1}{22,632}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][I Love My Body][I Love My Body][C][1].mp3?raw=true}
+{HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{DB}{1}{23,832}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][I Love My Body][I Love My Body][DB][1].mp3?raw=true}
+{HWASA (Mamamoo)}{Maria}{Maria}{P}{1}{41,9265}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][Maria][Maria][P][1].mp3?raw=true}
+{HWASA (Mamamoo)}{TWIT}{TWIT}{C}{1}{34,5860625}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][TWIT][TWIT][C][1].mp3?raw=true}
 {HYOLYN}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Dally][Dally][C][1].mp3?raw=true}
 {HYOLYN}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Layin Low][Layin Low][C][1].mp3?raw=true}
 {HYOLYN}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][See Sea][See Sea][C][2].mp3?raw=true}
@@ -785,7 +785,7 @@
 {SHINHWA}{Resolver}{Resolver}{CDB}{3}{50,568}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][Resolver][Resolver][CDB][3].mp3?raw=true}
 {SHINHWA}{Resolver}{Resolver}{C}{1}{25,2}{https://github.com/giannistek1/rpd-audio/blob/main/[SHINHWA][Resolver][Resolver][C][1].mp3?raw=true}
 {SISTAR}{Touch N Move}{Touch My Body}{C}{1}{49,580375}{https://github.com/giannistek1/rpd-audio/blob/main/[SISTAR][Touch N Move][Touch My Body][C][1].mp3?raw=true}
-{Solar (MAMAMOO)}{COLOURS}{Colors}{C}{1}{44,52}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (MAMAMOO)][COLOURS][Colors][C][1].mp3?raw=true}
+{Solar (Mamamoo)}{COLOURS}{Colors}{C}{1}{44,52}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (Mamamoo)][COLOURS][Colors][C][1].mp3?raw=true}
 {Solar (MAMAMOO)}{Spit It Out}{Spit It Out}{C}{1}{41,016}{https://github.com/giannistek1/rpd-audio/blob/main/[Solar (MAMAMOO)][Spit It Out][Spit It Out][C][1].mp3?raw=true}
 {SOMI}{Birthday}{Birthday}{C}{1}{25,6260625}{https://github.com/giannistek1/rpd-audio/blob/main/[SOMI][Birthday][Birthday][C][1].mp3?raw=true}
 {SOMI}{Dumb Dumb}{Dumb Dumb}{C}{1}{25,2865}{https://github.com/giannistek1/rpd-audio/blob/main/[SOMI][Dumb Dumb][Dumb Dumb][C][1].mp3?raw=true}
