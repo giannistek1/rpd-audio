@@ -388,8 +388,8 @@
 {HYOLYN}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Dally][Dally][C][1].mp3?raw=true}
 {HYOLYN}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Layin Low][Layin Low][C][1].mp3?raw=true}
 {HYOLYN}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][See Sea][See Sea][C][2].mp3?raw=true}
-{HYOYEON}{DESSERT}{DESSERT}{CDB}{2}{39,444875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][DESSERT][DESSERT][CDB][2].mp3?raw=true}
-{HYOYEON}{DESSERT}{DESSERT}{C}{1}{22,88325}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON][DESSERT][DESSERT][C][1].mp3?raw=true}
+{HYOYEON (SNSD)}{DESSERT}{DESSERT}{CDB}{2}{39,444875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DESSERT][DESSERT][CDB][2].mp3?raw=true}
+{HYOYEON (SNSD)}{DESSERT}{DESSERT}{C}{1}{22,88325}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DESSERT][DESSERT][C][1].mp3?raw=true}
 {HyunA & Dawn}{1 1 1}{Ping Pong}{P}{1}{29,6750625}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][1 1 1][Ping Pong][P][1].mp3?raw=true}
 {HyunA}{A Talk}{Red}{C}{1}{28,16}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][A Talk][Red][C][1].mp3?raw=true}
 {HyunA}{Bubble Pop!}{Bubble Pop!}{C}{1}{45,662}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA][Bubble Pop!][Bubble Pop!][C][1].mp3?raw=true}
