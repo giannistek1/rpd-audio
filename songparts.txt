@@ -385,9 +385,9 @@
 {HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{DB}{1}{23,832}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][I Love My Body][I Love My Body][DB][1].mp3?raw=true}
 {HWASA (Mamamoo)}{Maria}{Maria}{P}{1}{41,9265}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][Maria][Maria][P][1].mp3?raw=true}
 {HWASA (Mamamoo)}{TWIT}{TWIT}{C}{1}{34,5860625}{https://github.com/giannistek1/rpd-audio/blob/main/[HWASA (Mamamoo)][TWIT][TWIT][C][1].mp3?raw=true}
-{HYOLYN}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Dally][Dally][C][1].mp3?raw=true}
-{HYOLYN}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][Layin Low][Layin Low][C][1].mp3?raw=true}
-{HYOLYN}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN][See Sea][See Sea][C][2].mp3?raw=true}
+{HYOLYN (SISTAR)}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN (SISTAR)][Dally][Dally][C][1].mp3?raw=true}
+{HYOLYN (SISTAR)}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN (SISTAR)][Layin Low][Layin Low][C][1].mp3?raw=true}
+{HYOLYN (SISTAR)}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOLYN (SISTAR)][See Sea][See Sea][C][2].mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{CDB}{2}{39,444875}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DESSERT][DESSERT][CDB][2].mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{C}{1}{22,88325}{https://github.com/giannistek1/rpd-audio/blob/main/[HYOYEON (SNSD)][DESSERT][DESSERT][C][1].mp3?raw=true}
 {HyunA & Dawn}{1 1 1}{Ping Pong}{P}{1}{29,6750625}{https://github.com/giannistek1/rpd-audio/blob/main/[HyunA & Dawn][1 1 1][Ping Pong][P][1].mp3?raw=true}
