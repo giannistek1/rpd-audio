@@ -529,7 +529,7 @@
 {LE SERRAFIM}{FEARLESS}{FEARLESS}{C}{1}{36,96}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][FEARLESS][FEARLESS][C][1].mp3?raw=true}
 {LE SERRAFIM}{Perfect Night}{Perfect Night}{C}{1}{40,128}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][Perfect Night][Perfect Night][C][1].mp3?raw=true}
 {LE SERRAFIM}{UNFORGIVEN}{UNFORGIVEN}{C}{1}{37,296}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][UNFORGIVEN][UNFORGIVEN][C][1].mp3?raw=true}
-{Lee Jinhyuk}{S.O.L}{I Like That}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk][S.O.L][I Like That][C][1].mp3?raw=true}
+{Lee Jinhyuk (UP10TION)}{S.O.L}{I Like That}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/[Lee Jinhyuk (UP10TION)][S.O.L][I Like That][C][1].mp3?raw=true}
 {LISA (Blackpink)}{LALISA}{LALISA}{P}{1}{34,324875}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][LALISA][LALISA][P][1].mp3?raw=true}
 {LISA (Blackpink)}{LALISA}{Money}{C}{1}{18,755875}{https://github.com/giannistek1/rpd-audio/blob/main/[LISA (Blackpink)][LALISA][Money][C][1].mp3?raw=true}
 {LOONA}{&}{PTT (Paint The Town)}{P}{1}{41,4563125}{https://github.com/giannistek1/rpd-audio/blob/main/[LOONA][&][PTT (Paint The Town)][P][1].mp3?raw=true}
