@@ -414,8 +414,8 @@
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{3}{39,984}{https://github.com/giannistek1/rpd-audio/blob/main/[ILLIT]][SUPER REAL ME][Magnetic][C][3].mp3?raw=true}
 {Infinite}{Infinite Only}{The Eye}{CDB}{1}{54,77875}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Infinite Only][The Eye][CDB][1].mp3?raw=true}
 {Infinite}{Reality}{Bad}{P}{1}{32,6269375}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Reality][Bad][P][1].mp3?raw=true}
-{Irene & Seulgi}{MONSTER}{MONSTER}{C}{1}{28,5518125}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi][MONSTER][MONSTER][C][1].mp3?raw=true}
-{Irene & Seulgi}{MONSTER}{Naughty}{C}{1}{26,2530625}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi][MONSTER][Naughty][C][1].mp3?raw=true}
+{Irene & Seulgi (Red Velvet)}{MONSTER}{MONSTER}{C}{1}{28,5518125}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][MONSTER][MONSTER][C][1].mp3?raw=true}
+{Irene & Seulgi (Red Velvet)}{MONSTER}{Naughty}{C}{1}{26,2530625}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][MONSTER][Naughty][C][1].mp3?raw=true}
 {ITZY}{Blah Blah Blah}{Blah Blah Blah}{CDB}{2}{40,056}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Blah Blah Blah][Blah Blah Blah][CDB][2].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{C}{1}{33,984}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][C][1].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{DBE}{1}{49,824}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][DBE][1].mp3?raw=true}
