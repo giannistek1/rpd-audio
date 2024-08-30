@@ -921,6 +921,7 @@
 {Twice}{More & More}{More & More}{P}{1}{39,653875}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][More & More][More & More][P][1].mp3?raw=true}
 {Twice}{Page Two}{CHEER UP}{P}{1}{37,041625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Page Two][CHEER UP][P][1].mp3?raw=true}
 {Twice}{Perfect World}{Perfect World}{C}{1}{38,008125}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Perfect World][Perfect World][C][1].mp3?raw=true}
+{Twice}{READY TO BE}{SET ME FREE}{P}{1}{47,304}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][READY TO BE][SET ME FREE][P][1].mp3?raw=true}
 {Twice}{Signal}{Signal}{C}{1}{35,0824375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Signal][Signal][C][1].mp3?raw=true}
 {Twice}{Signal}{Signal}{C}{2}{44,0685625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Signal][Signal][C][2].mp3?raw=true}
 {Twice}{Summer Nights}{Dance The Night Away}{P}{1}{35,291375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Summer Nights][Dance The Night Away][P][1].mp3?raw=true}
