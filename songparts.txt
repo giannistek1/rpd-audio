@@ -48,7 +48,7 @@
 {aespa}{Girls}{Girls}{P}{1}{42,264}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Girls][Girls][P][1].mp3?raw=true}
 {aespa}{Hold On Tight}{Hold On Tight}{T}{1}{23,76}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hold On Tight][Hold On Tight][T][1].mp3?raw=true}
 {aespa}{Hot Mess}{Hot Mess}{C}{1}{41,448}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hot Mess][Hot Mess][C][1].mp3?raw=true}
-{aespa}{Hot Mess}{Hot Mess}{DBC}{1}{58,584}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hot Mess][Hot Mess][DBC][1].mp3?raw=true}
+{aespa}{Hot Mess}{Hot Mess}{DBE}{1}{58,584}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Hot Mess][Hot Mess][DBE][1].mp3?raw=true}
 {aespa}{Illusion}{Illusion}{C}{1}{46,32}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Illusion][Illusion][C][1].mp3?raw=true}
 {aespa}{MY WORLD}{Spicy}{C}{1}{44,904}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][MY WORLD][Spicy][C][1].mp3?raw=true}
 {aespa}{Next Level}{Next Level}{P}{1}{32,91425}{https://github.com/giannistek1/rpd-audio/blob/main/[aespa][Next Level][Next Level][P][1].mp3?raw=true}
@@ -294,7 +294,7 @@
 {ENHYPEN}{ORANGE BLOOD}{Still Monster}{P}{1}{50,328}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Still Monster][P][1].mp3?raw=true}
 {ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{CDB}{2}{33,768}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][CDB][2].mp3?raw=true}
 {ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{C}{1}{38,76}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][C][1].mp3?raw=true}
-{ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{DBC}{1}{53,136}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][DBC][1].mp3?raw=true}
+{ENHYPEN}{ORANGE BLOOD}{Sweet Venom}{DBE}{1}{53,136}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ORANGE BLOOD][Sweet Venom][DBE][1].mp3?raw=true}
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{1}{18,624}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][1].mp3?raw=true}
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{2}{36,0}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][2].mp3?raw=true}
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{3}{37,032}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][ROMANCE UNTOLD][XO (Only If You Say Yes)][C][3].mp3?raw=true}
