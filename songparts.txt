@@ -924,7 +924,7 @@
 {Twice}{Summer Nights}{Dance The Night Away}{P}{1}{35,291375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Summer Nights][Dance The Night Away][P][1].mp3?raw=true}
 {Twice}{Taste of Love}{Alcohol-Free}{C}{1}{45,0089375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Taste of Love][Alcohol-Free][C][1].mp3?raw=true}
 {Twice}{The Feels}{The Feels}{P}{2}{53,0024375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][The Feels][The Feels][P][2].mp3?raw=true}
-{Twice}{The Story Begins}{Like OOH-AHH}{DBC}{3}{48,48325}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][The Story Begins][Like OOH-AHH][DBC][3].mp3?raw=true}
+{Twice}{The Story Begins}{Like OOH-AHH}{DBE}{1}{48,48325}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][The Story Begins][Like OOH-AHH][DBE][1].mp3?raw=true}
 {Twice}{The Story Begins}{Like OOH-AHH}{P}{1}{41,743625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][The Story Begins][Like OOH-AHH][P][1].mp3?raw=true}
 {Twice}{TWICEcoaster Lane 1}{TT}{P}{1}{41,1950625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICEcoaster Lane 1][TT][P][1].mp3?raw=true}
 {Twice}{TWICEcoaster Lane 2}{Knock Knock}{C}{1}{38,217125}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][TWICEcoaster Lane 2][Knock Knock][C][1].mp3?raw=true}
