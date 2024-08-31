@@ -528,6 +528,8 @@
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{1}{36,936}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][KISS OF LIFE][Shhh][CDB][1].mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{2}{41,352}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][KISS OF LIFE][Shhh][CDB][2].mp3?raw=true}
 {KISS OF LIFE}{Midas Touch}{Midas Touch}{C}{1}{24,216}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][Midas Touch][Midas Touch][C][1].mp3?raw=true}
+{KISS OF LIFE}{Sticky}{Sticky}{C}{1}{27,96}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][Sticky][Sticky][C][1].mp3?raw=true}
+{KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}{25,56}{https://github.com/giannistek1/rpd-audio/blob/main/[KISS OF LIFE][Sticky][Te Quiero][C][1].mp3?raw=true}
 {LE SERRAFIM}{ANTIFRAGILE}{ANTIFRAGILE}{C}{1}{36,456}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][ANTIFRAGILE][ANTIFRAGILE][C][1].mp3?raw=true}
 {LE SERRAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}{35,496}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][ANTIFRAGILE][No Celestial][C][1].mp3?raw=true}
 {LE SERRAFIM}{ANTIFRAGILE}{No Celestial}{C}{2}{51,12}{https://github.com/giannistek1/rpd-audio/blob/main/[LE SERRAFIM][ANTIFRAGILE][No Celestial][C][2].mp3?raw=true}
@@ -976,6 +978,7 @@
 {VICTON}{Nostalgia}{Nostalgic Night}{C}{1}{36,2840625}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Nostalgia][Nostalgic Night][C][1].mp3?raw=true}
 {VICTON}{Voice The Future is Now}{What I Said}{C}{1}{48,16975}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice The Future is Now][What I Said][C][1].mp3?raw=true}
 {VIVIZ}{Beam of Prism}{BOP BOP!}{C}{1}{37,6163125}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Beam of Prism][BOP BOP!][C][1].mp3?raw=true}
+{VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}{41,16}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Summer Vibe][LOVEADE][C][1].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{CE}{3}{50,904}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][CE][3].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{C}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][C][1].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{C}{3}{29,784}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][C][3].mp3?raw=true}
