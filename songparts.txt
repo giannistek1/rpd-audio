@@ -1038,6 +1038,7 @@
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][C][2].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][DB][1].mp3?raw=true}
 {Yuju}{REC}{Play}{C}{1}{38,112625}{https://github.com/giannistek1/rpd-audio/blob/main/[Yuju][REC][Play][C][1].mp3?raw=true}
+{ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}{25,92}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][Cinema Paradise][Good So Bad][C][1].mp3?raw=true}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}{32,592}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][MELTING POINT][CRUSH][C][1].mp3?raw=true}
 {ZEROBASEONE}{MELTING POINT}{MELTING POINT}{C}{1}{40,968}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][MELTING POINT][MELTING POINT][C][1].mp3?raw=true}
 {ZEROBASEONE}{SWEAT}{SWEAT}{C}{1}{45,432}{https://github.com/giannistek1/rpd-audio/blob/main/[ZEROBASEONE][SWEAT][SWEAT][C][1].mp3?raw=true}
