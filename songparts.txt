@@ -176,6 +176,8 @@
 {BoA}{ID; Peace B}{ID; Peace B}{DB}{1}{20,088}{https://github.com/giannistek1/rpd-audio/blob/main/[BoA][ID; Peace B][ID; Peace B][DB][1].mp3?raw=true}
 {BOYNEXTDOOR}{WHO!}{One and Only}{C}{1}{36,36}{https://github.com/giannistek1/rpd-audio/blob/main/[BOYNEXTDOOR][WHO!][One and Only][C][1].mp3?raw=true}
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}{42,192}{https://github.com/giannistek1/rpd-audio/blob/main/[BOYS PLANET (ZEROBASEONE)][BOYS PLANET - FINAL TOP9 BATTLE][Jelly Pop][C][1].mp3?raw=true}
+{BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}{46,152}{https://github.com/giannistek1/rpd-audio/blob/main/[BOYS PLANET (ZEROBASEONE)][Here I Am][Here I Am][C][1].mp3?raw=true}
+{BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}{41,16}{https://github.com/giannistek1/rpd-audio/blob/main/[BOYS PLANET (ZEROBASEONE)][Here I Am][Here I Am][DB][1].mp3?raw=true}
 {Brave Girls}{Rollin}{Rollin}{C}{1}{50,1550625}{https://github.com/giannistek1/rpd-audio/blob/main/[Brave Girls][Rollin][Rollin][C][1].mp3?raw=true}
 {Brown Eyed Girls}{Sound G}{Abracadabra}{C}{1}{34,115875}{https://github.com/giannistek1/rpd-audio/blob/main/[Brown Eyed Girls][Sound G][Abracadabra][C][1].mp3?raw=true}
 {BTS}{2 Cool 4 Skool}{No More Dream}{C}{1}{29,7011875}{https://github.com/giannistek1/rpd-audio/blob/main/[BTS][2 Cool 4 Skool][No More Dream][C][1].mp3?raw=true}
