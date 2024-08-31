@@ -924,6 +924,7 @@
 {Twice}{Formula of Love}{Scientist}{C}{1}{26,096326530612245}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Formula of Love][Scientist][C][1].mp3?raw=true}
 {Twice}{Formula of Love}{Scientist}{DB}{1}{27,1150625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Formula of Love][Scientist][DB][1].mp3?raw=true}
 {Twice}{Formula of Love}{Scientist}{P}{2}{38,5305625}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Formula of Love][Scientist][P][2].mp3?raw=true}
+{Twice}{I GOT YOU}{I GOT YOU}{E}{1}{30,504}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][I GOT YOU][I GOT YOU][E][1].mp3?raw=true}
 {Twice}{Merry & Happy}{Heart Shaker}{C}{1}{38,24325}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Merry & Happy][Heart Shaker][C][1].mp3?raw=true}
 {Twice}{Moonlight Sunrise}{Moonlight Sunrise}{C}{1}{25,584}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][Moonlight Sunrise][Moonlight Sunrise][C][1].mp3?raw=true}
 {Twice}{More & More}{More & More}{DB}{1}{26,331375}{https://github.com/giannistek1/rpd-audio/blob/main/[Twice][More & More][More & More][DB][1].mp3?raw=true}
@@ -978,7 +979,9 @@
 {VICTON}{Nostalgia}{Nostalgic Night}{C}{1}{36,2840625}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Nostalgia][Nostalgic Night][C][1].mp3?raw=true}
 {VICTON}{Voice The Future is Now}{What I Said}{C}{1}{48,16975}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice The Future is Now][What I Said][C][1].mp3?raw=true}
 {VIVIZ}{Beam of Prism}{BOP BOP!}{C}{1}{37,6163125}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Beam of Prism][BOP BOP!][C][1].mp3?raw=true}
+{VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}{48,432}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Rum Pum Pum][Rum Pum Pum][C][1].mp3?raw=true}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}{41,16}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Summer Vibe][LOVEADE][C][1].mp3?raw=true}
+{VIVIZ}{VarioUS}{PULL UP}{C}{1}{34,32}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VarioUS][PULL UP][C][1].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{CE}{3}{50,904}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][CE][3].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{C}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][C][1].mp3?raw=true}
 {VIVIZ}{VERSUS}{MANIAC}{C}{3}{29,784}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][VERSUS][MANIAC][C][3].mp3?raw=true}
