@@ -253,6 +253,8 @@
 {DKB}{GROWTH}{Work Hard}{C}{2}{31,1118125}{https://github.com/giannistek1/rpd-audio/blob/main/[DKB][GROWTH][Work Hard][C][2].mp3?raw=true}
 {DKB}{Rollercoaster}{Rollercoaster}{C}{2}{43,337125}{https://github.com/giannistek1/rpd-audio/blob/main/[DKB][Rollercoaster][Rollercoaster][C][2].mp3?raw=true}
 {Dreamcatcher}{Alone In The City}{What}{C}{1}{34,19425}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Alone In The City][What][C][1].mp3?raw=true}
+{Dreamcatcher}{Apocalypse Follow Us}{Vision}{C}{1}{34,488}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Apocalypse Follow Us][Vision][C][1].mp3?raw=true}
+{Dreamcatcher}{Apocalypse From us}{BONVOYAGE}{C}{1}{37,392}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Apocalypse From us][BONVOYAGE][C][1].mp3?raw=true}
 {Dreamcatcher}{Dystopia Lose Myself}{BOCA}{C}{1}{31,0856875}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Dystopia Lose Myself][BOCA][C][1].mp3?raw=true}
 {Dreamcatcher}{Dystopia Road to Utopia}{Odd Eye}{C}{1}{32,2350625}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Dystopia Road to Utopia][Odd Eye][C][1].mp3?raw=true}
 {Dreamcatcher}{Dystopia Road to Utopia}{Wind Blows}{C}{1}{41,3779375}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Dystopia Road to Utopia][Wind Blows][C][1].mp3?raw=true}
@@ -269,6 +271,8 @@
 {Dreamcatcher}{Raid of Dream}{Deja Vu}{C}{1}{31,660375}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Raid of Dream][Deja Vu][C][1].mp3?raw=true}
 {Dreamcatcher}{Summer Holiday}{BEcause}{C}{1}{28,4211875}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][Summer Holiday][BEcause][C][1].mp3?raw=true}
 {Dreamcatcher}{The End of Nightmare}{PIRI}{C}{1}{41,6130625}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][The End of Nightmare][PIRI][C][1].mp3?raw=true}
+{Dreamcatcher}{VillainS}{OOTD}{C}{1}{31,152}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][VillainS][OOTD][C][1].mp3?raw=true}
+{Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}{43,56}{https://github.com/giannistek1/rpd-audio/blob/main/[Dreamcatcher][VirtuouS][JUSTICE][C][1].mp3?raw=true}
 {ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}{20,297125}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][Billy Poco][Billy Poco][C][2].mp3?raw=true}
 {ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}{19,879125}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][Billy Poco][Billy Poco][DB][1].mp3?raw=true}
 {ENHYPEN}{Border Carnival}{Drunk-Dazed}{C}{1}{33,7501875}{https://github.com/giannistek1/rpd-audio/blob/main/[ENHYPEN][Border Carnival][Drunk-Dazed][C][1].mp3?raw=true}
