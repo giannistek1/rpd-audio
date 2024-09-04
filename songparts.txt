@@ -447,7 +447,9 @@
 {ITZY}{ITz Me}{Wannabe}{V}{1}{32,2873125}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][ITz Me][Wannabe][V][1].mp3?raw=true}
 {ITZY}{KILL MY DOUBT}{CAKE}{C}{2}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][KILL MY DOUBT][CAKE][C][2].mp3?raw=true}
 {ITZY}{Not Shy}{Not Shy}{C}{1}{24,7379375}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Not Shy][Not Shy][C][1].mp3?raw=true}
+{ITZY}{Ringo}{Ringo}{C}{1}{39,96}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Ringo][Ringo][C][1].mp3?raw=true}
 {ITZY}{Street Dance Girls Fighter (SGF) Special}{Weapon (Prod. by Czaer)}{T}{1}{23,0921875}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Street Dance Girls Fighter (SGF) Special][Weapon (Prod. by Czaer)][T][1].mp3?raw=true}
+{ITZY}{Voltage}{Voltage}{C}{1}{45,528}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Voltage][Voltage][C][1].mp3?raw=true}
 {IU}{BBIBBI}{BBIBBI}{C}{1}{35,57875}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][BBIBBI][BBIBBI][C][1].mp3?raw=true}
 {IU}{Chat-Shire}{Twenty-Three}{C}{1}{37,4856875}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][Chat-Shire][Twenty-Three][C][1].mp3?raw=true}
 {IU}{Lilac}{Celebrity}{C}{1}{21,7860625}{https://github.com/giannistek1/rpd-audio/blob/main/[IU][Lilac][Celebrity][C][1].mp3?raw=true}
@@ -1044,6 +1046,7 @@
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][C][1].mp3?raw=true}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}{51,432}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][DBE][1].mp3?raw=true}
 {xikers}{HOUSE OF TRICKY HOW TO PLAY}{DO or DIE}{C}{1}{34,2}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][DO or DIE][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}{34,056}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Trial And Error][We Dont Stop][C][1].mp3?raw=true}
 {Yena}{Smiley}{Smiley}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/[Yena][Smiley][Smiley][C][1].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][C][2].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][DB][1].mp3?raw=true}
