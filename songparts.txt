@@ -1046,7 +1046,13 @@
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][C][1].mp3?raw=true}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}{51,432}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][DBE][1].mp3?raw=true}
 {xikers}{HOUSE OF TRICKY HOW TO PLAY}{DO or DIE}{C}{1}{34,2}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][DO or DIE][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{HOME BOY}{C}{1}{35,928}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][HOME BOY][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{Koong}{C}{1}{36,504}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][Koong][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{Koong}{DB}{1}{39,648}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][Koong][DB][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{C}{1}{35,616}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Trial And Error][Red Sun][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{DB}{1}{38,256}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Trial And Error][Red Sun][DB][1].mp3?raw=true}
 {xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}{34,056}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Trial And Error][We Dont Stop][C][1].mp3?raw=true}
+{xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][Tsuki (Lunatic)][Tsuki (Lunatic)][P][1].mp3?raw=true}
 {Yena}{Smiley}{Smiley}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/[Yena][Smiley][Smiley][C][1].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][C][2].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][DB][1].mp3?raw=true}
