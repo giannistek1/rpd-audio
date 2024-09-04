@@ -1040,6 +1040,10 @@
 {XG}{SHOOTING STAR}{SHOOTING STAR}{C}{1}{35,76}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][SHOOTING STAR][SHOOTING STAR][C][1].mp3?raw=true}
 {XG}{Tippy Toes}{Tippy Toes}{C}{1}{29,232}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Tippy Toes][Tippy Toes][C][1].mp3?raw=true}
 {XG}{Woke Up}{Woke Up}{C}{1}{21,192}{https://github.com/giannistek1/rpd-audio/blob/main/[XG][Woke Up][Woke Up][C][1].mp3?raw=true}
+{xikers}{HOUSE OF Doorbell Ringing}{ROCKSTAR}{C}{1}{39,96}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF Doorbell Ringing][ROCKSTAR][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][C][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}{51,432}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY Doorbell Ringing][TRICKY HOUSE][DBE][1].mp3?raw=true}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{DO or DIE}{C}{1}{34,2}{https://github.com/giannistek1/rpd-audio/blob/main/[xikers][HOUSE OF TRICKY HOW TO PLAY][DO or DIE][C][1].mp3?raw=true}
 {Yena}{Smiley}{Smiley}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/[Yena][Smiley][Smiley][C][1].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][C][2].mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/[YOUNG POSSE][XXL][XXL][DB][1].mp3?raw=true}
