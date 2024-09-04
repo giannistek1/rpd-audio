@@ -141,6 +141,9 @@
 {BADVILLAIN}{OVERSTEP}{BADVILLAIN}{C}{1}{23,184}{https://github.com/giannistek1/rpd-audio/blob/main/[BADVILLAIN][OVERSTEP][BADVILLAIN][C][1].mp3?raw=true}
 {Baekhyun (EXO)}{Delight}{Candy}{C}{1}{31,1640625}{https://github.com/giannistek1/rpd-audio/blob/main/[Baekhyun (EXO)][Delight][Candy][C][1].mp3?raw=true}
 {BEAST}{Fiction and Fact}{Fiction}{C}{1}{36,3363125}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Fiction and Fact][Fiction][C][1].mp3?raw=true}
+{BEAST}{Hard to love, How to love}{Shadow}{C}{1}{42,12}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Hard to love, How to love][Shadow][C][1].mp3?raw=true}
+{BEAST}{Midnight Sun}{Beautiful Night}{C}{1}{23,496}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Midnight Sun][Beautiful Night][C][1].mp3?raw=true}
+{BEAST}{Midnight Sun}{Beautiful Night}{P}{2}{39,192}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Midnight Sun][Beautiful Night][P][2].mp3?raw=true}
 {BIGBANG}{Alive (Kor. Version)}{Fantastic Baby}{C}{1}{21,2375}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][Alive (Kor. Version)][Fantastic Baby][C][1].mp3?raw=true}
 {BIGBANG}{A}{Bang Bang Bang}{C}{1}{34,377125}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][A][Bang Bang Bang][C][1].mp3?raw=true}
 {Billie Eilish}{Therefore I Am}{Therefore I Am}{C}{2}{24,293875}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][Therefore I Am][Therefore I Am][C][2].mp3?raw=true}
@@ -686,6 +689,8 @@
 {ONEUS}{Devil}{No Diggity}{P}{1}{42,94525}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][Devil][No Diggity][P][1].mp3?raw=true}
 {ONEUS}{Fly With Us}{Lit}{C}{1}{36,0489375}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][Fly With Us][Lit][C][1].mp3?raw=true}
 {ONEUS}{In Its Time}{A Song Written Easily}{C}{1}{26,592625}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][In Its Time][A Song Written Easily][C][1].mp3?raw=true}
+{ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}{36,6}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][La Dolce Vita][Baila Conmigo][CDB][1].mp3?raw=true}
+{ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{2}{41,736}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][La Dolce Vita][Baila Conmigo][CDB][2].mp3?raw=true}
 {ONEUS}{Light Us}{Valkyrie}{C}{1}{35,709375}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][Light Us][Valkyrie][C][1].mp3?raw=true}
 {ONEUS}{Lived}{To Be Or Not To Be}{C}{1}{39,41875}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][Lived][To Be Or Not To Be][C][1].mp3?raw=true}
 {ONEUS}{MALUS}{Same Scent}{C}{2}{44,904}{https://github.com/giannistek1/rpd-audio/blob/main/[ONEUS][MALUS][Same Scent][C][2].mp3?raw=true}
