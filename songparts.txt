@@ -147,11 +147,14 @@
 {BEAST}{Good Luck}{Good Luck}{DB}{1}{17,952}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Good Luck][Good Luck][DB][1].mp3?raw=true}
 {BEAST}{Good Luck}{Good Luck}{P}{1}{46,224}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Good Luck][Good Luck][P][1].mp3?raw=true}
 {BEAST}{Hard to love, How to love}{Shadow}{C}{1}{42,12}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Hard to love, How to love][Shadow][C][1].mp3?raw=true}
+{BEAST}{Highlight}{Ribbon}{C}{1}{21,864}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Highlight][Ribbon][C][1].mp3?raw=true}
 {BEAST}{Lights Go On Again}{Beautiful}{C}{1}{49,488}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Lights Go On Again][Beautiful][C][1].mp3?raw=true}
 {BEAST}{Mastermind}{Breath}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Mastermind][Breath][C][1].mp3?raw=true}
 {BEAST}{Midnight Sun}{Beautiful Night}{C}{1}{23,496}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Midnight Sun][Beautiful Night][C][1].mp3?raw=true}
 {BEAST}{Midnight Sun}{Beautiful Night}{P}{2}{39,192}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Midnight Sun][Beautiful Night][P][2].mp3?raw=true}
+{BEAST}{Ordinary}{YeY}{C}{1}{38,4}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Ordinary][YeY][C][1].mp3?raw=true}
 {BEAST}{Shock Of The New Era}{Shock}{C}{1}{40,704}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][Shock Of The New Era][Shock][C][1].mp3?raw=true}
+{BEAST}{TIME}{1230}{C}{1}{38,856}{https://github.com/giannistek1/rpd-audio/blob/main/[BEAST][TIME][1230][C][1].mp3?raw=true}
 {BIGBANG}{Alive (Kor. Version)}{Fantastic Baby}{C}{1}{21,2375}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][Alive (Kor. Version)][Fantastic Baby][C][1].mp3?raw=true}
 {BIGBANG}{A}{Bang Bang Bang}{C}{1}{34,377125}{https://github.com/giannistek1/rpd-audio/blob/main/[BIGBANG][A][Bang Bang Bang][C][1].mp3?raw=true}
 {Billie Eilish}{Therefore I Am}{Therefore I Am}{C}{2}{24,293875}{https://github.com/giannistek1/rpd-audio/blob/main/[Billie Eilish][Therefore I Am][Therefore I Am][C][2].mp3?raw=true}
