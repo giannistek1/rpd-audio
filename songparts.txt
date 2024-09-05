@@ -641,6 +641,7 @@
 {NCT 127}{Sticker}{Sticker}{C}{1}{28,5779375}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][Sticker][Sticker][C][1].mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{1}{23,4056875}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][We Are Superhuman][Highway to Heaven][C][1].mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Superhuman}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT 127][We Are Superhuman][Superhuman][C][1].mp3?raw=true}
+{NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}{26,52}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][PERFUME][Perfume][C][1].mp3?raw=true}
 {NCT Dream}{Chewing Gum}{Chewing Gum}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Chewing Gum][Chewing Gum][C][1].mp3?raw=true}
 {NCT Dream}{Dont Need Your Love}{Dont Need Your Love}{C}{1}{21,0024375}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dont Need Your Love][Dont Need Your Love][C][1].mp3?raw=true}
 {NCT Dream}{Fireflies}{Fireflies}{C}{1}{21,76}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Fireflies][Fireflies][C][1].mp3?raw=true}
