@@ -647,6 +647,8 @@
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}{26,52}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT DOJAEJUNG][PERFUME][Perfume][C][1].mp3?raw=true}
 {NCT Dream}{Chewing Gum}{Chewing Gum}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Chewing Gum][Chewing Gum][C][1].mp3?raw=true}
 {NCT Dream}{Dont Need Your Love}{Dont Need Your Love}{C}{1}{21,0024375}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dont Need Your Love][Dont Need Your Love][C][1].mp3?raw=true}
+{NCT Dream}{Dream()scape}{Smoothie}{C}{1}{25,728}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dream()scape][Smoothie][C][1].mp3?raw=true}
+{NCT Dream}{Dream()scape}{Smoothie}{C}{3}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Dream()scape][Smoothie][C][3].mp3?raw=true}
 {NCT Dream}{Fireflies}{Fireflies}{C}{1}{21,76}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Fireflies][Fireflies][C][1].mp3?raw=true}
 {NCT Dream}{Fireflies}{Fireflies}{C}{2}{34,50775}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Fireflies][Fireflies][C][2].mp3?raw=true}
 {NCT Dream}{Hello Future}{Hello Future}{C}{1}{33,3844375}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT Dream][Hello Future][Hello Future][C][1].mp3?raw=true}
@@ -894,7 +896,9 @@
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}{42,984}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyang (BIGBANG)][Rise][Ringa Linga][C][1].mp3?raw=true}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyang (BIGBANG)][Shoong!][Shoong!][C][1].mp3?raw=true}
 {Taeyeon (SNSD)}{INVU}{INVU}{C}{1}{24,111}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][INVU][INVU][C][1].mp3?raw=true}
+{Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}{46,128}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Purpose][Spark][C][1].mp3?raw=true}
 {Taeyeon (SNSD)}{Weekend}{Weekend}{C}{1}{39,9934375}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Weekend][Weekend][C][1].mp3?raw=true}
+{Taeyeon (SNSD)}{Why}{Why}{C}{1}{27,36}{https://github.com/giannistek1/rpd-audio/blob/main/[Taeyeon (SNSD)][Why][Why][C][1].mp3?raw=true}
 {TAEYONG (NCT 127)}{SHALALA}{SHALALA}{C}{1}{32,4}{https://github.com/giannistek1/rpd-audio/blob/main/[TAEYONG (NCT 127)][SHALALA][SHALALA][C][1].mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{2}{42,5011875}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][Addition][Rocking][P][2].mp3?raw=true}
 {Teen Top}{No. 1}{Miss Right}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/[Teen Top][No. 1][Miss Right][C][1].mp3?raw=true}
