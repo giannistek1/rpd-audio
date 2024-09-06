@@ -364,7 +364,7 @@
 {fromis_9}{Midnight Guest}{DM}{C}{1}{37,4856875}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][Midnight Guest][DM][C][1].mp3?raw=true}
 {fromis_9}{My Little Society}{Feel Good(Secret Code)}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][My Little Society][Feel Good(Secret Code)][C][1].mp3?raw=true}
 {fromis_9}{To. Day}{DKDK (Pit-a-pat)}{C}{1}{28,3689375}{https://github.com/giannistek1/rpd-audio/blob/main/[fromis_9][To. Day][DKDK (Pit-a-pat)][C][1].mp3?raw=true}
-{GD X Taeyang}{Good Boy}{Good Boy}{C}{1}{27,1673125}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang][Good Boy][Good Boy][C][1].mp3?raw=true}
+{GD X Taeyang (BIGBANG)}{Good Boy}{Good Boy}{C}{1}{27,1673125}{https://github.com/giannistek1/rpd-audio/blob/main/[GD X Taeyang (BIGBANG)][Good Boy][Good Boy][C][1].mp3?raw=true}
 {GFRIEND}{Fever Season}{Fever}{C}{2}{38,6350625}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][Fever Season][Fever][C][2].mp3?raw=true}
 {GFRIEND}{Flower Bud}{Me Gustas Tu}{C}{2}{33,98525}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][Flower Bud][Me Gustas Tu][C][2].mp3?raw=true}
 {GFRIEND}{Labyrinth}{Crossroads}{C}{1}{41,5346875}{https://github.com/giannistek1/rpd-audio/blob/main/[GFRIEND][Labyrinth][Crossroads][C][1].mp3?raw=true}
