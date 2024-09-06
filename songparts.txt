@@ -439,6 +439,8 @@
 {Infinite}{Reality}{Bad}{P}{1}{32,6269375}{https://github.com/giannistek1/rpd-audio/blob/main/[Infinite][Reality][Bad][P][1].mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{MONSTER}{C}{1}{28,5518125}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][MONSTER][MONSTER][C][1].mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{Naughty}{C}{1}{26,2530625}{https://github.com/giannistek1/rpd-audio/blob/main/[Irene & Seulgi (Red Velvet)][MONSTER][Naughty][C][1].mp3?raw=true}
+{ITZY}{Algorhythm}{Algorhythm}{DB}{1}{25,464}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Algorhythm][Algorhythm][DB][1].mp3?raw=true}
+{ITZY}{Algorhythm}{Algorhythm}{P}{1}{38,664}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Algorhythm][Algorhythm][P][1].mp3?raw=true}
 {ITZY}{Blah Blah Blah}{Blah Blah Blah}{CDB}{2}{40,056}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][Blah Blah Blah][Blah Blah Blah][CDB][2].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{C}{1}{33,984}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][C][1].mp3?raw=true}
 {ITZY}{BORN TO BE}{BORN TO BE}{DBE}{1}{49,824}{https://github.com/giannistek1/rpd-audio/blob/main/[ITZY][BORN TO BE][BORN TO BE][DBE][1].mp3?raw=true}
@@ -511,6 +513,7 @@
 {JIHYO (Twice)}{ZONE}{CLOSER}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][ZONE][CLOSER][C][1].mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{KILLIN ME GOOD}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/[JIHYO (Twice)][ZONE][KILLIN ME GOOD][C][1].mp3?raw=true}
 {JISOO (Blackpink)}{Me}{Flower}{C}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/[JISOO (Blackpink)][Me][Flower][C][1].mp3?raw=true}
+{Joy (Red Velvet)}{Hello}{Hello}{C}{2}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/[Joy (Red Velvet)][Hello][Hello][C][2].mp3?raw=true}
 {Jungkook (BTS)}{3D}{3D}{C}{1}{33,264}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][3D][3D][C][1].mp3?raw=true}
 {Jungkook (BTS)}{Golden}{Standing Next To You}{CDB}{2}{81,0}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Golden][Standing Next To You][CDB][2].mp3?raw=true}
 {Jungkook (BTS)}{Seven}{Seven}{C}{1}{25,536}{https://github.com/giannistek1/rpd-audio/blob/main/[Jungkook (BTS)][Seven][Seven][C][1].mp3?raw=true}
@@ -673,6 +676,8 @@
 {NCT x aespa}{2021 Winter SMTOWN SMCU EXPRESS}{ZOO}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/[NCT x aespa][2021 Winter SMTOWN SMCU EXPRESS][ZOO][C][1].mp3?raw=true}
 {NewJeans}{Ditto}{Ditto}{C}{1}{34,752}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Ditto][Ditto][C][1].mp3?raw=true}
 {NewJeans}{Ditto}{Ditto}{P}{1}{68,016}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Ditto][Ditto][P][1].mp3?raw=true}
+{NewJeans}{Get Up}{Cool With You}{C}{1}{22,056}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Get Up][Cool With You][C][1].mp3?raw=true}
+{NewJeans}{Get Up}{Cool With You}{C}{2}{35,664}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Get Up][Cool With You][C][2].mp3?raw=true}
 {NewJeans}{Get Up}{ETA}{C}{1}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Get Up][ETA][C][1].mp3?raw=true}
 {NewJeans}{How Sweet}{How Sweet}{C}{1}{43,2}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][How Sweet][How Sweet][C][1].mp3?raw=true}
 {NewJeans}{New Jeans}{Attention}{C}{1}{27,792}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][New Jeans][Attention][C][1].mp3?raw=true}
@@ -680,6 +685,8 @@
 {NewJeans}{NewJeans Super Shy}{New Jeans}{C}{1}{19,92}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][NewJeans Super Shy][New Jeans][C][1].mp3?raw=true}
 {NewJeans}{NewJeans Super Shy}{Super Shy}{C}{2}{31,92}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][NewJeans Super Shy][Super Shy][C][2].mp3?raw=true}
 {NewJeans}{OMG}{OMG}{C}{1}{55,296}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][OMG][OMG][C][1].mp3?raw=true}
+{NewJeans}{Supernatural}{Right Now}{C}{2}{42,72}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Supernatural][Right Now][C][2].mp3?raw=true}
+{NewJeans}{Supernatural}{Supernatural}{CDB}{2}{44,736}{https://github.com/giannistek1/rpd-audio/blob/main/[NewJeans][Supernatural][Supernatural][CDB][2].mp3?raw=true}
 {NMIXX}{A Midsummer NMIXXs Dream}{Party OClock}{C}{1}{40,2}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][A Midsummer NMIXXs Dream][Party OClock][C][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{50,1289375}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][B][1].mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{O}{1}{26,801625}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Ad Mare][O.O][O][1].mp3?raw=true}
