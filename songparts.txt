@@ -1020,6 +1020,7 @@
 {TXT}{The Name Chapter FREEFALL}{Chasing That Feeling}{P}{2}{48,024}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Name Chapter FREEFALL][Chasing That Feeling][P][2].mp3?raw=true}
 {TXT}{The Name Chapter TEMPTATION}{Sugar Rush Ride}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Name Chapter TEMPTATION][Sugar Rush Ride][C][1].mp3?raw=true}
 {TXT}{The Name Chapter TEMPTATION}{Sugar Rush Ride}{C}{2}{60,048}{https://github.com/giannistek1/rpd-audio/blob/main/[TXT][The Name Chapter TEMPTATION][Sugar Rush Ride][C][2].mp3?raw=true}
+{TZUYU (Twice)}{abouTZU}{Run Away}{P}{1}{59,184}{https://github.com/giannistek1/rpd-audio/blob/main/[TZUYU (Twice)][abouTZU][Run Away][P][1].mp3?raw=true}
 {VICTON}{Nostalgia}{Nostalgic Night}{C}{1}{36,2840625}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Nostalgia][Nostalgic Night][C][1].mp3?raw=true}
 {VICTON}{Voice The Future is Now}{What I Said}{C}{1}{48,16975}{https://github.com/giannistek1/rpd-audio/blob/main/[VICTON][Voice The Future is Now][What I Said][C][1].mp3?raw=true}
 {VIVIZ}{Beam of Prism}{BOP BOP!}{C}{1}{37,6163125}{https://github.com/giannistek1/rpd-audio/blob/main/[VIVIZ][Beam of Prism][BOP BOP!][C][1].mp3?raw=true}
