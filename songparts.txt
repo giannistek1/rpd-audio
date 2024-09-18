@@ -699,6 +699,7 @@
 {NMIXX}{Fe3O4 BREAK}{Run For Roses}{C}{1}{32,688}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Fe3O4 BREAK][Run For Roses][C][1].mp3?raw=true}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}{24,528}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Sonar (Breaker)][Sonar (Breaker)][C][1].mp3?raw=true}
 {NMIXX}{Young, Dumb, Stupid}{Young, Dumb, Stupid}{C}{1}{31,896}{https://github.com/giannistek1/rpd-audio/blob/main/[NMIXX][Young, Dumb, Stupid][Young, Dumb, Stupid][C][1].mp3?raw=true}
+{OH MY GIRL}{CLOSER}{CLOSER}{C}{1}{37,32}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][CLOSER][CLOSER][C][1].mp3?raw=true}
 {OH MY GIRL}{Dear OHMYGIRL}{Dun Dun Dance}{C}{1}{38,164875}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][Dear OHMYGIRL][Dun Dun Dance][C][1].mp3?raw=true}
 {OH MY GIRL}{Nonstop}{Dolphin}{C}{1}{23,1705625}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][Nonstop][Dolphin][C][1].mp3?raw=true}
 {OH MY GIRL}{Nonstop}{Nonstop}{C}{1}{31,0334375}{https://github.com/giannistek1/rpd-audio/blob/main/[OH MY GIRL][Nonstop][Nonstop][C][1].mp3?raw=true}
