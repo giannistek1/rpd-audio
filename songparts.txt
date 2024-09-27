@@ -1,4 +1,4 @@
-{(G)I-DLE}{2}{Super Lady}{C}{1}{21,936}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][2][Super Lady][C][1].mp3?raw=true}
+{(G)I-DLE}{2}{Super Lady}{C}{1}{21,936}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5B2%5D%5BSuper%20Lady%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{2}{Super Lady}{DB}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][2][Super Lady][DB][1].mp3?raw=true}
 {(G)I-DLE}{DUMDi DUMDi}{DUMDi DUMDi}{C}{1}{38,8701875}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][DUMDi DUMDi][DUMDi DUMDi][C][1].mp3?raw=true}
 {(G)I-DLE}{HANN (Alone)}{HANN (Alone)}{C}{1}{25,33875}{https://github.com/giannistek1/rpd-audio/blob/main/[(G)I-DLE][HANN (Alone)][HANN (Alone)][C][1].mp3?raw=true}
