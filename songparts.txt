@@ -530,6 +530,13 @@
 {JENNIE (Blackpink)}{SOLO}{SOLO}{C}{1}{25,9134375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BSOLO%5D%5BSOLO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JENNIE (Blackpink)}{You & Me}{You & Me}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BYou & Me%5D%5BYou & Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JENNIE (Blackpink)}{You & Me}{You & Me}{C}{2}{37,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BYou & Me%5D%5BYou & Me%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{JEON SOMI}{Birthday}{Birthday}{C}{1}{25,6260625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BBirthday%5D%5BBirthday%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{JEON SOMI}{Dumb Dumb}{Dumb Dumb}{C}{1}{25,2865}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BDumb Dumb%5D%5BDumb Dumb%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{JEON SOMI}{Game Plan}{Fast Forward}{P}{1}{35,064}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BGame Plan%5D%5BFast Forward%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{JEON SOMI}{Ice Cream}{Ice Cream}{C}{1}{39,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BIce Cream%5D%5BIce Cream%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{JEON SOMI}{What You Waiting For}{What You Waiting For}{C}{1}{22,3346875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BWhat You Waiting For%5D%5BWhat You Waiting For%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{JEON SOMI}{What You Waiting For}{What You Waiting For}{C}{2}{36,623625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BWhat You Waiting For%5D%5BWhat You Waiting For%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{JEON SOMI}{XOXO}{XOXO}{C}{1}{30,4065}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI%5D%5BXOXO%5D%5BXOXO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jessi}{Cold Blooded}{Cold Blooded}{C}{1}{20,5321875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BCold Blooded%5D%5BCold Blooded%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jessi}{Nuna}{Nunu Nana}{C}{2}{31,3730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BNuna%5D%5BNunu Nana%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Jessi}{What Type of X}{What Type of X}{C}{1}{28,00325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BWhat Type of X%5D%5BWhat Type of X%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -855,11 +862,6 @@
 {SISTAR}{Touch N Move}{Touch My Body}{C}{1}{49,580375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSISTAR%5D%5BTouch N Move%5D%5BTouch My Body%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Solar (Mamamoo)}{COLOURS}{Colors}{C}{1}{44,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSolar (Mamamoo)%5D%5BCOLOURS%5D%5BColors%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Solar (Mamamoo)}{Spit It Out}{Spit It Out}{C}{1}{41,016}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSolar (Mamamoo)%5D%5BSpit It Out%5D%5BSpit It Out%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{SOMI}{Birthday}{Birthday}{C}{1}{25,6260625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSOMI%5D%5BBirthday%5D%5BBirthday%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{SOMI}{Dumb Dumb}{Dumb Dumb}{C}{1}{25,2865}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSOMI%5D%5BDumb Dumb%5D%5BDumb Dumb%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{SOMI}{What You Waiting For}{What You Waiting For}{C}{1}{22,3346875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSOMI%5D%5BWhat You Waiting For%5D%5BWhat You Waiting For%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{SOMI}{What You Waiting For}{What You Waiting For}{C}{2}{36,623625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSOMI%5D%5BWhat You Waiting For%5D%5BWhat You Waiting For%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{SOMI}{XOXO}{XOXO}{C}{1}{30,4065}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSOMI%5D%5BXOXO%5D%5BXOXO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Sparkling}{Diamond (Imitation X SPARKLING)}{Diamond}{C}{1}{38,2955}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSparkling%5D%5BDiamond (Imitation X SPARKLING)%5D%5BDiamond%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {STAYC}{LIT}{LIT}{C}{1}{34,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BLIT%5D%5BLIT%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {STAYC}{Metamorphic}{Cheeky Icy Thang}{DBE}{1}{27,816}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BMetamorphic%5D%5BCheeky Icy Thang%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
