@@ -1124,6 +1124,11 @@
 {xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{DB}{1}{38,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bxikers%5D%5BHOUSE OF TRICKY Trial And Error%5D%5BRed Sun%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}{34,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bxikers%5D%5BHOUSE OF TRICKY Trial And Error%5D%5BWe Dont Stop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bxikers%5D%5BTsuki (Lunatic)%5D%5BTsuki (Lunatic)%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{1}{30,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BGOOD MORNING%5D%5BGood Girls in the Dark%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{2}{40,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BGOOD MORNING%5D%5BGood Girls in the Dark%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{YENA}{HATE XX}{Hate Rodrigo}{C}{1}{31,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BHATE XX%5D%5BHate Rodrigo%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YENA}{HATE XX}{WICKED LOVE}{C}{1}{34,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BHATE XX%5D%5BWICKED LOVE%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YENA}{SMARTPHONE}{SMARTPHONE}{C}{1}{31,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BSMARTPHONE%5D%5BSMARTPHONE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Yena}{Smiley}{Smiley}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYena%5D%5BSmiley%5D%5BSmiley%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BDB%5D%5B1%5D.mp3?raw=true}
