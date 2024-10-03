@@ -2,6 +2,7 @@
 {(G)I-DLE}{2}{Super Lady}{DB}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5B2%5D%5BSuper Lady%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{DUMDi DUMDi}{DUMDi DUMDi}{C}{1}{38,8701875}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BDUMDi DUMDi%5D%5BDUMDi DUMDi%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{HANN (Alone)}{HANN (Alone)}{C}{1}{25,33875}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BHANN (Alone)%5D%5BHANN (Alone)%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{(G)I-DLE}{HEAT}{I Want That}{C}{1}{24,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BHEAT%5D%5BI Want That%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Am}{LATATA}{C}{1}{45,740375}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Am%5D%5BLATATA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I burn}{HWAA}{C}{1}{27,951}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI burn%5D%5BHWAA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I feel}{QUEENCARD}{C}{1}{38,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI feel%5D%5BQUEENCARD%5D%5BC%5D%5B1%5D.mp3?raw=true}
