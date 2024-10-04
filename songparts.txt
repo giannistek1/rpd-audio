@@ -1111,6 +1111,7 @@
 {WJSN}{WJ Please}{Save Me, Save You}{C}{1}{38,7134375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN%5D%5BWJ Please%5D%5BSave Me, Save You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}{37,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWonder Girls%5D%5BThe Wonder Years Trilogy%5D%5BNobody%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {X1}{Quantum Leap}{Flash}{P}{1}{33,1755}{https://github.com/giannistek1/rpd-audio/blob/main/%5BX1%5D%5BQuantum Leap%5D%5BFlash%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{XG}{MASCARA}{MASCARA}{C}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BMASCARA%5D%5BMASCARA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {XG}{NEW DANCE}{NEW DANCE}{P}{1}{42,024}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BNEW DANCE%5D%5BNEW DANCE%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {XG}{NEW DNA}{PUPPET SHOW}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BNEW DNA%5D%5BPUPPET SHOW%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {XG}{SHOOTING STAR}{LEFT RIGHT}{C}{1}{37,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BSHOOTING STAR%5D%5BLEFT RIGHT%5D%5BC%5D%5B1%5D.mp3?raw=true}
