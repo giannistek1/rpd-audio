@@ -960,6 +960,10 @@
 {Taeyeon (SNSD)}{Weekend}{Weekend}{C}{1}{39,9934375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTaeyeon (SNSD)%5D%5BWeekend%5D%5BWeekend%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Taeyeon (SNSD)}{Why}{Why}{C}{1}{27,36}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTaeyeon (SNSD)%5D%5BWhy%5D%5BWhy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TAEYONG (NCT 127)}{SHALALA}{SHALALA}{C}{1}{32,4}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEYONG (NCT 127)%5D%5BSHALALA%5D%5BSHALALA%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TAEYONG (NCT)}{TAP}{TAP}{CDB}{2}{41,4}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEYONG (NCT)%5D%5BTAP%5D%5BTAP%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{TAEYONG (NCT)}{TAP}{TAP}{C}{1}{30,096}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEYONG (NCT)%5D%5BTAP%5D%5BTAP%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TAEYONG (NCT)}{TAP}{TAP}{PDB}{2}{49,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEYONG (NCT)%5D%5BTAP%5D%5BTAP%5D%5BPDB%5D%5B2%5D.mp3?raw=true}
+{TAEYONG (NCT)}{TAP}{TAP}{P}{1}{38,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEYONG (NCT)%5D%5BTAP%5D%5BTAP%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{2}{42,5011875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTeen Top%5D%5BAddition%5D%5BRocking%5D%5BP%5D%5B2%5D.mp3?raw=true}
 {Teen Top}{No. 1}{Miss Right}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTeen Top%5D%5BNo. 1%5D%5BMiss Right%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Teen Top}{Addition}{Rocking}{P}{1}{32,9665}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTeen Top%5D%5B%5BAddition%5D%5BRocking%5D%5BP%5D%5B1%5D.mp3?raw=true}
