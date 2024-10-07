@@ -15,6 +15,7 @@
 {(G)I-DLE}{Uh-Oh}{Uh-Oh}{C}{1}{35,8660625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BUh-Oh%5D%5BUh-Oh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Wife}{Wife}{C}{1}{28,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Wife}{Wife}{DB}{1}{23,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{2NE1}{2NE1}{I Dont Care}{C}{1}{38,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5B2NE1%5D%5BI Dont Care%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2NE1}{Crush}{Come Back Home}{P}{1}{58,462}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BCrush%5D%5BCome Back Home%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {2NE1}{Crush}{Gotta Be You}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BCrush%5D%5BGotta Be You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2NE1}{I Love You}{I Love You}{C}{1}{25,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BI Love You%5D%5BI Love You%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -375,6 +376,9 @@
 {f(x)}{4 Walls}{4 Walls}{C}{1}{25,104}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{4 Walls}{4 Walls}{C}{2}{42,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {f(x)}{4 Walls}{4 Walls}{P}{1}{36,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{C}{1}{24,384}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChocolate Love%5D%5BChocolate Love (Electronic Pop)%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{P}{1}{39,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChocolate Love%5D%5BChocolate Love (Electronic Pop)%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{f(x)}{Chu}{Chu}{C}{1}{39,432}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChu%5D%5BChu%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Electric Shock}{Electric Shock}{C}{1}{20,32325}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BElectric Shock%5D%5BElectric Shock%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Hot Summer}{Hot Summer}{C}{1}{33,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BHot Summer%5D%5BHot Summer%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{LA chA TA}{LA chA TA}{C}{1}{36,816}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BLA chA TA%5D%5BLA chA TA%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -569,6 +573,7 @@
 {KARD}{Ride on the Wind}{Ride on the Wind}{C}{1}{37,6685625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BRide on the Wind%5D%5BRide on the Wind%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARD}{Rumor}{Rumor}{C}{1}{36,702}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BRumor%5D%5BRumor%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARD}{Way with words}{Gunshot}{C}{1}{23,4579375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BWay with words%5D%5BGunshot%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{KARD}{Where To Now (Part.1 Yellow Light)}{Tell My Momma}{C}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BWhere To Now (Part.1 Yellow Light)%5D%5BTell My Momma%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARD}{You & Me}{You in Me}{C}{1}{26,749375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BYou & Me%5D%5BYou in Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARINA (aespa)}{aespa}{UP}{C}{1}{27,624}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARINA (aespa)%5D%5Baespa%5D%5BUP%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{1}{27,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BDebut%5D%5BDebut%5D%5BC%5D%5B1%5D.mp3?raw=true}
