@@ -433,11 +433,13 @@
 {H.I.N.P}{30 Girls 6 Concepts}{Rumor}{C}{1}{28,133875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BH.I.N.P%5D%5B30 Girls 6 Concepts%5D%5BRumor%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Highlight}{Celebrate}{Can Be Better}{C}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHighlight%5D%5BCelebrate%5D%5BCan Be Better%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HINAPIA}{New Start}{DRIP}{C}{1}{37,1983125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHINAPIA%5D%5BNew Start%5D%5BDRIP%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{HWASA (Mamamoo)}{Chili}{Chili}{C}{1}{26,76}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BChili%5D%5BChili%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{Guilty Pleasure}{Im a B}{C}{1}{32,1566875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BGuilty Pleasure%5D%5BIm a B%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{CDB}{3}{36,648}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BI Love My Body%5D%5BI Love My Body%5D%5BCDB%5D%5B3%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{C}{1}{22,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BI Love My Body%5D%5BI Love My Body%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{I Love My Body}{I Love My Body}{DB}{1}{23,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BI Love My Body%5D%5BI Love My Body%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{Maria}{Maria}{P}{1}{41,9265}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BMaria%5D%5BMaria%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{HWASA (Mamamoo)}{O!}{NA}{C}{1}{41,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BO!%5D%5BNA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HWASA (Mamamoo)}{TWIT}{TWIT}{C}{1}{34,5860625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHWASA (Mamamoo)%5D%5BTWIT%5D%5BTWIT%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HYOLYN (SISTAR)}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BDally%5D%5BDally%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HYOLYN (SISTAR)}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BLayin Low%5D%5BLayin Low%5D%5BC%5D%5B1%5D.mp3?raw=true}
