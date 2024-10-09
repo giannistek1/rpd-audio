@@ -914,6 +914,8 @@
 {Stray Kids}{5 STAR}{S-Class}{C}{1}{34,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BS-Class%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{5 STAR}{S-Class}{DB}{1}{29,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BS-Class%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{5 STAR}{Super Bowl}{C}{1}{34,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BSuper Bowl%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Stray Kids}{ATE}{Chk Chk Boom}{CE}{2}{53,664}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BATE%5D%5BChk Chk Boom%5D%5BCE%5D%5B2%5D.mp3?raw=true}
+{Stray Kids}{ATE}{Chk Chk Boom}{C}{1}{31,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BATE%5D%5BChk Chk Boom%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{Christmas EveL}{Christmas EveL}{T}{1}{15,20325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BChristmas EveL%5D%5BChristmas EveL%5D%5BT%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{GO}{Gods Menu}{P}{1}{40,672625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BGO%5D%5BGods Menu%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{GO}{Gods Menu}{P}{2}{29,28325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BGO%5D%5BGods Menu%5D%5BP%5D%5B2%5D.mp3?raw=true}
