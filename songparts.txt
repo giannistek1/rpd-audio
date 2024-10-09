@@ -142,6 +142,7 @@
 {BABYMONSTER}{BATTER UP}{BATTER UP}{DB}{1}{43,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBATTER UP%5D%5BBATTER UP%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{BATTER UP}{BATTER UP}{P}{1}{34,248}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBATTER UP%5D%5BBATTER UP%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{FOREVER}{FOREVER}{C}{1}{43,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BFOREVER%5D%5BFOREVER%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}{22,104}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBADVILLAIN%5D%5BHURRICANE%5D%5BHURRICANE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BADVILLAIN}{OVERSTEP}{BADVILLAIN}{C}{1}{23,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBADVILLAIN%5D%5BOVERSTEP%5D%5BBADVILLAIN%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Baekhyun (EXO)}{Delight}{Candy}{C}{1}{31,1640625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBaekhyun (EXO)%5D%5BDelight%5D%5BCandy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}{25,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBEAST%5D%5BBeast Is The B2ST%5D%5BBad Girl%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1129,6 +1130,8 @@
 {Weki Meki}{NEW RULES}{COOL}{C}{1}{36,780375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BNEW RULES%5D%5BCOOL%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weki Meki}{Week End LOL}{Tiki-Taka (99%)}{C}{1}{38,6350625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BWeek End LOL%5D%5BTiki-Taka (99%)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weki Meki}{WEME}{I Don't Like Your Girlfriend}{C}{1}{23,04}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BWEME%5D%5BI Don't Like Your Girlfriend%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}{29,328}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BIn The Mood%5D%5BIn The Mood%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}{36,768}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BIn The Mood%5D%5BIn The Mood%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {WINNER}{EVERYD4Y}{Everyday}{C}{1}{36,780375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BEVERYD4Y%5D%5BEveryday%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{Fate Number For}{Really Really}{C}{1}{24,4505625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BFate Number For%5D%5BReally Really%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{Millions}{Millions}{C}{1}{23,823625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BMillions%5D%5BMillions%5D%5BC%5D%5B1%5D.mp3?raw=true}
