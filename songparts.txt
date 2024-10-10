@@ -20,7 +20,15 @@
 {2NE1}{Crush}{Gotta Be You}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BCrush%5D%5BGotta Be You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2NE1}{I Love You}{I Love You}{C}{1}{25,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BI Love You%5D%5BI Love You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2NE1}{Im The Best}{I Am The Best}{C}{2}{19,069375}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BIm The Best%5D%5BI Am The Best%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{2NE1}{Lollipop}{Lollipop}{C}{2}{32,784}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BLollipop%5D%5BLollipop%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{2PM}{0159PM}{Heartbeat}{C}{1}{38,328}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5B0159PM%5D%5BHeartbeat%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{2PM}{0159PM}{Heartbeat}{DBE}{1}{43,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5B0159PM%5D%5BHeartbeat%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{2PM}{200PM Time for Change}{Again & Again}{C}{1}{41,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5B200PM Time for Change%5D%5BAgain & Again%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{2PM}{GROWN}{A.D.T.O.Y.}{C}{1}{33,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BGROWN%5D%5BA.D.T.O.Y.%5D%5BC%5D%5B1%5D .mp3?raw=true}
+{2PM}{HANDS UP}{HANDS UP}{C}{1}{25,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BHANDS UP%5D%5BHANDS UP%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{2PM}{Must}{Make It}{C}{1}{34,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BMust%5D%5BMake It%5D%5BC%5D%5B1%5D .mp3?raw=true}
 {2PM}{No. 5}{My House}{C}{1}{39,3665}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BNo. 5%5D%5BMy House%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{2PM}{Still 0200pm}{Ill Be Back}{C}{1}{39,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BStill 0200pm%5D%5BIll Be Back%5D%5BC%5D%5B1%5D .mp3?raw=true}
 {3YE}{DMT}{DMT (Do Ma Thang)}{C}{1}{23,6669375}{https://github.com/giannistek1/rpd-audio/blob/main/%5B3YE%5D%5BDMT%5D%5BDMT (Do Ma Thang)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {3YE}{OOMM}{OOMM (Out Of My Mind)}{C}{1}{31,451375}{https://github.com/giannistek1/rpd-audio/blob/main/%5B3YE%5D%5BOOMM%5D%5BOOMM (Out Of My Mind)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {3YE}{Queen}{Queen}{C}{1}{33,7763125}{https://github.com/giannistek1/rpd-audio/blob/main/%5B3YE%5D%5BQueen%5D%5BQueen%5D%5BC%5D%5B1%5D.mp3?raw=true}
