@@ -1196,6 +1196,7 @@
 {YENA (IZ ONE)}{HATE XX}{WICKED LOVE}{C}{1}{34,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BHATE XX%5D%5BWICKED LOVE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{SMARTPHONE}{SMARTPHONE}{C}{1}{31,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BSMARTPHONE%5D%5BSMARTPHONE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{Smiley}{Smiley}{C}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BSmiley%5D%5BSmiley%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YENA}{NEMONEMO}{NEMONEMO}{C}{1}{38,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA%5D%5BNEMONEMO%5D%5BNEMONEMO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Yeonjun (TXT)}{GGUM}{GGUM}{C}{2}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYeonjun (TXT)%5D%5BGGUM%5D%5BGGUM%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BDB%5D%5B1%5D.mp3?raw=true}
