@@ -404,6 +404,14 @@
 {f(x)}{Pink Tape}{Rum Pum Pum Pum}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BPink Tape%5D%5BRum Pum Pum Pum%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Pinocchio}{Pinocchio (Danger)}{C}{1}{47,664}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BPinocchio%5D%5BPinocchio (Danger)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Red Light}{Red Light}{C}{1}{34,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BRed Light%5D%5BRed Light%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{Love Tune}{SOS}{C}{1}{40,464}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BLove Tune%5D%5BSOS%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{Love Tune}{SOS}{C}{3}{40,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BLove Tune%5D%5BSOS%5D%5BC%5D%5B3%5D.mp3?raw=true}
+{FIFTY FIFTY}{Love Tune}{Starry Night}{C}{1}{33,768}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BLove Tune%5D%5BStarry Night%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{Love Tune}{Starry Night}{P}{1}{39,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BLove Tune%5D%5BStarry Night%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{The Beginning Cupid}{Cupid}{C}{1}{25,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BThe Beginning Cupid%5D%5BCupid%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{THE FIFTY}{Higher}{C}{1}{30,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BTHE FIFTY%5D%5BHigher%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{THE FIFTY}{Log In}{C}{1}{47,064}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BTHE FIFTY%5D%5BLog In%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{FIFTY FIFTY}{THE FIFTY}{Log In}{DBC}{1}{40,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BFIFTY FIFTY%5D%5BTHE FIFTY%5D%5BLog In%5D%5BDBC%5D%5B1%5D.mp3?raw=true}
 {fromis_9}{9 Way Ticket}{WE GO}{C}{1}{35,291375}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5B9 Way Ticket%5D%5BWE GO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {fromis_9}{From.9}{Love Bomb}{C}{1}{34,4555}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5BFrom.9%5D%5BLove Bomb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {fromis_9}{FUN FACTORY}{Fun!}{C}{2}{20,7150625}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5BFUN FACTORY%5D%5BFun!%5D%5BC%5D%5B2%5D.mp3?raw=true}
