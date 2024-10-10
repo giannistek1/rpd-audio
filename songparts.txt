@@ -267,11 +267,11 @@
 {CIX}{HELLO Chapter 2. Hello, Strange Place}{Numb}{C}{1}{21,211375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 2. Hello, Strange Place%5D%5BNumb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CIX}{HELLO Chapter 3. Hello, Strange Time}{Jungle}{C}{1}{49,65875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 3. Hello, Strange Time%5D%5BJungle%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CIX}{HELLO Chapter. Hello, Strange Dream}{Cinema}{C}{1}{23,1966875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter. Hello, Strange Dream%5D%5BCinema%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{CL (2NE1)}{+HWA+}{+HWA+}{C}{1}{24,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5B+HWA+%5D%5B+HWA+%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CL (2NE1)}{Alpha}{Tie a Cherry}{C}{1}{36,864}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BAlpha%5D%5BTie a Cherry%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{CDB}{3}{62,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BHello Bitches%5D%5BHello Bitches%5D%5BCDB%5D%5B3%5D.mp3?raw=true}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{1}{23,568}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BHello Bitches%5D%5BHello Bitches%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{2}{34,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BHello Bitches%5D%5BHello Bitches%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{CL (2NE1)}{HWA}{HWA}{C}{1}{24,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BHWA%5D%5BHWA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CL (2NE1)}{SPICY}{SPICY}{C}{1}{34,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BSPICY%5D%5BSPICY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CL (2NE1)}{The Baddest Female}{The Bladdest Female}{C}{1}{35,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCL (2NE1)%5D%5BThe Baddest Female%5D%5BThe Bladdest Female%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CLC}{Black Dress}{Black Dress}{C}{1}{32,2873125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BBlack Dress%5D%5BBlack Dress%5D%5BC%5D%5B1%5D.mp3?raw=true}
