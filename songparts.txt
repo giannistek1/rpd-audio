@@ -1041,8 +1041,8 @@
 {TREASURE}{The Second Step Chapter One}{JIKJIN}{P}{1}{32,7575}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BThe Second Step Chapter One%5D%5BJIKJIN%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{The Second Step Chapter One}{U}{C}{1}{23,4056875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BThe Second Step Chapter One%5D%5BU%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{The Second Step Chapter One}{U}{P}{1}{36,780375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BThe Second Step Chapter One%5D%5BU%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}{24,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BTHE SECOND STEP CHAPTER TWO%5D%5BHELLO%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}{39,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BTHE SECOND STEP CHAPTER TWO%5D%5BHELLO%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}{25,992}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BTHE SECOND STEP CHAPTER TWO%5D%5BHELLO%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}{34,992}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BTHE SECOND STEP CHAPTER TWO%5D%5BHELLO%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {Triple H}{199X}{365 Fresh}{C}{1}{43,4155}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5B199X%5D%5B365 Fresh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Triple H}{REtro Futurism}{Retro Future}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5BREtro Futurism%5D%5BRetro Future%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Trouble Maker}{Trouble Maker}{Trouble Maker}{C}{2}{37,093875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BTrouble Maker%5D%5BTrouble Maker%5D%5BC%5D%5B2%5D.mp3?raw=true}
