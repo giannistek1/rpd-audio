@@ -13,8 +13,8 @@
 {(G)I-DLE}{I Trust}{Oh My God}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Trust%5D%5BOh My God%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}{42,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BQueendom Final Comeback%5D%5BLION%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Uh-Oh}{Uh-Oh}{C}{1}{35,8660625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BUh-Oh%5D%5BUh-Oh%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{(G)I-DLE}{Wife}{Wife}{C}{1}{28,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{(G)I-DLE}{Wife}{Wife}{DB}{1}{23,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{(G)I-DLE}{Wife}{Wife}{C}{1}{28,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{(G)I-DLE}{Wife}{Wife}{DB}{1}{26,928}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {2NE1}{2NE1}{I Dont Care}{C}{1}{38,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5B2NE1%5D%5BI Dont Care%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2NE1}{Crush}{Come Back Home}{P}{1}{58,462}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BCrush%5D%5BCome Back Home%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {2NE1}{Crush}{Gotta Be You}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2NE1%5D%5BCrush%5D%5BGotta Be You%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -250,7 +250,7 @@
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}{29,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BEENIE MEENIE%5D%5BEENIE MEENIE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{P}{2}{44,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BEENIE MEENIE%5D%5BEENIE MEENIE%5D%5BP%5D%5B2%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{Im Ready}{C}{2}{38,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BEENIE MEENIE%5D%5BIm Ready%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{CHUNG HA (I.O.I)}{Flourishing}{Chica}{C}{1}{35,1608125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BFlourishing%5D%5BChica%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{CHUNG HA (I.O.I)}{Flourishing}{Chica}{C}{1}{38,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BFlourishing%5D%5BChica%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{Flourishing}{Snapping}{P}{1}{48,1175}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BFlourishing%5D%5BSnapping%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{Hands on Me}{Why Dont You Know (feat. Nucksal)}{C}{1}{34,115875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BHands on Me%5D%5BWhy Dont You Know (feat. Nucksal)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{Killing Me}{Killing Me}{C}{1}{23,1705625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BKilling Me%5D%5BKilling Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -277,7 +277,7 @@
 {CLC}{Black Dress}{Black Dress}{C}{1}{32,2873125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BBlack Dress%5D%5BBlack Dress%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CLC}{CryStyle}{Hobgoblin}{C}{2}{28,2905625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BCryStyle%5D%5BHobgoblin%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {CLC}{Devil}{Devil}{C}{1}{30,693875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BDevil%5D%5BDevil%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{CLC}{Helicopter}{Helicopter}{C}{1}{33,3844375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BHelicopter%5D%5BHelicopter%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{CLC}{Helicopter}{Helicopter}{C}{1}{43,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BHelicopter%5D%5BHelicopter%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CLC}{Me}{Me}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BMe%5D%5BMe%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CLC}{No.1}{Like it}{C}{1}{27,663625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BNo.1%5D%5BLike it%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CLC}{No.1}{No}{C}{1}{38,5044375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCLC%5D%5BNo.1%5D%5BNo%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -391,9 +391,9 @@
 {EXO}{Power}{Power}{C}{1}{35,9183125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO%5D%5BPower%5D%5BPower%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXO}{The War}{Ko Ko Bop}{C}{1}{32,1566875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO%5D%5BThe War%5D%5BKo Ko Bop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXO}{The War}{The Eve}{C}{1}{33,8808125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO%5D%5BThe War%5D%5BThe Eve%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{f(x)}{4 Walls}{4 Walls}{C}{1}{25,104}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{f(x)}{4 Walls}{4 Walls}{C}{2}{42,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{f(x)}{4 Walls}{4 Walls}{P}{1}{36,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{C}{1}{25,464}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{C}{2}{39,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{f(x)}{4 Walls}{4 Walls}{P}{1}{36,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5B4 Walls%5D%5B4 Walls%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{C}{1}{24,384}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChocolate Love%5D%5BChocolate Love (Electronic Pop)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{P}{1}{39,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChocolate Love%5D%5BChocolate Love (Electronic Pop)%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {f(x)}{Chu}{Chu}{C}{1}{39,432}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bf(x)%5D%5BChu%5D%5BChu%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -618,8 +618,8 @@
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}{27,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BSticky%5D%5BSticky%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}{25,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BSticky%5D%5BTe Quiero%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LE SSERAFIM}{ANTIFRAGILE}{ANTIFRAGILE}{C}{1}{36,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BANTIFRAGILE%5D%5BANTIFRAGILE%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}{35,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BANTIFRAGILE%5D%5BNo Celestial%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{2}{51,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BANTIFRAGILE%5D%5BNo Celestial%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}{38,4}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BANTIFRAGILE%5D%5BNo Celestial%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{2}{51,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BANTIFRAGILE%5D%5BNo Celestial%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}{39,336}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BCRAZY%5D%5BCRAZY%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {LE SSERAFIM}{EASY}{EASY}{C}{1}{42,336}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BEASY%5D%5BEASY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LE SSERAFIM}{EASY}{EASY}{C}{3}{45,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BEASY%5D%5BEASY%5D%5BC%5D%5B3%5D.mp3?raw=true}
@@ -770,7 +770,7 @@
 {NewJeans}{NewJeans Super Shy}{New Jeans}{C}{1}{19,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNewJeans Super Shy%5D%5BNew Jeans%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{NewJeans Super Shy}{Super Shy}{C}{2}{31,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNewJeans Super Shy%5D%5BSuper Shy%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NewJeans}{OMG}{OMG}{C}{1}{55,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BOMG%5D%5BOMG%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{NewJeans}{Supernatural}{Right Now}{C}{2}{42,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BSupernatural%5D%5BRight Now%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{NewJeans}{Supernatural}{Right Now}{C}{2}{41,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BSupernatural%5D%5BRight Now%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}{44,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BSupernatural%5D%5BSupernatural%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {NMIXX}{A Midsummer NMIXXs Dream}{Party OClock}{C}{1}{40,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNMIXX%5D%5BA Midsummer NMIXXs Dream%5D%5BParty OClock%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{50,1289375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNMIXX%5D%5BAd Mare%5D%5BO.O%5D%5BB%5D%5B1%5D.mp3?raw=true}
