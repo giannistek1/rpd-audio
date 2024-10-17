@@ -11,7 +11,7 @@
 {(G)I-DLE}{I Never Die}{Tomboy}{P}{1}{28,2905625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Never Die%5D%5BTomboy%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Sway}{Klaxon}{C}{1}{42,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Sway%5D%5BKlaxon%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Trust}{Oh My God}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Trust%5D%5BOh My God%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}{41,0905625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BQueendom Final Comeback%5D%5BLION%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}{42,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BQueendom Final Comeback%5D%5BLION%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Uh-Oh}{Uh-Oh}{C}{1}{35,8660625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BUh-Oh%5D%5BUh-Oh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Wife}{Wife}{C}{1}{28,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{Wife}{Wife}{DB}{1}{23,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BWife%5D%5BWife%5D%5BDB%5D%5B1%5D.mp3?raw=true}
