@@ -49,12 +49,16 @@
 {A.C.E}{Under Cover}{Under Cover}{C}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BUnder Cover%5D%5BUnder Cover%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{DBE}{1}{50,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BArmageddon%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{P}{1}{46,728}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BArmageddon%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{aespa}{Armageddon}{Set The Tone}{CE}{3}{50,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BCE%5D%5B3%5D.mp3?raw=true}
+{aespa}{Armageddon}{Set The Tone}{C}{1}{33,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{aespa}{Armageddon}{Set The Tone}{C}{2}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {aespa}{Better Things}{Better Things}{CDB}{2}{41,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BBetter Things%5D%5BBetter Things%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {aespa}{Better Things}{Better Things}{CE}{3}{58,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BBetter Things%5D%5BBetter Things%5D%5BCE%5D%5B3%5D.mp3?raw=true}
 {aespa}{Better Things}{Better Things}{C}{1}{30,816}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BBetter Things%5D%5BBetter Things%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Better Things}{Better Things}{P}{1}{49,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BBetter Things%5D%5BBetter Things%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {aespa}{Black Mamba}{Black Mamba}{C}{1}{31,503625}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BBlack Mamba%5D%5BBlack Mamba%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Drama}{Drama}{P}{1}{57,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BDrama%5D%5BDrama%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{aespa}{Drama}{Trick Or Trick}{C}{1}{38,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BDrama%5D%5BTrick Or Trick%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Dreams Come True}{Dreams Come True}{C}{1}{46,2366875}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BDreams Come True%5D%5BDreams Come True%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Girls}{Girls}{DB}{1}{26,76}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BGirls%5D%5BGirls%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {aespa}{Girls}{Girls}{P}{1}{42,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BGirls%5D%5BGirls%5D%5BP%5D%5B1%5D.mp3?raw=true}
@@ -62,11 +66,13 @@
 {aespa}{Hot Mess}{Hot Mess}{C}{1}{41,448}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BHot Mess%5D%5BHot Mess%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Hot Mess}{Hot Mess}{DBE}{1}{58,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BHot Mess%5D%5BHot Mess%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {aespa}{Illusion}{Illusion}{C}{1}{46,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BIllusion%5D%5BIllusion%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}{30,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BLifes Too Short%5D%5BLifes Too Short%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{MY WORLD}{Spicy}{C}{1}{44,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BMY WORLD%5D%5BSpicy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Next Level}{Next Level}{P}{1}{32,91425}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BNext Level%5D%5BNext Level%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {aespa}{Savage}{Savage}{P}{1}{44,2775}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSavage%5D%5BSavage%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {aespa}{Supernova}{Supernova}{DB}{1}{30,048}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSupernova%5D%5BSupernova%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {aespa}{Supernova}{Supernova}{P}{1}{35,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSupernova%5D%5BSupernova%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{aespa}{Whiplash}{Whiplash}{C}{2}{40,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BWhiplash%5D%5BWhiplash%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Agust D (BTS)}{D-2}{Daechwita}{C}{3}{31,52975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAgust D (BTS)%5D%5BD-2%5D%5BDaechwita%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {Ailee}{Invitation}{I Will Show You}{CE}{3}{52,896}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAilee%5D%5BInvitation%5D%5BI Will Show You%5D%5BCE%5D%5B3%5D.mp3?raw=true}
 {Ailee}{Invitation}{I Will Show You}{C}{1}{38,784}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAilee%5D%5BInvitation%5D%5BI Will Show You%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -773,6 +779,7 @@
 {NewJeans}{OMG}{OMG}{C}{1}{55,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BOMG%5D%5BOMG%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{Supernatural}{Right Now}{C}{2}{41,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BSupernatural%5D%5BRight Now%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}{44,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BSupernatural%5D%5BSupernatural%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{NINGNING (aespa)}{aespa}{Bored}{C}{1}{34,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNINGNING (aespa)%5D%5Baespa%5D%5BBored%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NMIXX}{A Midsummer NMIXXs Dream}{Party OClock}{C}{1}{40,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNMIXX%5D%5BA Midsummer NMIXXs Dream%5D%5BParty OClock%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{B}{1}{50,1289375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNMIXX%5D%5BAd Mare%5D%5BO.O%5D%5BB%5D%5B1%5D.mp3?raw=true}
 {NMIXX}{Ad Mare}{O.O}{O}{1}{26,801625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNMIXX%5D%5BAd Mare%5D%5BO.O%5D%5BO%5D%5B1%5D.mp3?raw=true}
@@ -1169,6 +1176,7 @@
 {WINNER}{Millions}{Millions}{C}{1}{23,823625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BMillions%5D%5BMillions%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{Our Twenty For}{Island}{C}{1}{23,95425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BOur Twenty For%5D%5BIsland%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{We}{Ah Yeah}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BWe%5D%5BAh Yeah%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WINTER (aespa)}{aespa}{Spark}{C}{1}{37,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINTER (aespa)%5D%5Baespa%5D%5BSpark%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WJSN CHOCOME}{Hmph!}{Hmph!}{C}{2}{35,631}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN CHOCOME%5D%5BHmph!%5D%5BHmph!%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {WJSN CHOCOME}{Super Yuppers!}{Super Yuppers!}{C}{1}{42,1355}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN CHOCOME%5D%5BSuper Yuppers!%5D%5BSuper Yuppers!%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WJSN THE BLACK}{My Attitude}{Easy}{C}{1}{23,2489375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN THE BLACK%5D%5BMy Attitude%5D%5BEasy%5D%5BC%5D%5B1%5D.mp3?raw=true}
