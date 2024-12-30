@@ -561,6 +561,7 @@
 {IZ ONE}{COLOR IZ}{La Vie en Rose}{C}{1}{24,6595625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BCOLOR IZ%5D%5BLa Vie en Rose%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IZ ONE}{COLOR IZ}{Violeta}{C}{1}{26,0440625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BCOLOR IZ%5D%5BVioleta%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IZ ONE}{One-reeler Act IV}{Panorama}{C}{1}{36,675875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BOne-reeler Act IV%5D%5BPanorama%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{IZ ONE}{Oneiric Diary}{Rococo}{C}{1}{42,816}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BOneiric Diary%5D%5BRococo%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IZ ONE}{Oneiric Diary}{Secret Story of the Swan}{C}{1}{25,6521875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BOneiric Diary%5D%5BSecret Story of the Swan%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {J-Hope (BTS)}{Chicken Noodle Soup}{Chicken Noodle Soup feat. Becky G}{C}{1}{24,5289375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJ-Hope (BTS)%5D%5BChicken Noodle Soup%5D%5BChicken Noodle Soup feat. Becky G%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {J.Y. Park}{24 34}{Whos Your Mama ft. Jessi}{C}{1}{27,0889375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJ.Y. Park%5D%5B24 34%5D%5BWhos Your Mama ft. Jessi%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -714,7 +715,7 @@
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{O}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BO%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Fact Check}{Fact Check}{C}{1}{34,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BFact Check%5D%5BFact Check%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Favorite}{Favorite (Vampire)}{C}{1}{36,54525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BFavorite%5D%5BFavorite (Vampire)%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{NCT 127}{Limitless}{Limitless}{C}{1}{44,0685625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BLimitless%5D%5BLimitless%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT 127}{Limitless}{Limitless}{C}{1}{48,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BLimitless%5D%5BLimitless%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Loveholic}{Gimme Gimme}{C}{1}{19,6963125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BLoveholic%5D%5BGimme Gimme%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{NCT 127}{Fire Truck}{C}{2}{27,1934375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BNCT 127%5D%5BFire Truck%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NCT 127}{Neo Zone The Final Round}{Punch}{C}{1}{27,4024375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BNeo Zone The Final Round%5D%5BPunch%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -941,7 +942,7 @@
 {STAYC}{Teddy Bear}{Teddy Bear}{C}{1}{40,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BTeddy Bear%5D%5BTeddy Bear%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {STAYC}{TEENFRESH}{Bubble}{C}{1}{39,648}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BTEENFRESH%5D%5BBubble%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {STAYC}{WE NEED LOVE}{BEAUTIFUL MONSTER}{C}{1}{32,424}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BWE NEED LOVE%5D%5BBEAUTIFUL MONSTER%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{STAYC}{YOUNG-LUV.COM}{Run2U}{C}{1}{34,8211875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BYOUNG-LUV.COM%5D%5BRun2U%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{STAYC}{YOUNG-LUV.COM}{Run2U}{C}{1}{41,568}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSTAYC%5D%5BYOUNG-LUV.COM%5D%5BRun2U%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{5 STAR}{S-Class}{C}{1}{34,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BS-Class%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{5 STAR}{S-Class}{DB}{1}{29,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BS-Class%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{5 STAR}{Super Bowl}{C}{1}{34,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5B5 STAR%5D%5BSuper Bowl%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -962,8 +963,8 @@
 {Stray Kids}{ROCK-STAR}{LALALALA}{C}{3}{48,024}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BROCK-STAR%5D%5BLALALALA%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {Stray Kids}{ROCK-STAR}{LALALALA}{P}{1}{39,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BROCK-STAR%5D%5BLALALALA%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{SKZ2020}{District 9}{CDB}{1}{46,915875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BDistrict 9%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
-{Stray Kids}{SKZ2020}{Double Knot}{C}{1}{36,96325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BDouble Knot%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{Stray Kids}{SKZ2020}{Double Knot}{DB}{1}{38,217125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BDouble Knot%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{Stray Kids}{SKZ2020}{Double Knot}{C}{1}{40,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BDouble Knot%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Stray Kids}{SKZ2020}{Double Knot}{DB}{1}{39,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BDouble Knot%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{SKZ2020}{Get Cool}{C}{1}{31,3208125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BGet Cool%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{SKZ2020}{Hellevator}{C}{1}{36,2579375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BHellevator%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Stray Kids}{SKZ2020}{I Am YOU}{C}{1}{31,791}{https://github.com/giannistek1/rpd-audio/blob/main/%5BStray Kids%5D%5BSKZ2020%5D%5BI Am YOU%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1053,6 +1054,7 @@
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}{34,992}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BTHE SECOND STEP CHAPTER TWO%5D%5BHELLO%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {Triple H}{199X}{365 Fresh}{C}{1}{43,4155}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5B199X%5D%5B365 Fresh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Triple H}{REtro Futurism}{Retro Future}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5BREtro Futurism%5D%5BRetro Future%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Trouble Maker}{Chemistry}{Now}{C}{1}{40,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BChemistry%5D%5BNow%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Trouble Maker}{Trouble Maker}{Trouble Maker}{C}{2}{37,093875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BTrouble Maker%5D%5BTrouble Maker%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{1}{21,159125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{33,044875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BMirotic%5D%5BMirotic%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1160,7 +1162,7 @@
 {Weeekly}{Play Game Holiday}{Holiday Party}{C}{1}{26,88}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeeekly%5D%5BPlay Game Holiday%5D%5BHoliday Party%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weeekly}{We Are}{Tag Me (@Me)}{C}{1}{42,5011875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeeekly%5D%5BWe Are%5D%5BTag Me (@Me)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weeekly}{We Can}{Zig Zag}{C}{1}{42,08325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeeekly%5D%5BWe Can%5D%5BZig Zag%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{Weeekly}{We Play}{After School}{C}{1}{33,5411875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeeekly%5D%5BWe Play%5D%5BAfter School%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Weeekly}{We Play}{After School}{C}{1}{37,032}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeeekly%5D%5BWe Play%5D%5BAfter School%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WEi}{IDENTITY Action}{Bye Bye Bye}{C}{1}{41,66525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWEi%5D%5BIDENTITY Action%5D%5BBye Bye Bye%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weki Meki}{DAZZLE DAZZLE}{DAZZLE DAZZLE}{C}{1}{43,128125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BDAZZLE DAZZLE%5D%5BDAZZLE DAZZLE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Weki Meki}{Hide and Seek}{OOPSY}{C}{1}{30,589375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BHide and Seek%5D%5BOOPSY%5D%5BC%5D%5B1%5D.mp3?raw=true}
