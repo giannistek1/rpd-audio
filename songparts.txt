@@ -43,6 +43,7 @@
 {A.C.E}{HZJM The Butterfly Phantasy}{Goblin (Favorite Boys)}{C}{1}{36,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BHZJM The Butterfly Phantasy%5D%5BGoblin (Favorite Boys)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {A.C.E}{My Girl My Choice}{My Girl}{C}{1}{23,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BMy Girl My Choice%5D%5BMy Girl%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {A.C.E}{My Girl My Choice}{My Girl}{P}{1}{42,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BMy Girl My Choice%5D%5BMy Girl%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{A.C.E}{PINATA}{PINATA}{C}{1}{32,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BPINATA%5D%5BPINATA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {A.C.E}{Siren Dawn}{Higher}{C}{1}{42,031}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BSiren Dawn%5D%5BHigher%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {A.C.E}{Supernatural}{Supernatural}{C}{1}{46,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BSupernatural%5D%5BSupernatural%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {A.C.E}{Under Cover The Mad Squad}{Savage}{C}{1}{30,302}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BUnder Cover The Mad Squad%5D%5BSavage%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -575,6 +576,7 @@
 {Jackson Wang (GOT7)}{100 Ways}{100 Ways}{C}{2}{29,07425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJackson Wang (GOT7)%5D%5B100 Ways%5D%5B100 Ways%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Jackson Wang (GOT7)}{Pretty Please}{Pretty Please}{C}{1}{19,8269375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJackson Wang (GOT7)%5D%5BPretty Please%5D%5BPretty Please%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jay Park}{Mommae}{Mommae}{C}{3}{25,2865}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJay Park%5D%5BMommae%5D%5BMommae%5D%5BC%5D%5B3%5D.mp3?raw=true}
+{JENNIE (Blackpink)}{Mantra}{Mantra}{C}{2}{25,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BMantra%5D%5BMantra%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {JENNIE (Blackpink)}{SOLO}{SOLO}{C}{1}{25,9134375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BSOLO%5D%5BSOLO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JENNIE (Blackpink)}{You & Me}{You & Me}{C}{1}{32,928}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BYou & Me%5D%5BYou & Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JENNIE (Blackpink)}{You & Me}{You & Me}{C}{2}{37,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJENNIE (Blackpink)%5D%5BYou & Me%5D%5BYou & Me%5D%5BC%5D%5B2%5D.mp3?raw=true}
