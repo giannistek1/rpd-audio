@@ -155,6 +155,7 @@
 {BABYMONSTER}{BATTER UP}{BATTER UP}{C}{1}{26,4}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBATTER UP%5D%5BBATTER UP%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{BATTER UP}{BATTER UP}{DB}{1}{43,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBATTER UP%5D%5BBATTER UP%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{BATTER UP}{BATTER UP}{P}{1}{34,248}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBATTER UP%5D%5BBATTER UP%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{BABYMONSTER}{DRIP}{DRIP}{C}{1}{29,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BDRIP%5D%5BDRIP%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{FOREVER}{FOREVER}{C}{1}{43,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BFOREVER%5D%5BFOREVER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}{22,104}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBADVILLAIN%5D%5BHURRICANE%5D%5BHURRICANE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BADVILLAIN}{OVERSTEP}{BADVILLAIN}{C}{1}{23,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBADVILLAIN%5D%5BOVERSTEP%5D%5BBADVILLAIN%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -374,6 +375,7 @@
 {EVERGLOW}{Arrival of Everglow}{Bon Bon Chocolat}{P}{1}{30,171375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BArrival of Everglow%5D%5BBon Bon Chocolat%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{Hush}{Adios}{C}{1}{42,8408125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BHush%5D%5BAdios%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{Last Melody}{First}{P}{1}{42,3183125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BLast Melody%5D%5BFirst%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{EVERGLOW}{Reminiscence}{Dun Dun}{C}{3}{49,992}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BReminiscence%5D%5BDun Dun%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {EVERGLOW}{Reminiscence}{Dun Dun}{P}{1}{44,64326530612245}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BReminiscence%5D%5BDun Dun%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{RETURN OF THE GIRL}{Pirate}{P}{1}{32,783625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BRETURN OF THE GIRL%5D%5BPirate%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{ZOMBIE}{ZOMBIE}{C}{1}{38,76}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BZOMBIE%5D%5BZOMBIE%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -495,6 +497,8 @@
 {iKON}{Welcome Back (Full Album)}{Dumb & Dumber}{C}{1}{35,0824375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BiKON%5D%5BWelcome Back (Full Album)%5D%5BDumb & Dumber%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {iKON}{Welcome Back (Half Album)}{RHYTHM TA}{C}{1}{30,328125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BiKON%5D%5BWelcome Back (Half Album)%5D%5BRHYTHM TA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {iKON}{Why Why Why}{Why Why Why}{C}{1}{40,0456875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BiKON%5D%5BWhy Why Why%5D%5BWhy Why Why%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BIll Like You%5D%5BCherish (My Love)%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ILLIT}{Ill Like You}{Tick-Tack}{C}{2}{24,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BIll Like You%5D%5BTick-Tack%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Lucky Girl Syndrome}{C}{1}{24,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BSUPER REAL ME%5D%5BLucky Girl Syndrome%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{1}{38,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BSUPER REAL ME%5D%5BMagnetic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{3}{39,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5D%5BSUPER REAL ME%5D%5BMagnetic%5D%5BC%5D%5B3%5D.mp3?raw=true}
@@ -622,6 +626,8 @@
 {Kep1er}{FIRST IMPACT}{WA DA DA}{C}{1}{39,9673125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKep1er%5D%5BFIRST IMPACT%5D%5BWA DA DA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{1}{36,936}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{2}{41,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}{20,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BLose Yourself%5D%5BIgloo%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{KISS OF LIFE}{Lose Yourself}{Igloo}{C}{3}{40,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BLose Yourself%5D%5BIgloo%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {KISS OF LIFE}{Midas Touch}{Midas Touch}{C}{1}{24,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BMidas Touch%5D%5BMidas Touch%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}{27,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BSticky%5D%5BSticky%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}{25,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BSticky%5D%5BTe Quiero%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1194,6 +1200,7 @@
 {WJSN}{UNNATURAL}{Unnatural}{C}{1}{28,3428125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN%5D%5BUNNATURAL%5D%5BUnnatural%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WJSN}{WJ Please}{Save Me, Save You}{C}{1}{38,7134375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN%5D%5BWJ Please%5D%5BSave Me, Save You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}{37,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWonder Girls%5D%5BThe Wonder Years Trilogy%5D%5BNobody%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WOOAH}{BLUSH}{BLUSH}{C}{1}{30,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWOOAH%5D%5BBLUSH%5D%5BBLUSH%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {X1}{Quantum Leap}{Flash}{P}{1}{33,1755}{https://github.com/giannistek1/rpd-audio/blob/main/%5BX1%5D%5BQuantum Leap%5D%5BFlash%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}{24,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BGRL GVNG%5D%5BGRL GVNG%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {XG}{MASCARA}{MASCARA}{C}{1}{40,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BMASCARA%5D%5BMASCARA%5D%5BC%5D%5B1%5D.mp3?raw=true}
