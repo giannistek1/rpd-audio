@@ -736,7 +736,7 @@
 {NCT 127}{Sticker}{Lemonade}{C}{1}{26,82775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BLemonade%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Sticker}{Sticker Remix}{C}{1}{27,1934375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BSticker Remix%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Sticker}{Sticker}{C}{1}{28,5779375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BSticker%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{1}{23,4056875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWe Are Superhuman%5D%5BHighway to Heaven%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{2}{40,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWe Are Superhuman%5D%5BHighway to Heaven%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Superhuman}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWe Are Superhuman%5D%5BSuperhuman%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}{26,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT DOJAEJUNG%5D%5BPERFUME%5D%5BPerfume%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}{39,384}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT Dream%5D%5BBeatbox%5D%5BBeatbox%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -907,7 +907,7 @@
 {Seventeen}{An Ode}{Fear}{C}{1}{18,755875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BAn Ode%5D%5BFear%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{Attacca}{Rock with you}{C}{1}{30,9550625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BAttacca%5D%5BRock with you%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{Boys Be}{Mansae}{C}{1}{37,2505625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BBoys Be%5D%5BMansae%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}{41,2995625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BGoing Seventeen%5D%5BBOOMBOOM%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}{47,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BGoing Seventeen%5D%5BBOOMBOOM%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{Henggarae}{Left & Right}{P}{1}{40,38525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BHenggarae%5D%5BLeft & Right%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{HIT}{Hit}{P}{1}{40,777125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BHIT%5D%5BHit%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{Love & Letter}{Pretty U}{C}{1}{34,7428125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5BLove & Letter%5D%5BPretty U%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -989,7 +989,7 @@
 {SUNMI (Wonder Girls)}{Full Moon}{Full Moon (Feat. Lena)}{C}{1}{47,2555}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BFull Moon%5D%5BFull Moon (Feat. Lena)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SUNMI (Wonder Girls)}{Heart Burn}{Heart Burn}{C}{1}{31,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BHeart Burn%5D%5BHeart Burn%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SUNMI (Wonder Girls)}{Heroine}{Heroine}{C}{1}{35,0301875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BHeroine%5D%5BHeroine%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{SUNMI (Wonder Girls)}{LALALAY}{LALALAY}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BLALALAY%5D%5BLALALAY%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{SUNMI (Wonder Girls)}{LALALAY}{LALALAY}{C}{1}{25,992}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BLALALAY%5D%5BLALALAY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SUNMI (Wonder Girls)}{pporappippam}{pporappippam}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5Bpporappippam%5D%5Bpporappippam%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SUNMI (Wonder Girls)}{SUNMI SPECIAL EDITION GASHINA}{Gashina}{C}{1}{26,0701875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BSUNMI SPECIAL EDITION GASHINA%5D%5BGashina%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SUNMI (Wonder Girls)}{TAIL}{TAIL}{C}{1}{35,448125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSUNMI (Wonder Girls)%5D%5BTAIL%5D%5BTAIL%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1166,9 +1166,14 @@
 {WayV}{Awaken The World}{Bad Alive}{C}{1}{34,6121875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BAwaken The World%5D%5BBad Alive%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Awaken The World}{Turn Back Time}{C}{1}{32,5485625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BAwaken The World%5D%5BTurn Back Time%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Awaken The World}{Turn Back Time}{DB}{1}{19,7485625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BAwaken The World%5D%5BTurn Back Time%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{WayV}{FREQUENCY}{FREQUENCY}{P}{1}{32,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BFREQUENCY%5D%5BFREQUENCY%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{WayV}{Give Me That}{Give Me That}{C}{1}{29,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BGive Me That%5D%5BGive Me That%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Kick Back}{Action Figure}{C}{1}{32,992625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BKick Back%5D%5BAction Figure%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Kick Back}{Kick Back}{C}{1}{30,9028125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BKick Back%5D%5BKick Back%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Love Talk (English Version)}{Love Talk English Version}{C}{1}{24,8424375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BLove Talk (English Version)%5D%5BLove Talk English Version%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WayV}{On My Youth}{On My Youth}{C}{1}{32,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BOn My Youth%5D%5BOn My Youth%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WayV}{On My Youth}{Poppin Love}{C}{1}{33,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BOn My Youth%5D%5BPoppin Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WayV}{Phantom}{Phantom}{C}{1}{46,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BPhantom%5D%5BPhantom%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Take Off}{Take Off}{C}{1}{33,7763125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BTake Off%5D%5BTake Off%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Take Off}{Take Off}{DB}{1}{26,279125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BTake Off%5D%5BTake Off%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {WayV}{Take Over The Moon}{Moonwalk}{C}{1}{24,9469375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BTake Over The Moon%5D%5BMoonwalk%5D%5BC%5D%5B1%5D.mp3?raw=true}
