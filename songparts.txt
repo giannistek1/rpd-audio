@@ -25,7 +25,7 @@
 {2PM}{0159PM}{Heartbeat}{DBE}{1}{43,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5B0159PM%5D%5BHeartbeat%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {2PM}{200PM Time for Change}{Again & Again}{C}{1}{41,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5B200PM Time for Change%5D%5BAgain & Again%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2PM}{GROWN}{A.D.T.O.Y.}{C}{1}{33,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BGROWN%5D%5BA.D.T.O.Y.%5D%5BC%5D%5B1%5D .mp3?raw=true}
-{2PM}{HANDS UP}{HANDS UP}{C}{1}{25,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BHANDS UP%5D%5BHANDS UP%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{2PM}{HANDS UP}{HANDS UP}{C}{2}{36,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BHANDS UP%5D%5BHANDS UP%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {2PM}{Must}{Make It}{C}{1}{34,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BMust%5D%5BMake It%5D%5BC%5D%5B1%5D .mp3?raw=true}
 {2PM}{No. 5}{My House}{C}{1}{39,3665}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BNo. 5%5D%5BMy House%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}{39,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5B2PM%5D%5BStill 0200pm%5D%5BIll Be Back%5D%5BC%5D%5B1%5D .mp3?raw=true}
@@ -337,8 +337,10 @@
 {Dreamcatcher}{The End of Nightmare}{PIRI}{C}{1}{41,6130625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BThe End of Nightmare%5D%5BPIRI%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}{31,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BVillainS%5D%5BOOTD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}{43,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BVirtuouS%5D%5BJUSTICE%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}{20,297125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}{19,879125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}{24,336}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{ENHYPEN}{Billy Poco}{Billy Poco}{DBE}{1}{39,768}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}{23,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{ENHYPEN}{Billy Poco}{Billy Poco}{P}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{Border Carnival}{Drunk-Dazed}{C}{1}{33,7501875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBorder Carnival%5D%5BDrunk-Dazed%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{Border Carnival}{Fever}{P}{1}{38,6350625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBorder Carnival%5D%5BFever%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{Border Carnival}{Mixed Up}{C}{1}{28,9175}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBorder Carnival%5D%5BMixed Up%5D%5BC%5D%5B1%5D.mp3?raw=true}
