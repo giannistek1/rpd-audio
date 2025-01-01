@@ -270,8 +270,8 @@
 {CHUNG HA (I.O.I)}{Stay Tonight}{Stay Tonight}{P}{1}{52,453875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BStay Tonight%5D%5BStay Tonight%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{XII}{Gotta Go}{B}{1}{27,79425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BXII%5D%5BGotta Go%5D%5BB%5D%5B1%5D.mp3?raw=true}
 {CHUNG HA (I.O.I)}{XII}{Gotta Go}{C}{1}{43,128125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCHUNG HA (I.O.I)%5D%5BXII%5D%5BGotta Go%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{1}{22,3608125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 1. Hello, Stranger%5D%5BMovie Star%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{2}{41,0383125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 1. Hello, Stranger%5D%5BMovie Star%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{1}{27,432}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 1. Hello, Stranger%5D%5BMovie Star%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{2}{46,128}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 1. Hello, Stranger%5D%5BMovie Star%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {CIX}{HELLO Chapter 2. Hello, Strange Place}{Numb}{C}{1}{21,211375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 2. Hello, Strange Place%5D%5BNumb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CIX}{HELLO Chapter 3. Hello, Strange Time}{Jungle}{C}{1}{49,65875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter 3. Hello, Strange Time%5D%5BJungle%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {CIX}{HELLO Chapter. Hello, Strange Dream}{Cinema}{C}{1}{23,1966875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BCIX%5D%5BHELLO Chapter. Hello, Strange Dream%5D%5BCinema%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -488,7 +488,7 @@
 {HyunA (4Minute)}{Lip & Hip}{Lip & Hip}{P}{1}{54,2563125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA (4Minute)%5D%5BLip & Hip%5D%5BLip & Hip%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {I-LAND2}{FINAL LOVE SONG}{FINAL LOVE SONG}{C}{1}{28,848}{https://github.com/giannistek1/rpd-audio/blob/main/%5BI-LAND2%5D%5BFINAL LOVE SONG%5D%5BFINAL LOVE SONG%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {I-LAND2}{FINAL LOVE SONG}{FINAL LOVE SONG}{P}{1}{37,104}{https://github.com/giannistek1/rpd-audio/blob/main/%5BI-LAND2%5D%5BFINAL LOVE SONG%5D%5BFINAL LOVE SONG%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}{42,6318125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BI-LAND%5D%5BInto the I-LAND%5D%5BInto the I-LAND (applicants ver.)%5D%5BC%5D%5B3%5D.mp3?raw=true}
+{I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}{47,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BI-LAND%5D%5BInto the I-LAND%5D%5BInto the I-LAND (applicants ver.)%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {I.O.I}{Miss Me}{Very Very Very}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BI.O.I%5D%5BMiss Me%5D%5BVery Very Very%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {iKON}{i DECIDE.}{Dive}{C}{1}{25,208125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BiKON%5D%5Bi DECIDE.%5D%5BDive%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {iKON}{New Kids Begin}{B-DAY}{P}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BiKON%5D%5BNew Kids Begin%5D%5BB-DAY%5D%5BP%5D%5B1%5D.mp3?raw=true}
@@ -589,7 +589,7 @@
 {JEON SOMI (I.O.I)}{XOXO}{XOXO}{C}{1}{30,4065}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJEON SOMI (I.O.I)%5D%5BXOXO%5D%5BXOXO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jessi}{Cold Blooded}{Cold Blooded}{C}{1}{20,5321875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BCold Blooded%5D%5BCold Blooded%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jessi}{Nuna}{Nunu Nana}{C}{2}{31,3730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BNuna%5D%5BNunu Nana%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{Jessi}{What Type of X}{What Type of X}{C}{1}{28,00325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BWhat Type of X%5D%5BWhat Type of X%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Jessi}{What Type of X}{What Type of X}{C}{1}{28,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BWhat Type of X%5D%5BWhat Type of X%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{CLOSER}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BCLOSER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{KILLIN ME GOOD}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BKILLIN ME GOOD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JISOO (Blackpink)}{Me}{Flower}{C}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJISOO (Blackpink)%5D%5BMe%5D%5BFlower%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -717,8 +717,8 @@
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}{31,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5B2 Baddies%5D%5B2 Baddies%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}{19,248}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5B2 Baddies%5D%5B2 Baddies%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}{41,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5B2 Baddies%5D%5B2 Baddies%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{NCT 127}{Awaken}{Wakey Wakey}{C}{1}{17,737125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{NCT 127}{Awaken}{Wakey Wakey}{C}{2}{25,6260625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{NCT 127}{Awaken}{Wakey Wakey}{C}{1}{23,592}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT 127}{Awaken}{Wakey Wakey}{C}{2}{30,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{C}{1}{31,3730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{DB}{1}{30,7460625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{O}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BO%5D%5B1%5D.mp3?raw=true}
@@ -775,7 +775,7 @@
 {NCT U}{NCT Resonance Pt. 2}{90s Love}{C}{1}{40,248}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BNCT Resonance Pt. 2%5D%5B90s Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{90s Love}{DBE}{1}{45,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BNCT Resonance Pt. 2%5D%5B90s Love%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {NCT U}{NCT Resonance Pt. 2}{90s Love}{DB}{1}{23,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BNCT Resonance Pt. 2%5D%5B90s Love%5D%5BDB%5D%5B1%5D.mp3?raw=true}
-{NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}{20,5060625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BNCT Resonance Pt. 2%5D%5BWork It%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}{25,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BNCT Resonance Pt. 2%5D%5BWork It%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT U}{Universe}{Universe (Lets Play Ball)}{C}{1}{27,872625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT U%5D%5BUniverse%5D%5BUniverse (Lets Play Ball)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT x aespa}{2021 Winter SMTOWN SMCU EXPRESS}{ZOO}{C}{1}{23,3273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT x aespa%5D%5B2021 Winter SMTOWN SMCU EXPRESS%5D%5BZOO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{Ditto}{Ditto}{C}{1}{34,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BDitto%5D%5BDitto%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1169,7 +1169,7 @@
 {WayV}{Awaken The World}{Turn Back Time}{C}{1}{32,5485625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BAwaken The World%5D%5BTurn Back Time%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Awaken The World}{Turn Back Time}{DB}{1}{19,7485625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BAwaken The World%5D%5BTurn Back Time%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {WayV}{FREQUENCY}{FREQUENCY}{P}{1}{32,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BFREQUENCY%5D%5BFREQUENCY%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{WayV}{Give Me That}{Give Me That}{C}{1}{29,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BGive Me That%5D%5BGive Me That%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WayV}{Give Me That}{Give Me That}{C}{1}{31,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BGive Me That%5D%5BGive Me That%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Kick Back}{Action Figure}{C}{1}{32,992625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BKick Back%5D%5BAction Figure%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Kick Back}{Kick Back}{C}{1}{30,9028125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BKick Back%5D%5BKick Back%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Love Talk (English Version)}{Love Talk English Version}{C}{1}{24,8424375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BLove Talk (English Version)%5D%5BLove Talk English Version%5D%5BC%5D%5B1%5D.mp3?raw=true}
