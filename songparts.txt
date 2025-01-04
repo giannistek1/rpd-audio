@@ -631,6 +631,7 @@
 {KDA}{Popstars}{Popstars}{P}{1}{47,6995918367347}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKDA%5D%5BPopstars%5D%5BPopstars%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {KDA}{The Baddest}{The Baddest}{P}{2}{43,46775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKDA%5D%5BThe Baddest%5D%5BThe Baddest%5D%5BP%5D%5B2%5D.mp3?raw=true}
 {Kep1er}{FIRST IMPACT}{WA DA DA}{C}{1}{39,9673125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKep1er%5D%5BFIRST IMPACT%5D%5BWA DA DA%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Key (SHINee)}{Pleasure Shop}{Pleasure Shop}{C}{1}{42,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKey (SHINee)%5D%5BPleasure Shop%5D%5BPleasure Shop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{1}{36,936}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{2}{41,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}{20,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BLose Yourself%5D%5BIgloo%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1030,6 +1031,8 @@
 {T-ARA}{And & End}{Sugar Free}{C}{1}{37,8775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BT-ARA%5D%5BAnd & End%5D%5BSugar Free%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {T-ARA}{John Travolta Wannabe}{Roly-Poly}{C}{1}{37,1721875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BT-ARA%5D%5BJohn Travolta Wannabe%5D%5BRoly-Poly%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TAEMIN (SHINee)}{Advice}{Advice}{P}{1}{44,8783125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BAdvice%5D%5BAdvice%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{TAEMIN (SHINee)}{ETERNAL}{Horizon}{C}{1}{45,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BETERNAL%5D%5BHorizon%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TAEMIN (SHINee)}{ETERNAL}{Sexy In The Air}{C}{1}{28,536}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BETERNAL%5D%5BSexy In The Air%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TAEMIN (SHINee)}{Guilty}{Guilty}{C}{1}{51,552}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BGuilty%5D%5BGuilty%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TAEMIN (SHINee)}{Move}{Move}{C}{1}{35,343625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BMove%5D%5BMove%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TAEMIN (SHINee)}{Never Gonna Dance Again Act 1}{Criminal}{C}{1}{39,288125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTAEMIN (SHINee)%5D%5BNever Gonna Dance Again Act 1%5D%5BCriminal%5D%5BC%5D%5B1%5D.mp3?raw=true}
