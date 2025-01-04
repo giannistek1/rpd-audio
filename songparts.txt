@@ -624,6 +624,7 @@
 {KARINA (aespa)}{aespa}{UP}{C}{1}{27,624}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARINA (aespa)%5D%5Baespa%5D%5BUP%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{1}{27,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BDebut%5D%5BDebut%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KATSEYE}{Debut}{Debut}{C}{2}{55,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BDebut%5D%5BDebut%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{KATSEYE}{SIS (Soft Is Strong)}{My Way}{C}{1}{31,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BSIS (Soft Is Strong)%5D%5BMy Way%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KATSEYE}{Touch}{Touch}{C}{1}{33,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BTouch%5D%5BTouch%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KATSEYE}{Touch}{Touch}{C}{2}{34,128}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKATSEYE%5D%5BTouch%5D%5BTouch%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {KDA}{All Out}{MORE}{P}{1}{43,8334693877551}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKDA%5D%5BAll Out%5D%5BMORE%5D%5BP%5D%5B1%5D.mp3?raw=true}
@@ -1064,6 +1065,7 @@
 {TREASURE}{KING KONG}{King Kong}{C}{1}{25,128}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BKING KONG%5D%5BKing Kong%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{KING KONG}{King Kong}{DBE}{1}{27,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BKING KONG%5D%5BKing Kong%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{KING KONG}{King Kong}{DB}{1}{27,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BKING KONG%5D%5BKing Kong%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{TREASURE}{LAST NIGHT}{LAST NIGHT}{C}{1}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BLAST NIGHT%5D%5BLAST NIGHT%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{MOVE (T5)}{MOVE (T5 Unit)}{DBE}{1}{50,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BMOVE (T5)%5D%5BMOVE (T5 Unit)%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{MOVE (T5)}{MOVE (T5 Unit)}{P}{1}{42,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BMOVE (T5)%5D%5BMOVE (T5 Unit)%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{REBOOT}{BONA BONA}{DBE}{1}{42,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BREBOOT%5D%5BBONA BONA%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
@@ -1091,8 +1093,10 @@
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{33,044875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BMirotic%5D%5BMirotic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{&TWICE}{Fake & True}{C}{2}{40,0718125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5B&TWICE%5D%5BFake & True%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Twice}{BDZ}{BDZ}{C}{2}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBDZ%5D%5BBDZ%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{Twice}{BETTER}{BETTER}{C}{1}{41,136}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBETTER%5D%5BBETTER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Between 1&2}{Talk That Talk}{C}{1}{27,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBetween 1&2%5D%5BTalk That Talk%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}{50,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBreakthrough%5D%5BBreakthrough%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Twice}{Candy Pop}{Candy Pop}{C}{1}{35,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BCandy Pop%5D%5BCandy Pop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Cry For Me}{Cry For Me}{C}{1}{34,011375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BCry For Me%5D%5BCry For Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Eyes Wide Open}{I Cant Stop Me}{C}{1}{44,8783125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BEyes Wide Open%5D%5BI Cant Stop Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Eyes Wide Open}{I Cant Stop Me}{P}{1}{51,7224375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BEyes Wide Open%5D%5BI Cant Stop Me%5D%5BP%5D%5B1%5D.mp3?raw=true}
@@ -1113,6 +1117,7 @@
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}{47,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BREADY TO BE%5D%5BSET ME FREE%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Twice}{Signal}{Signal}{C}{1}{35,0824375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BSignal%5D%5BSignal%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Signal}{Signal}{C}{2}{44,0685625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BSignal%5D%5BSignal%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{Twice}{STRATEGY}{Strategy}{C}{1}{33,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BSTRATEGY%5D%5BStrategy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Summer Nights}{Dance The Night Away}{P}{1}{35,291375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BSummer Nights%5D%5BDance The Night Away%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Twice}{Taste of Love}{Alcohol-Free}{C}{1}{45,0089375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BTaste of Love%5D%5BAlcohol-Free%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{The Feels}{The Feels}{P}{2}{53,0024375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BThe Feels%5D%5BThe Feels%5D%5BP%5D%5B2%5D.mp3?raw=true}
@@ -1121,6 +1126,7 @@
 {Twice}{TWICEcoaster Lane 1}{TT}{P}{1}{41,1950625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BTWICEcoaster Lane 1%5D%5BTT%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Twice}{TWICEcoaster Lane 2}{Knock Knock}{C}{1}{38,217125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BTWICEcoaster Lane 2%5D%5BKnock Knock%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Twicetagram}{Likey}{C}{1}{35,448125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BTwicetagram%5D%5BLikey%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Twice}{Twicetagram}{Look At Me}{C}{1}{35,4}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BTwicetagram%5D%5BLook At Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{What is Love}{What is Love}{C}{1}{29,5705625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BWhat is Love%5D%5BWhat is Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{With YOU-th}{ONE SPARK}{C}{1}{29,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BWith YOU-th%5D%5BONE SPARK%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{With YOU-th}{ONE SPARK}{P}{1}{42,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BWith YOU-th%5D%5BONE SPARK%5D%5BP%5D%5B1%5D.mp3?raw=true}
