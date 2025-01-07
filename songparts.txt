@@ -597,6 +597,7 @@
 {JIHYO (Twice)}{ZONE}{CLOSER}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BCLOSER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{KILLIN ME GOOD}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BKILLIN ME GOOD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JISOO (Blackpink)}{Me}{Flower}{C}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJISOO (Blackpink)%5D%5BMe%5D%5BFlower%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}{48,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJo Yuri (IZ ONE)%5D%5BGLASSY%5D%5BGLASSY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJoy (Red Velvet)%5D%5BHello%5D%5BHello%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Jungkook (BTS)}{3D}{3D}{C}{1}{33,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJungkook (BTS)%5D%5B3D%5D%5B3D%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jungkook (BTS)}{Golden}{Standing Next To You}{CDB}{2}{81,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJungkook (BTS)%5D%5BGolden%5D%5BStanding Next To You%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
