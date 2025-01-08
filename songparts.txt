@@ -533,9 +533,9 @@
 {ITZY}{GOLD}{GOLD}{CDBE}{2}{73,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BCDBE%5D%5B2%5D.mp3?raw=true}
 {ITZY}{GOLD}{GOLD}{CDB}{2}{45,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {ITZY}{GOLD}{GOLD}{C}{1}{33,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ITZY}{GOLD}{Imaginary Friend}{CDB}{1}{57,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BImaginary Friend%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
+{ITZY}{GOLD}{Imaginary Friend}{C}{1}{45,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BImaginary Friend%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{GUESS WHO}{Mafia In the Morning}{P}{1}{44,460375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGUESS WHO%5D%5BMafia In the Morning%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{ITZY}{Imaginary Friend}{Imaginary Friend}{CDB}{1}{57,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BImaginary Friend%5D%5BImaginary Friend%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
-{ITZY}{Imaginary Friend}{Imaginary Friend}{C}{1}{45,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BImaginary Friend%5D%5BImaginary Friend%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{ITz Different}{Dalla Dalla}{C}{1}{36,675875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Different%5D%5BDalla Dalla%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{ITz Icy}{Icy}{CDB}{2}{35,36975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Icy%5D%5BIcy%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {ITZY}{ITz Icy}{ITz Summer}{C}{1}{18,5730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Icy%5D%5BITz Summer%5D%5BC%5D%5B1%5D.mp3?raw=true}
