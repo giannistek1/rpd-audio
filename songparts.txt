@@ -512,6 +512,9 @@
 {Infinite}{Reality}{Bad}{P}{1}{32,6269375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BReality%5D%5BBad%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{MONSTER}{C}{1}{28,5518125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5BMONSTER%5D%5BMONSTER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{Naughty}{C}{1}{26,2530625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5BMONSTER%5D%5BNaughty%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DBE}{1}{66,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene (Red Velvet)%5D%5BLike A Flower%5D%5BLike A Flower%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DB}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene (Red Velvet)%5D%5BLike A Flower%5D%5BLike A Flower%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{P}{1}{43,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene (Red Velvet)%5D%5BLike A Flower%5D%5BLike A Flower%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ITZY}{Algorhythm}{Algorhythm}{DB}{1}{25,464}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BAlgorhythm%5D%5BAlgorhythm%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}{38,664}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BAlgorhythm%5D%5BAlgorhythm%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ITZY}{Blah Blah Blah}{Blah Blah Blah}{CDB}{2}{40,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BBlah Blah Blah%5D%5BBlah Blah Blah%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
@@ -527,7 +530,12 @@
 {ITZY}{Crazy In Love}{Loco}{PDB}{2}{51,04325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BCrazy In Love%5D%5BLoco%5D%5BPDB%5D%5B2%5D.mp3?raw=true}
 {ITZY}{Crazy In Love}{Loco}{P}{1}{42,5011875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BCrazy In Love%5D%5BLoco%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ITZY}{Crazy In Love}{Swipe}{C}{1}{34,2465}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BCrazy In Love%5D%5BSwipe%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ITZY}{GOLD}{GOLD}{CDBE}{2}{73,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BCDBE%5D%5B2%5D.mp3?raw=true}
+{ITZY}{GOLD}{GOLD}{CDB}{2}{45,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{ITZY}{GOLD}{GOLD}{C}{1}{33,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGOLD%5D%5BGOLD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{GUESS WHO}{Mafia In the Morning}{P}{1}{44,460375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BGUESS WHO%5D%5BMafia In the Morning%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{ITZY}{Imaginary Friend}{Imaginary Friend}{CDB}{1}{57,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BImaginary Friend%5D%5BImaginary Friend%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
+{ITZY}{Imaginary Friend}{Imaginary Friend}{C}{1}{45,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BImaginary Friend%5D%5BImaginary Friend%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{ITz Different}{Dalla Dalla}{C}{1}{36,675875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Different%5D%5BDalla Dalla%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ITZY}{ITz Icy}{Icy}{CDB}{2}{35,36975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Icy%5D%5BIcy%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {ITZY}{ITz Icy}{ITz Summer}{C}{1}{18,5730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BITZY%5D%5BITz Icy%5D%5BITz Summer%5D%5BC%5D%5B1%5D.mp3?raw=true}
