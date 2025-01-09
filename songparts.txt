@@ -1235,6 +1235,7 @@
 {WayV}{Love Talk (English Version)}{Love Talk English Version}{C}{1}{24,8424375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BLove Talk (English Version)%5D%5BLove Talk English Version%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{On My Youth}{On My Youth}{C}{1}{32,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BOn My Youth%5D%5BOn My Youth%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{On My Youth}{Poppin Love}{C}{1}{33,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BOn My Youth%5D%5BPoppin Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WayV}{Phantom}{Diamonds Only}{C}{1}{31,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BPhantom%5D%5BDiamonds Only%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Phantom}{Phantom}{C}{1}{46,416}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BPhantom%5D%5BPhantom%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Take Off}{Take Off}{C}{1}{33,7763125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BTake Off%5D%5BTake Off%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WayV}{Take Off}{Take Off}{DB}{1}{26,279125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWayV%5D%5BTake Off%5D%5BTake Off%5D%5BDB%5D%5B1%5D.mp3?raw=true}
@@ -1254,6 +1255,10 @@
 {Weki Meki}{WEME}{I Don't Like Your Girlfriend}{C}{1}{23,04}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWeki Meki%5D%5BWEME%5D%5BI Don't Like Your Girlfriend%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}{29,328}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BIn The Mood%5D%5BIn The Mood%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}{36,768}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BIn The Mood%5D%5BIn The Mood%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{Redd}{TRASH}{C}{1}{39,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BRedd%5D%5BTRASH%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{Redd}{TRASH}{P}{1}{56,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BRedd%5D%5BTRASH%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{Redd}{water color}{C}{1}{46,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BRedd%5D%5Bwater color%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Wheein (Mamamoo)}{WHEE}{Make Me Happy}{C}{1}{46,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWheein (Mamamoo)%5D%5BWHEE%5D%5BMake Me Happy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{EVERYD4Y}{Everyday}{C}{1}{36,780375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BEVERYD4Y%5D%5BEveryday%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{Fate Number For}{Really Really}{C}{1}{24,4505625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BFate Number For%5D%5BReally Really%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WINNER}{Millions}{Millions}{C}{1}{23,823625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWINNER%5D%5BMillions%5D%5BMillions%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1302,6 +1307,9 @@
 {YOUNG POSSE}{XXL}{XXL}{C}{2}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {YOUNG POSSE}{XXL}{XXL}{DB}{1}{38,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYOUNG POSSE%5D%5BXXL%5D%5BXXL%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Yuju}{REC}{Play}{C}{1}{38,112625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYuju%5D%5BREC%5D%5BPlay%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YUQI ((G)I-DLE)}{A Page}{Bonnie & Clyde}{C}{1}{23,616}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYUQI ((G)I-DLE)%5D%5BA Page%5D%5BBonnie & Clyde%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YUQI ((G)I-DLE)}{YUQ1}{FREAK}{C}{1}{30,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYUQI ((G)I-DLE)%5D%5BYUQ1%5D%5BFREAK%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YUQI ((G)I-DLE)}{YUQ1}{On Clap (ft.Lexie Liu)}{C}{2}{29,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYUQI ((G)I-DLE)%5D%5BYUQ1%5D%5BOn Clap (ft.Lexie Liu)%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}{25,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BZEROBASEONE%5D%5BCinema Paradise%5D%5BGood So Bad%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}{32,592}{https://github.com/giannistek1/rpd-audio/blob/main/%5BZEROBASEONE%5D%5BMELTING POINT%5D%5BCRUSH%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ZEROBASEONE}{MELTING POINT}{MELTING POINT}{C}{1}{40,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BZEROBASEONE%5D%5BMELTING POINT%5D%5BMELTING POINT%5D%5BC%5D%5B1%5D.mp3?raw=true}
