@@ -1298,7 +1298,7 @@
 {xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}{33,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bxikers%5D%5BTsuki (Lunatic)%5D%5BTsuki (Lunatic)%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{1}{30,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BGOOD MORNING%5D%5BGood Girls in the Dark%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{2}{40,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BGOOD MORNING%5D%5BGood Girls in the Dark%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{YENA (IZ ONE)}{HATE XX}{Hate Rodrigo}{C}{1}{31,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BHATE XX%5D%5BHate Rodrigo%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{YENA (IZ ONE)}{HATE XX}{Hate Rodrigo ft. YUQI}{C}{1}{31,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BHATE XX%5D%5BHate Rodrigo ft. YUQI%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{HATE XX}{WICKED LOVE}{C}{1}{34,824}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BHATE XX%5D%5BWICKED LOVE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{NEMONEMO}{NEMONEMO}{C}{1}{38,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BNEMONEMO%5D%5BNEMONEMO%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {YENA (IZ ONE)}{SMARTPHONE}{SMARTPHONE}{C}{1}{31,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BYENA (IZ ONE)%5D%5BSMARTPHONE%5D%5BSMARTPHONE%5D%5BC%5D%5B1%5D.mp3?raw=true}
