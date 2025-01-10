@@ -694,7 +694,6 @@
 {LOONA}{&}{PTT (Paint The Town)}{P}{1}{41,4563125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5B&%5D%5BPTT (Paint The Town)%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {LOONA}{12 00}{Why Not}{C}{1}{36,1273125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5B12 00%5D%5BWhy Not%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{Hashtag}{So What}{C}{1}{42,6318125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BHashtag%5D%5BSo What%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{LOONA}{Kim Lip}{Eclipse}{C}{1}{33,6195625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BKim Lip%5D%5BEclipse%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{Plus Plus}{Hi High}{C}{1}{26,1746875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BPlus Plus%5D%5BHi High%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{StarSeed}{Hula Hoop}{C}{1}{38,7395625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BStarSeed%5D%5BHula Hoop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{X X}{Butterfly}{C}{1}{34,533875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BX X%5D%5BButterfly%5D%5BC%5D%5B1%5D.mp3?raw=true}
