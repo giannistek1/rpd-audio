@@ -95,6 +95,9 @@
 {Apink}{Pink Luv}{Luv}{C}{1}{43,493875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BPink Luv%5D%5BLuv%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Apink}{Pink MEMORY}{Remember}{C}{1}{33,1755}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BPink MEMORY%5D%5BRemember%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Apink}{Secret Garden}{No No No}{C}{2}{32,992625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BSecret Garden%5D%5BNo No No%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{ARTMS}{Dall}{Butterfly Effect}{C}{1}{50,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BDall%5D%5BButterfly Effect%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ARTMS}{Dall}{Virtual Angel}{C}{1}{43,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BDall%5D%5BVirtual Angel%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ARTMS}{Pre1 Birth}{Birth}{C}{1}{36,36}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BPre1 Birth%5D%5BBirth%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ASTRO}{All Light}{All Night}{C}{1}{31,63425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BASTRO%5D%5BAll Light%5D%5BAll Night%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ASTRO}{All Yours}{One}{C}{1}{35,709375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BASTRO%5D%5BAll Yours%5D%5BOne%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ASTRO}{Blue Flame}{Blue Flame}{C}{1}{27,872625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BASTRO%5D%5BBlue Flame%5D%5BBlue Flame%5D%5BC%5D%5B1%5D.mp3?raw=true}
