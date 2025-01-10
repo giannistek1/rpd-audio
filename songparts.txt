@@ -666,6 +666,7 @@
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{C}{1}{44,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKep1er%5D%5BTROUBLESHOOTER%5D%5BWe Fresh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{C}{3}{42,936}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKep1er%5D%5BTROUBLESHOOTER%5D%5BWe Fresh%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {Key (SHINee)}{Pleasure Shop}{Pleasure Shop}{C}{1}{42,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKey (SHINee)%5D%5BPleasure Shop%5D%5BPleasure Shop%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Kim Lip (LOONA)}{Kim Lip}{Eclipse}{C}{1}{37,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKim Lip (LOONA)%5D%5BKim Lip%5D%5BEclipse%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{1}{36,936}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {KISS OF LIFE}{KISS OF LIFE}{Shhh}{CDB}{2}{41,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BKISS OF LIFE%5D%5BShhh%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}{20,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKISS OF LIFE%5D%5BLose Yourself%5D%5BIgloo%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -751,6 +752,10 @@
 {MONSTA X}{The Code}{Dramarama}{C}{1}{35,57875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMONSTA X%5D%5BThe Code%5D%5BDramarama%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MONSTA X}{The Connect Dejavu}{Jealousy}{C}{1}{29,257125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMONSTA X%5D%5BThe Connect Dejavu%5D%5BJealousy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MONSTA X}{Trespass}{Trespass}{C}{1}{26,40975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMONSTA X%5D%5BTrespass%5D%5BTrespass%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Moonbyul (Mamamoo)}{6equence}{Lunatic}{C}{1}{40,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMoonbyul (Mamamoo)%5D%5B6equence%5D%5BLunatic%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Moonbyul (Mamamoo)}{Dark Side of the Moon}{Eclipse}{C}{1}{49,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMoonbyul (Mamamoo)%5D%5BDark Side of the Moon%5D%5BEclipse%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Moonbyul (Mamamoo)}{Selfish}{Selfish ft. Seulgi}{C}{1}{42,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMoonbyul (Mamamoo)%5D%5BSelfish%5D%5BSelfish ft. Seulgi%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Moonbyul (Mamamoo)}{Starlit of Muse}{TOUCHIN&MOVIN}{C}{1}{27,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMoonbyul (Mamamoo)%5D%5BStarlit of Muse%5D%5BTOUCHIN&MOVIN%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NAYEON (Twice)}{IM NAYEON}{POP!}{C}{1}{34,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNAYEON (Twice)%5D%5BIM NAYEON%5D%5BPOP!%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NAYEON (Twice)}{NA}{ABCD}{C}{1}{43,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNAYEON (Twice)%5D%5BNA%5D%5BABCD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NAYEON (Twice)}{NA}{ABCD}{DB}{1}{28,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNAYEON (Twice)%5D%5BNA%5D%5BABCD%5D%5BDB%5D%5B1%5D.mp3?raw=true}
