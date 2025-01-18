@@ -885,9 +885,11 @@
 {ONEUS}{Blood Moon}{Luna}{C}{3}{44,1730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BBlood Moon%5D%5BLuna%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {ONEUS}{Blood Moon}{Luna}{DB}{1}{33,4105625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BBlood Moon%5D%5BLuna%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {ONEUS}{Devil}{No Diggity}{C}{1}{31,1640625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BDevil%5D%5BNo Diggity%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ONEUS}{Devil}{No Diggity}{DBE}{1}{36,552}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BDevil%5D%5BNo Diggity%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {ONEUS}{Devil}{No Diggity}{P}{1}{42,94525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BDevil%5D%5BNo Diggity%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ONEUS}{Fly With Us}{Lit}{C}{1}{36,0489375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BFly With Us%5D%5BLit%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{ONEUS}{In Its Time}{A Song Written Easily}{C}{1}{26,592625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BIn Its Time%5D%5BA Song Written Easily%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{ONEUS}{Fly With Us}{Lit}{DB}{1}{23,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BFly With Us%5D%5BLit%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{ONEUS}{In Its Time}{A Song Written Easily}{C}{1}{32,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BIn Its Time%5D%5BA Song Written Easily%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}{36,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BLa Dolce Vita%5D%5BBaila Conmigo%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{2}{41,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BLa Dolce Vita%5D%5BBaila Conmigo%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {ONEUS}{Light Us}{Valkyrie}{C}{1}{35,709375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BONEUS%5D%5BLight Us%5D%5BValkyrie%5D%5BC%5D%5B1%5D.mp3?raw=true}
