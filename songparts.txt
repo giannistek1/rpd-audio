@@ -480,6 +480,8 @@
 {GOT7}{MAD}{If You Do}{C}{1}{35,9183125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGOT7%5D%5BMAD%5D%5BIf You Do%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {GOT7}{Present You}{Lullaby}{C}{1}{35,1346875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGOT7%5D%5BPresent You%5D%5BLullaby%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {GOT7}{Spinning Top Between Security and Insecurity}{Eclipse}{C}{1}{29,204875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGOT7%5D%5BSpinning Top Between Security and Insecurity%5D%5BEclipse%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{GYUBIN}{Really Like You}{Really Like You}{C}{1}{33,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGYUBIN%5D%5BReally Like You%5D%5BReally Like You%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{GYUBIN}{Satellite}{Satellite}{C}{1}{49,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGYUBIN%5D%5BSatellite%5D%5BSatellite%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {H.I.N.P}{30 Girls 6 Concepts}{Rumor}{C}{1}{28,133875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BH.I.N.P%5D%5B30 Girls 6 Concepts%5D%5BRumor%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Highlight}{Celebrate}{Can Be Better}{C}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHighlight%5D%5BCelebrate%5D%5BCan Be Better%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HINAPIA}{New Start}{DRIP}{C}{1}{37,1983125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHINAPIA%5D%5BNew Start%5D%5BDRIP%5D%5BC%5D%5B1%5D.mp3?raw=true}
