@@ -772,6 +772,8 @@
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}{41,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5B2 Baddies%5D%5B2 Baddies%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Awaken}{Wakey Wakey}{C}{1}{23,592}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Awaken}{Wakey Wakey}{C}{2}{30,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAwaken%5D%5BWakey Wakey%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{NCT 127}{Ay-Yo}{Ay-Yo}{C}{1}{32,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAy-Yo%5D%5BAy-Yo%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT 127}{Ay-Yo}{DJ}{P}{1}{35,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BAy-Yo%5D%5BDJ%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{C}{1}{31,3730625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{DB}{1}{30,7460625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Cherry Bomb}{Cherry Bomb}{O}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BCherry Bomb%5D%5BCherry Bomb%5D%5BO%5D%5B1%5D.mp3?raw=true}
@@ -791,6 +793,7 @@
 {NCT 127}{Sticker}{Lemonade}{C}{1}{26,82775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BLemonade%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Sticker}{Sticker Remix}{C}{1}{27,1934375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BSticker Remix%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{Sticker}{Sticker}{C}{1}{28,5779375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BSticker%5D%5BSticker%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NCT 127}{Walk}{Walk}{C}{1}{35,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWalk%5D%5BWalk%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{2}{40,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWe Are Superhuman%5D%5BHighway to Heaven%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NCT 127}{We Are Superhuman}{Superhuman}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT 127%5D%5BWe Are Superhuman%5D%5BSuperhuman%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}{26,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNCT DOJAEJUNG%5D%5BPERFUME%5D%5BPerfume%5D%5BC%5D%5B1%5D.mp3?raw=true}
