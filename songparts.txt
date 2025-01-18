@@ -441,6 +441,7 @@
 {fromis_9}{Midnight Guest}{DM}{C}{1}{37,4856875}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5BMidnight Guest%5D%5BDM%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {fromis_9}{My Little Society}{Feel Good(Secret Code)}{C}{1}{36,832625}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5BMy Little Society%5D%5BFeel Good(Secret Code)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {fromis_9}{To. Day}{DKDK (Pit-a-pat)}{C}{1}{28,3689375}{https://github.com/giannistek1/rpd-audio/blob/main/%5Bfromis_9%5D%5BTo. Day%5D%5BDKDK (Pit-a-pat)%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{G-DRAGON (BIGBANG)}{HOME SWEET HOME}{HOME SWEET HOME ft. TAEYANG & DAESUNG)}{C}{1}{34,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BG-DRAGON (BIGBANG)%5D%5BHOME SWEET HOME%5D%5BHOME SWEET HOME ft. TAEYANG & DAESUNG)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {GD X Taeyang (BIGBANG)}{Good Boy}{Good Boy}{C}{1}{27,1673125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGD X Taeyang (BIGBANG)%5D%5BGood Boy%5D%5BGood Boy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {GFRIEND}{Fever Season}{Fever}{C}{2}{38,6350625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGFRIEND%5D%5BFever Season%5D%5BFever%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {GFRIEND}{Flower Bud}{Me Gustas Tu}{C}{2}{33,98525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGFRIEND%5D%5BFlower Bud%5D%5BMe Gustas Tu%5D%5BC%5D%5B2%5D.mp3?raw=true}
