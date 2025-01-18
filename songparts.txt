@@ -7,7 +7,7 @@
 {(G)I-DLE}{I burn}{HWAA}{C}{1}{27,951}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI burn%5D%5BHWAA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I feel}{QUEENCARD}{C}{1}{38,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI feel%5D%5BQUEENCARD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Love}{Nxde}{C}{1}{39,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Love%5D%5BNxde%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{(G)I-DLE}{I Made}{Senorita}{C}{1}{39,131375}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Made%5D%5BSenorita%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{(G)I-DLE}{I Made}{Senorita}{C}{1}{41,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Made%5D%5BSenorita%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Never Die}{My Bag}{C}{2}{29,424}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Never Die%5D%5BMy Bag%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {(G)I-DLE}{I Never Die}{Tomboy}{P}{1}{28,2905625}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Never Die%5D%5BTomboy%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {(G)I-DLE}{I Sway}{Klaxon}{C}{1}{40,848}{https://github.com/giannistek1/rpd-audio/blob/main/%5B(G)I-DLE%5D%5BI Sway%5D%5BKlaxon%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -705,7 +705,7 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}{37,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Blue;s}{Wind Flower}{P}{1}{50,782}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BBlue;s%5D%5BWind Flower%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Dingga}{Dingga}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BDingga%5D%5BDingga%5D%5BC%5D%5B1%5D.mp3?raw=true}
-{Mamamoo}{Gleam}{Gleam}{C}{1}{27,5069375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BGleam%5D%5BGleam%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Mamamoo}{Gleam}{Gleam}{C}{1}{33,864}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BGleam%5D%5BGleam%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Hello}{Mr. Ambiguous}{C}{1}{45,1656875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BHello%5D%5BMr. Ambiguous%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{I Say Mamamoo The Best}{Mumumumuch}{C}{1}{41,87425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BI Say Mamamoo The Best%5D%5BMumumumuch%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Memory}{Decalcomanie}{C}{1}{43,46775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BMemory%5D%5BDecalcomanie%5D%5BC%5D%5B1%5D.mp3?raw=true}
