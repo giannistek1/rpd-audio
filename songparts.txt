@@ -706,6 +706,11 @@
 {LOONA}{Plus Plus}{Hi High}{C}{1}{26,1746875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BPlus Plus%5D%5BHi High%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{StarSeed}{Hula Hoop}{C}{1}{38,7395625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BStarSeed%5D%5BHula Hoop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LOONA}{X X}{Butterfly}{C}{1}{34,533875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLOONA%5D%5BX X%5D%5BButterfly%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Loossemble}{Loossemble}{Sensitive}{C}{1}{37,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLoossemble%5D%5BLoossemble%5D%5BSensitive%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Loossemble}{One of a Kind}{Girls Night}{C}{1}{47,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLoossemble%5D%5BOne of a Kind%5D%5BGirls Night%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Loossemble}{TTYL}{Confessions}{C}{1}{45,552}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLoossemble%5D%5BTTYL%5D%5BConfessions%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Loossemble}{TTYL}{Cotton Candy}{C}{1}{45,048}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLoossemble%5D%5BTTYL%5D%5BCotton Candy%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Loossemble}{TTYL}{TTYL}{C}{1}{37,896}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLoossemble%5D%5BTTYL%5D%5BTTYL%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}{31,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}{65,568}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}{37,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BDB%5D%5B1%5D.mp3?raw=true}
