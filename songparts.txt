@@ -403,6 +403,7 @@
 {EXID}{Up & Down}{Up & Down}{C}{1}{20,11425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXID%5D%5BUp & Down%5D%5BUp & Down%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXID}{Up & Down}{Up & Down}{P}{1}{30,9028125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXID%5D%5BUp & Down%5D%5BUp & Down%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {EXID}{We}{Me & You}{C}{1}{24,2155}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXID%5D%5BWe%5D%5BMe & You%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{EXID}{X}{Fire}{C}{1}{42,864}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXID%5D%5BX%5D%5BFire%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXO-K}{Mama}{Mama}{C}{1}{28,6301875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO-K%5D%5BMama%5D%5BMama%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXO}{Dont Fight the Feeling}{Dont Fight the Feeling}{C}{1}{20,7150625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO%5D%5BDont Fight the Feeling%5D%5BDont Fight the Feeling%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EXO}{Dont Mess Up My Tempo}{Tempo}{C}{1}{22,67425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEXO%5D%5BDont Mess Up My Tempo%5D%5BTempo%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -727,6 +728,8 @@
 {MCND}{TOP GANG}{TOP GANG}{C}{1}{20,6105625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMCND%5D%5BTOP GANG%5D%5BTOP GANG%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MEOVV}{MEOW}{MEOW}{C}{2}{36,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BMEOW%5D%5BMEOW%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}{39,384}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BMEOW%5D%5BMEOW%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{MEOVV}{TOXIC}{BODY}{C}{2}{23,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BTOXIC%5D%5BBODY%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{MEOVV}{TOXIC}{BODY}{DBE}{1}{35,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BTOXIC%5D%5BBODY%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {MIRAE}{Splash}{Splash}{C}{1}{31,84325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMIRAE%5D%5BSplash%5D%5BSplash%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MISAMO (Twice)}{Masterpiece}{Do not touch}{C}{1}{36,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMISAMO (Twice)%5D%5BMasterpiece%5D%5BDo not touch%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MOMOLAND & Natti Natasha}{Yummy Yummy Love}{Yummy Yummy Love}{C}{1}{31,660375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMOMOLAND & Natti Natasha%5D%5BYummy Yummy Love%5D%5BYummy Yummy Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
