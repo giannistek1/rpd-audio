@@ -350,6 +350,7 @@
 {Dreamcatcher}{The End of Nightmare}{PIRI}{C}{1}{41,6130625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BThe End of Nightmare%5D%5BPIRI%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}{31,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BVillainS%5D%5BOOTD%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}{43,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDreamcatcher%5D%5BVirtuouS%5D%5BJUSTICE%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Dynamic Duo}{Street Woman Fighter2 (SWF2) Class Mission}{Smoke}{C}{1}{30,024}{https://github.com/giannistek1/rpd-audio/blob/main/%5BDynamic Duo%5D%5BStreet Woman Fighter2 (SWF2) Class Mission%5D%5BSmoke%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}{24,336}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {ENHYPEN}{Billy Poco}{Billy Poco}{DBE}{1}{39,768}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}{23,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BBilly Poco%5D%5BBilly Poco%5D%5BDB%5D%5B1%5D.mp3?raw=true}
