@@ -589,6 +589,7 @@
 {IVE}{Love Dive}{Love Dive}{DB}{1}{24,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BLove Dive%5D%5BLove Dive%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {IVE}{Love Dive}{Love Dive}{P}{1}{52,035875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BLove Dive%5D%5BLove Dive%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {IVE}{Love Dive}{ROYAL}{C}{1}{37,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BLove Dive%5D%5BROYAL%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{IVE}{REBEL HEART}{REBEL HEART}{C}{1}{39,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BREBEL HEART%5D%5BREBEL HEART%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{WAVE}{WAVE}{C}{1}{25,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BWAVE%5D%5BWAVE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{WAVE}{WAVE}{C}{2}{23,448}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BWAVE%5D%5BWAVE%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {IZ ONE}{BLOOM IZ}{Fiesta}{C}{1}{38,24325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIZ ONE%5D%5BBLOOM IZ%5D%5BFiesta%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -715,14 +716,18 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}{31,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}{65,568}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}{37,632}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLUCAS (NCT)%5D%5BRenegade%5D%5BRenegade%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{Mamamoo+}{ACT 1, SCENE 1}{GGBB}{C}{1}{35,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo+%5D%5BACT 1, SCENE 1%5D%5BGGBB%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Mamamoo+}{TWO RABBITS}{dangdang}{C}{2}{35,424}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo+%5D%5BTWO RABBITS%5D%5Bdangdang%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Mamamoo}{Blue;s}{Wind Flower}{P}{1}{50,782}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BBlue;s%5D%5BWind Flower%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Dingga}{Dingga}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BDingga%5D%5BDingga%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Gleam}{Gleam}{C}{1}{33,864}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BGleam%5D%5BGleam%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Hello}{Mr. Ambiguous}{C}{1}{45,1656875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BHello%5D%5BMr. Ambiguous%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{I Say Mamamoo The Best}{Mumumumuch}{C}{1}{41,87425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BI Say Mamamoo The Best%5D%5BMumumumuch%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Memory}{Decalcomanie}{C}{1}{43,46775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BMemory%5D%5BDecalcomanie%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Mamamoo}{Mic On}{Illella}{C}{2}{42,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BMic On%5D%5BIllella%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Mamamoo}{Pink Funky}{Um Oh Ah Yeh}{C}{1}{22,543625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BPink Funky%5D%5BUm Oh Ah Yeh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Pink Funky}{Um Oh Ah Yeh}{C}{2}{42,1355}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BPink Funky%5D%5BUm Oh Ah Yeh%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{Mamamoo}{Purple}{Yes I Am}{C}{2}{36,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BPurple%5D%5BYes I Am%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Mamamoo}{Reality in Black}{Hip}{P}{1}{36,3363125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BReality in Black%5D%5BHip%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Red Moon}{Egotistic}{C}{1}{27,2979375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BRed Moon%5D%5BEgotistic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Travel}{AYA}{C}{1}{32,70525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BTravel%5D%5BAYA%5D%5BC%5D%5B1%5D.mp3?raw=true}
