@@ -854,6 +854,7 @@
 {NewJeans}{Get Up}{Cool With You}{C}{1}{22,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BGet Up%5D%5BCool With You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{Get Up}{Cool With You}{C}{2}{35,664}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BGet Up%5D%5BCool With You%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {NewJeans}{Get Up}{ETA}{C}{1}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BGet Up%5D%5BETA%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NewJeans}{Gods}{Gods}{C}{1}{35,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BGods%5D%5BGods%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{How Sweet}{How Sweet}{C}{1}{43,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BHow Sweet%5D%5BHow Sweet%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{New Jeans}{Attention}{C}{1}{27,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNew Jeans%5D%5BAttention%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{New Jeans}{Hype Boy}{C}{1}{48,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNew Jeans%5D%5BHype Boy%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1159,6 +1160,12 @@
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{P}{1}{50,76}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTRI.BE%5D%5BDa Loca%5D%5BDOOM DOOM TA%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Triple H}{199X}{365 Fresh}{C}{1}{43,4155}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5B199X%5D%5B365 Fresh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Triple H}{REtro Futurism}{Retro Future}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5BREtro Futurism%5D%5BRetro Future%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{CDB}{3}{47,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BCDB%5D%5B3%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{1}{28,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{2}{27,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{5}{30,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B5%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{DB}{1}{29,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{tripleS}{ASSEMBLE}{Rising}{C}{1}{52,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE%5D%5BRising%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Trouble Maker}{Chemistry}{Now}{C}{1}{40,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BChemistry%5D%5BNow%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Trouble Maker}{Trouble Maker}{Trouble Maker}{C}{2}{37,093875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BTrouble Maker%5D%5BTrouble Maker%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{1}{28,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1171,6 +1178,7 @@
 {Twice}{Breakthrough}{Breakthrough}{C}{1}{50,832}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBreakthrough%5D%5BBreakthrough%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Candy Pop}{Candy Pop}{C}{1}{35,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BCandy Pop%5D%5BCandy Pop%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Cry For Me}{Cry For Me}{C}{1}{34,011375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BCry For Me%5D%5BCry For Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Twice}{Eyes Wide Open}{Go Hard}{C}{1}{28,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BEyes Wide Open%5D%5BGo Hard%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Eyes Wide Open}{I Cant Stop Me}{C}{1}{44,8783125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BEyes Wide Open%5D%5BI Cant Stop Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{Eyes Wide Open}{I Cant Stop Me}{P}{1}{51,7224375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BEyes Wide Open%5D%5BI Cant Stop Me%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Twice}{Fancy You}{Fancy}{C}{1}{34,08975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BFancy You%5D%5BFancy%5D%5BC%5D%5B1%5D.mp3?raw=true}
