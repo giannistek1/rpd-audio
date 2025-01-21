@@ -95,6 +95,7 @@
 {Apink}{Pink Luv}{Luv}{C}{1}{43,493875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BPink Luv%5D%5BLuv%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Apink}{Pink MEMORY}{Remember}{C}{1}{33,1755}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BPink MEMORY%5D%5BRemember%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Apink}{Secret Garden}{No No No}{C}{2}{32,992625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BApink%5D%5BSecret Garden%5D%5BNo No No%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{APRIL}{Da Capo}{LALALILALA}{P}{1}{46,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAPRIL%5D%5BDa Capo%5D%5BLALALILALA%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {ARTMS}{Dall}{Butterfly Effect}{C}{1}{50,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BDall%5D%5BButterfly Effect%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ARTMS}{Dall}{Virtual Angel}{C}{1}{43,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BDall%5D%5BVirtual Angel%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ARTMS}{Pre1 Birth}{Birth}{C}{1}{36,36}{https://github.com/giannistek1/rpd-audio/blob/main/%5BARTMS%5D%5BPre1 Birth%5D%5BBirth%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -733,6 +734,8 @@
 {Mamamoo}{Travel}{AYA}{C}{1}{32,70525}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BTravel%5D%5BAYA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{White Wind}{Gogobebe}{C}{1}{36,675875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BWhite Wind%5D%5BGogobebe%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Mamamoo}{Yellow Flower}{Starry Night}{C}{1}{23,6930625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMamamoo%5D%5BYellow Flower%5D%5BStarry Night%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{MAVE}{PANDORAS BOX}{PANDORA}{C}{1}{36,048}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMAVE%5D%5BPANDORAS BOX%5D%5BPANDORA%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{MAVE}{Whats My Name}{Whats My Name}{C}{1}{36,336}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMAVE%5D%5BWhats My Name%5D%5BWhats My Name%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MCND}{EARTH AGE}{nanana}{C}{1}{25,051375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMCND%5D%5BEARTH AGE%5D%5Bnanana%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MCND}{into the ICE AGE}{ICE AGE}{C}{1}{18,782}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMCND%5D%5Binto the ICE AGE%5D%5BICE AGE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MCND}{MCND AGE}{Crush}{CDB}{3}{34,4555}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMCND%5D%5BMCND AGE%5D%5BCrush%5D%5BCDB%5D%5B3%5D.mp3?raw=true}
@@ -1160,12 +1163,16 @@
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{P}{1}{50,76}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTRI.BE%5D%5BDa Loca%5D%5BDOOM DOOM TA%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Triple H}{199X}{365 Fresh}{C}{1}{43,4155}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5B199X%5D%5B365 Fresh%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Triple H}{REtro Futurism}{Retro Future}{C}{1}{22,491375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTriple H%5D%5BREtro Futurism%5D%5BRetro Future%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{tripleS}{ACCESS}{Generation}{C}{1}{55,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BACCESS%5D%5BGeneration%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{CDB}{3}{47,952}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BCDB%5D%5B3%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{1}{28,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{2}{27,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{5}{30,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BC%5D%5B5%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{DB}{1}{29,088}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE24%5D%5BGirls Never Die%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {tripleS}{ASSEMBLE}{Rising}{C}{1}{52,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BASSEMBLE%5D%5BRising%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{tripleS}{Performante}{Hit the Floor}{C}{1}{29,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BPerformante%5D%5BHit the Floor%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{tripleS}{Performante}{Hit the Floor}{DBE}{1}{39,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BPerformante%5D%5BHit the Floor%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
+{tripleS}{Untitled}{Untitled}{C}{2}{31,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BtripleS%5D%5BUntitled%5D%5BUntitled%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Trouble Maker}{Chemistry}{Now}{C}{1}{40,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BChemistry%5D%5BNow%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Trouble Maker}{Trouble Maker}{Trouble Maker}{C}{2}{37,093875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BTrouble Maker%5D%5BTrouble Maker%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{1}{28,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B1%5D.mp3?raw=true}
