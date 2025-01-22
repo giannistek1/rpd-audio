@@ -220,7 +220,7 @@
 {Blackpink}{The Album}{Lovesick Girls}{C}{1}{34,115875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlackpink%5D%5BThe Album%5D%5BLovesick Girls%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Blackpink}{The Album}{Pretty Savage}{C}{1}{17,319125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlackpink%5D%5BThe Album%5D%5BPretty Savage%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Blackpink}{The Album}{Pretty Savage}{P}{1}{23,4056875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlackpink%5D%5BThe Album%5D%5BPretty Savage%5D%5BP%5D%5B1%5D.mp3?raw=true}
-{Block B}{BLOCKBUSTER #1}{Nillili Mambo}{C}{1}{28,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlock B%5D%5BBLOCKBUSTER #1%5D%5BNillili Mambo%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Block B}{BLOCKBUSTER 1}{Nillili Mambo}{C}{1}{28,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlock B%5D%5BBLOCKBUSTER 1%5D%5BNillili Mambo%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Block B}{HER}{HER}{C}{1}{32,784}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlock B%5D%5BHER%5D%5BHER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Block B}{Montage}{Shall We Dance}{C}{1}{21,9166875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlock B%5D%5BMontage%5D%5BShall We Dance%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Block B}{Very Good}{Very Good}{C}{1}{24,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBlock B%5D%5BVery Good%5D%5BVery Good%5D%5BC%5D%5B1%5D.mp3?raw=true}
