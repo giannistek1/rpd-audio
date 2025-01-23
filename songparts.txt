@@ -1194,7 +1194,7 @@
 {Trouble Maker}{Trouble Maker}{Trouble Maker}{C}{2}{37,093875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrouble Maker%5D%5BTrouble Maker%5D%5BTrouble Maker%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{1}{28,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{2}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B2%5D.mp3?raw=true}
-{TTS (Girls Generation)}{Holler}{Hollerl}{C}{1}{28,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (Girls Generation)%5D%5BHoller%5D%5BHollerl%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TTS (Girls Generation)}{Holler}{Holler}{C}{1}{28,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (Girls Generation)%5D%5BHoller%5D%5BHoller%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{33,044875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BMirotic%5D%5BMirotic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{&TWICE}{Fake & True}{C}{2}{40,0718125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5B&TWICE%5D%5BFake & True%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Twice}{BDZ}{BDZ}{C}{2}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBDZ%5D%5BBDZ%5D%5BC%5D%5B2%5D.mp3?raw=true}
