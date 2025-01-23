@@ -256,6 +256,7 @@
 {BTS}{Map of the Soul Persona}{Dionysus}{C}{1}{38,24325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BMap of the Soul Persona%5D%5BDionysus%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BTS}{O!Rul8,2}{N.O.}{C}{1}{33,201625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BO!Rul8,2%5D%5BN.O.%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BTS}{Permission to Dance}{Permission to Dance}{C}{2}{51,2783125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BPermission to Dance%5D%5BPermission to Dance%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{BTS}{Proof}{Run BTS}{C}{1}{34,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BProof%5D%5BRun BTS%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BTS}{Skool Luv Affair}{Boy In Luv}{C}{1}{39,62775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BSkool Luv Affair%5D%5BBoy In Luv%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BTS}{Skool Luv Affair}{Spine Breaker}{C}{1}{25,417125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BSkool Luv Affair%5D%5BSpine Breaker%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BTS}{The Most Beautiful Moment in Life Pt. 1}{DOPE}{C}{2}{30,537125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBTS%5D%5BThe Most Beautiful Moment in Life Pt. 1%5D%5BDOPE%5D%5BC%5D%5B2%5D.mp3?raw=true}
@@ -752,7 +753,9 @@
 {MEOVV}{TOXIC}{BODY}{C}{2}{23,736}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BTOXIC%5D%5BBODY%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {MEOVV}{TOXIC}{BODY}{DBE}{1}{35,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMEOVV%5D%5BTOXIC%5D%5BBODY%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {MIRAE}{Splash}{Splash}{C}{1}{31,84325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMIRAE%5D%5BSplash%5D%5BSplash%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{MISAMO (Twice)}{Identity}{Identity}{C}{1}{34,392}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMISAMO (Twice)%5D%5BIdentity%5D%5BIdentity%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MISAMO (Twice)}{Masterpiece}{Do not touch}{C}{1}{36,6}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMISAMO (Twice)%5D%5BMasterpiece%5D%5BDo not touch%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{MISAMO (Twice)}{NEW LOOK}{NEW LOOK}{C}{2}{29,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMISAMO (Twice)%5D%5BNEW LOOK%5D%5BNEW LOOK%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {MOMOLAND & Natti Natasha}{Yummy Yummy Love}{Yummy Yummy Love}{C}{1}{31,660375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMOMOLAND & Natti Natasha%5D%5BYummy Yummy Love%5D%5BYummy Yummy Love%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MOMOLAND}{Freeze!}{Freeze}{C}{1}{35,448125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMOMOLAND%5D%5BFreeze!%5D%5BFreeze%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {MOMOLAND}{Fun to The World}{BAAM}{C}{1}{37,4595625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BMOMOLAND%5D%5BFun to The World%5D%5BBAAM%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -865,6 +868,7 @@
 {NewJeans}{Gods}{Gods}{C}{1}{35,232}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BGods%5D%5BGods%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{How Sweet}{How Sweet}{C}{1}{43,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BHow Sweet%5D%5BHow Sweet%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{New Jeans}{Attention}{C}{1}{27,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNew Jeans%5D%5BAttention%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{NewJeans}{New Jeans}{Cookie}{C}{1}{37,056}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNew Jeans%5D%5BCookie%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{New Jeans}{Hype Boy}{C}{1}{48,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNew Jeans%5D%5BHype Boy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{NewJeans Super Shy}{New Jeans}{C}{1}{19,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNewJeans Super Shy%5D%5BNew Jeans%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {NewJeans}{NewJeans Super Shy}{Super Shy}{C}{2}{31,92}{https://github.com/giannistek1/rpd-audio/blob/main/%5BNewJeans%5D%5BNewJeans Super Shy%5D%5BSuper Shy%5D%5BC%5D%5B2%5D.mp3?raw=true}
