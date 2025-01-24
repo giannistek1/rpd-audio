@@ -476,6 +476,7 @@
 {Girls Generation (SNSD)}{Mr.Mr.}{Mr.Mr.}{DB}{1}{28,3428125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BMr.Mr.%5D%5BMr.Mr.%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{My Oh My}{My Oh My}{C}{1}{30,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BMy Oh My%5D%5BMy Oh My%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Oh!}{Oh!}{C}{1}{43,896}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BOh!%5D%5BOh!%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Girls Generation (SNSD)}{Paparazzi}{Paparazzi}{C}{1}{46,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BPaparazzi%5D%5BPaparazzi%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Run Devil Run}{Run Devil Run}{C}{1}{37,041625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BRun Devil Run%5D%5BRun Devil Run%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Tell Me Your Wish}{Genie}{C}{1}{35,78775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BTell Me Your Wish%5D%5BGenie%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{The Boys}{The Boys}{C}{1}{22,67425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BThe Boys%5D%5BThe Boys%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -513,6 +514,7 @@
 {HYOLYN (SISTAR)}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BSee Sea%5D%5BSee Sea%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{CDB}{2}{39,444875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDESSERT%5D%5BDESSERT%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{C}{1}{22,88325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDESSERT%5D%5BDESSERT%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{Wannabe}{Wannabe}{C}{1}{34,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BWannabe%5D%5BWannabe%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HyunA & Dawn}{1 1 1}{Ping Pong}{P}{1}{29,6750625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA & Dawn%5D%5B1 1 1%5D%5BPing Pong%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {HyunA (4Minute)}{A Talk}{Red}{C}{1}{28,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA (4Minute)%5D%5BA Talk%5D%5BRed%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HyunA (4Minute)}{Bubble Pop!}{Bubble Pop!}{C}{1}{45,662}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA (4Minute)%5D%5BBubble Pop!%5D%5BBubble Pop!%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1002,6 +1004,7 @@
 {SECRET NUMBER}{Who Dis}{Who Dis}{C}{1}{42,4489375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSECRET NUMBER%5D%5BWho Dis%5D%5BWho Dis%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SEO SOOJIN}{RIZZ}{MONA LISA}{C}{1}{26,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSEO SOOJIN%5D%5BRIZZ%5D%5BMONA LISA%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {SEO SOOJIN}{RIZZ}{MONA LISA}{DB}{1}{25,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSEO SOOJIN%5D%5BRIZZ%5D%5BMONA LISA%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{Seohyun (SNSD)}{Dont Say No}{Dont Say No}{C}{1}{33,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeohyun (SNSD)%5D%5BDont Say No%5D%5BDont Say No%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}{40,536}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeulgi (Red Velvet)%5D%5B28 Reasons%5D%5B28 Reasons%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{17 Carat}{Adore U}{C}{1}{32,783625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5B17 Carat%5D%5BAdore U%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Seventeen}{17 IS RIGHT HERE}{MAESTRO}{C}{1}{41,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5BSeventeen%5D%5B17 IS RIGHT HERE%5D%5BMAESTRO%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1152,6 +1155,7 @@
 {The Boyz}{The Sphere}{Right Here}{C}{1}{40,2024375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BThe Boyz%5D%5BThe Sphere%5D%5BRight Here%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {The Boyz}{The Start}{Giddy Up}{C}{1}{38,6350625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BThe Boyz%5D%5BThe Start%5D%5BGiddy Up%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {The Boyz}{Thrill-ing}{Thrill Ride}{C}{1}{35,78775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BThe Boyz%5D%5BThrill-ing%5D%5BThrill Ride%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Tiffany (SNSD)}{I Just Wanna Dance}{I Just Wanna Dance}{C}{1}{40,968}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTiffany (SNSD)%5D%5BI Just Wanna Dance%5D%5BI Just Wanna Dance%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{Going Crazy}{Going Crazy}{C}{1}{36,623625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BGoing Crazy%5D%5BGoing Crazy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{KING KONG}{King Kong}{C}{1}{25,128}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BKING KONG%5D%5BKing Kong%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TREASURE}{KING KONG}{King Kong}{DBE}{1}{27,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTREASURE%5D%5BKING KONG%5D%5BKing Kong%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
