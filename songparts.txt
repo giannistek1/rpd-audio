@@ -547,7 +547,11 @@
 {ILLIT}{SUPER REAL ME}{Lucky Girl Syndrome}{C}{1}{24,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BSUPER REAL ME%5D%5BLucky Girl Syndrome%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{1}{38,256}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5BSUPER REAL ME%5D%5BMagnetic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ILLIT}{SUPER REAL ME}{Magnetic}{C}{3}{39,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BILLIT%5D%5D%5BSUPER REAL ME%5D%5BMagnetic%5D%5BC%5D%5B3%5D.mp3?raw=true}
+{Infinite}{Be Back}{Back}{CDB}{1}{68,136}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BBe Back%5D%5BBack%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {Infinite}{Infinite Only}{The Eye}{CDB}{1}{54,77875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BInfinite Only%5D%5BThe Eye%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
+{Infinite}{Infinitize}{The Chaser}{C}{1}{24,024}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BInfinitize%5D%5BThe Chaser%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Infinite}{Over the Top}{Be Mine}{C}{1}{48,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BOver the Top%5D%5BBe Mine%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Infinite}{Over the Top}{Be Mine}{DB}{1}{24,432}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BOver the Top%5D%5BBe Mine%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {Infinite}{Reality}{Bad}{P}{1}{32,6269375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BInfinite%5D%5BReality%5D%5BBad%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{MONSTER}{C}{1}{28,5518125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5BMONSTER%5D%5BMONSTER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Irene & Seulgi (Red Velvet)}{MONSTER}{Naughty}{C}{1}{26,2530625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5BMONSTER%5D%5BNaughty%5D%5BC%5D%5B1%5D.mp3?raw=true}
