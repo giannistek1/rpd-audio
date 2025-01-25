@@ -155,6 +155,8 @@
 {ATEEZ}{Zero Fever Part 3}{Eternal Sunshine}{P}{1}{49,711020408163265}{https://github.com/giannistek1/rpd-audio/blob/main/%5BATEEZ%5D%5BZero Fever Part 3%5D%5BEternal Sunshine%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {B.A.P}{One Shot}{One Shot}{C}{1}{44,460375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BB.A.P%5D%5BOne Shot%5D%5BOne Shot%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {B.A.P}{Rose}{Wake Me Up}{C}{2}{42,213875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BB.A.P%5D%5BRose%5D%5BWake Me Up%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{B.A.P}{Warrior}{Warrior}{C}{1}{44,328}{https://github.com/giannistek1/rpd-audio/blob/main/%5BB.A.P%5D%5BWarrior%5D%5BWarrior%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{B.A.P}{Warrior}{Warrior}{DB}{1}{45,984}{https://github.com/giannistek1/rpd-audio/blob/main/%5BB.A.P%5D%5BWarrior%5D%5BWarrior%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{BABYMONS7ER}{LIKE THAT}{CDB}{2}{56,568}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBABYMONS7ER%5D%5BLIKE THAT%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {BABYMONSTER}{BABYMONS7ER}{LIKE THAT}{C}{1}{29,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBABYMONS7ER%5D%5BLIKE THAT%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {BABYMONSTER}{BABYMONS7ER}{LIKE THAT}{DB}{1}{33,72}{https://github.com/giannistek1/rpd-audio/blob/main/%5BBABYMONSTER%5D%5BBABYMONS7ER%5D%5BLIKE THAT%5D%5BDB%5D%5B1%5D.mp3?raw=true}
@@ -945,6 +947,7 @@
 {OnlyOneOf}{Things I Cant Say LOve}{dOpamine}{C}{1}{30,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5BOnlyOneOf%5D%5BThings I Cant Say LOve%5D%5BdOpamine%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {OnlyOneOf}{unknown art pop 2.1}{dOra maar}{C}{1}{30,171375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BOnlyOneOf%5D%5Bunknown art pop 2.1%5D%5BdOra maar%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Orange Caramel}{Catallena}{Catallena}{CDB}{2}{42,3705625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BOrange Caramel%5D%5BCatallena%5D%5BCatallena%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{Orange Caramel}{Shanghai Romance}{Shanghai Romance}{C}{1}{39,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BOrange Caramel%5D%5BShanghai Romance%5D%5BShanghai Romance%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {P1Harmony}{Disharmony Find Out}{Do It Like This}{C}{1}{29,9101875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BP1Harmony%5D%5BDisharmony Find Out%5D%5BDo It Like This%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {P1Harmony}{Killin It}{Killin It}{C}{1}{31,368}{https://github.com/giannistek1/rpd-audio/blob/main/%5BP1Harmony%5D%5BKillin It%5D%5BKillin It%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {PENTAGON}{Genie us}{Sha La La}{C}{1}{39,079125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPENTAGON%5D%5BGenie us%5D%5BSha La La%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -955,6 +958,7 @@
 {PENTAGON}{Thumbs Up!}{Naughty Boy}{C}{1}{29,204875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPENTAGON%5D%5BThumbs Up!%5D%5BNaughty Boy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {PENTAGON}{Universe The Black Hall}{Dr. BeBe}{C}{1}{33,7763125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPENTAGON%5D%5BUniverse The Black Hall%5D%5BDr. BeBe%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {PENTAGON}{We th}{Daisy}{C}{1}{26,749375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPENTAGON%5D%5BWe th%5D%5BDaisy%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{PIXY}{With my wings}{Wings}{CDB}{1}{50,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPIXY%5D%5BWith my wings%5D%5BWings%5D%5BCDB%5D%5B1%5D.mp3?raw=true}
 {PLAYBACK}{Playback}{Playback}{C}{2}{27,4024375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPLAYBACK%5D%5BPlayback%5D%5BPlayback%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {PLAYBACK}{Want You To Say}{Want You To Say}{C}{3}{23,5363125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPLAYBACK%5D%5BWant You To Say%5D%5BWant You To Say%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {PLEDIS Girlz}{We}{We}{C}{1}{42,5795625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BPLEDIS Girlz%5D%5BWe%5D%5BWe%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1350,6 +1354,7 @@
 {WJSN}{UNNATURAL}{Unnatural}{C}{1}{28,3428125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN%5D%5BUNNATURAL%5D%5BUnnatural%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WJSN}{WJ Please}{Save Me, Save You}{C}{1}{38,7134375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWJSN%5D%5BWJ Please%5D%5BSave Me, Save You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}{37,704}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWonder Girls%5D%5BThe Wonder Years Trilogy%5D%5BNobody%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{WONHO (MONSTA X)}{Obsession}{Eye On You}{C}{1}{26,472}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWONHO (MONSTA X)%5D%5BObsession%5D%5BEye On You%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {WOOAH}{BLUSH}{BLUSH}{C}{1}{30,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BWOOAH%5D%5BBLUSH%5D%5BBLUSH%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {X1}{Quantum Leap}{Flash}{P}{1}{33,1755}{https://github.com/giannistek1/rpd-audio/blob/main/%5BX1%5D%5BQuantum Leap%5D%5BFlash%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}{24,504}{https://github.com/giannistek1/rpd-audio/blob/main/%5BXG%5D%5BGRL GVNG%5D%5BGRL GVNG%5D%5BC%5D%5B1%5D.mp3?raw=true}
