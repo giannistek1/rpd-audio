@@ -477,6 +477,7 @@
 {Girls Generation (SNSD)}{My Oh My}{My Oh My}{C}{1}{30,792}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BMy Oh My%5D%5BMy Oh My%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Oh!}{Oh!}{C}{1}{43,896}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BOh!%5D%5BOh!%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Paparazzi}{Paparazzi}{C}{1}{46,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BPaparazzi%5D%5BPaparazzi%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Girls Generation (SNSD)}{Party}{Party}{C}{1}{39,648}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BParty%5D%5BParty%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Run Devil Run}{Run Devil Run}{C}{1}{37,041625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BRun Devil Run%5D%5BRun Devil Run%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{Tell Me Your Wish}{Genie}{C}{1}{35,78775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BTell Me Your Wish%5D%5BGenie%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Girls Generation (SNSD)}{The Boys}{The Boys}{C}{1}{22,67425}{https://github.com/giannistek1/rpd-audio/blob/main/%5BGirls Generation (SNSD)%5D%5BThe Boys%5D%5BThe Boys%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -512,8 +513,13 @@
 {HYOLYN (SISTAR)}{Dally}{Dally}{C}{1}{31,73875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BDally%5D%5BDally%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HYOLYN (SISTAR)}{Layin Low}{Layin Low}{C}{1}{20,7411875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BLayin Low%5D%5BLayin Low%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HYOLYN (SISTAR)}{See Sea}{See Sea}{C}{2}{38,8179375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOLYN (SISTAR)%5D%5BSee Sea%5D%5BSee Sea%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{DEEP}{DEEP}{C}{1}{40,656}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDEEP%5D%5BDEEP%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{DEEP}{DEEP}{DBE}{1}{59,544}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDEEP%5D%5BDEEP%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{CDB}{2}{39,444875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDESSERT%5D%5BDESSERT%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {HYOYEON (SNSD)}{DESSERT}{DESSERT}{C}{1}{22,88325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BDESSERT%5D%5BDESSERT%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{Mystery}{Mystery}{P}{1}{45,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BMystery%5D%5BMystery%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{Picture}{Picture}{C}{1}{35,808}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BPicture%5D%5BPicture%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{HYOYEON (SNSD)}{Punk Right Now}{Punk Right Now}{C}{1}{38,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BPunk Right Now%5D%5BPunk Right Now%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HYOYEON (SNSD)}{Wannabe}{Wannabe}{C}{1}{34,56}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHYOYEON (SNSD)%5D%5BWannabe%5D%5BWannabe%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {HyunA & Dawn}{1 1 1}{Ping Pong}{P}{1}{29,6750625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA & Dawn%5D%5B1 1 1%5D%5BPing Pong%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {HyunA (4Minute)}{A Talk}{Red}{C}{1}{28,16}{https://github.com/giannistek1/rpd-audio/blob/main/%5BHyunA (4Minute)%5D%5BA Talk%5D%5BRed%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1199,6 +1205,7 @@
 {True Damage}{Giants}{Giants}{C}{1}{28,8}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {True Damage}{Giants}{Giants}{C}{2}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {TTS (Girls Generation)}{Holler}{Holler}{C}{1}{28,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (Girls Generation)%5D%5BHoller%5D%5BHoller%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{TTS (SNSD)}{Twinkle}{Twinkle}{C}{2}{26,88}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (SNSD)%5D%5BTwinkle%5D%5BTwinkle%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{33,044875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BMirotic%5D%5BMirotic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{&TWICE}{Fake & True}{C}{2}{40,0718125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5B&TWICE%5D%5BFake & True%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Twice}{BDZ}{BDZ}{C}{2}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBDZ%5D%5BBDZ%5D%5BC%5D%5B2%5D.mp3?raw=true}
