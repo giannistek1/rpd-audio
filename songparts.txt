@@ -649,6 +649,7 @@
 {Jessi}{What Type of X}{What Type of X}{C}{1}{28,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BWhat Type of X%5D%5BWhat Type of X%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{CLOSER}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BCLOSER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{KILLIN ME GOOD}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BKILLIN ME GOOD%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Jimin (BTS)}{Muse}{Who}{C}{1}{24,672}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJimin (BTS)%5D%5BMuse%5D%5BWho%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JISOO (Blackpink)}{Me}{Flower}{C}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJISOO (Blackpink)%5D%5BMe%5D%5BFlower%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}{48,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJo Yuri (IZ ONE)%5D%5BGLASSY%5D%5BGLASSY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jo Yuri (IZ ONE)}{LOVE ALL}{TAXI}{C}{1}{37,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJo Yuri (IZ ONE)%5D%5BLOVE ALL%5D%5BTAXI%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -667,6 +668,11 @@
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKAI, SEULGI, JENO, KARINA%5D%5B2022 Winter SMTOWN SMCU PALACE%5D%5BHot & Cold%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{2}{45,36}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKAI, SEULGI, JENO, KARINA%5D%5B2022 Winter SMTOWN SMCU PALACE%5D%5BHot & Cold%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{3}{46,728}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKAI, SEULGI, JENO, KARINA%5D%5B2022 Winter SMTOWN SMCU PALACE%5D%5BHot & Cold%5D%5BC%5D%5B3%5D.mp3?raw=true}
+{KARA}{Day & Night}{Mamma Mia}{C}{1}{39,192}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BDay & Night%5D%5BMamma Mia%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{KARA}{Day & Night}{Mamma Mia}{DB}{1}{25,464}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BDay & Night%5D%5BMamma Mia%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{KARA}{Lupin}{Lupin}{C}{1}{36,624}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BLupin%5D%5BLupin%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{KARA}{Lupin}{Lupin}{P}{1}{51,36}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BLupin%5D%5BLupin%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{KARA}{Pandora}{Pandora}{C}{1}{37,2}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BPandora%5D%5BPandora%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARA}{Step}{Step}{C}{1}{32,424}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARA%5D%5BStep%5D%5BStep%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARD}{Bomb Bomb}{Bomb Bomb}{C}{1}{25,0775}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BBomb Bomb%5D%5BBomb Bomb%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {KARD}{Dont Recall}{Dont Recall}{C}{1}{51,168}{https://github.com/giannistek1/rpd-audio/blob/main/%5BKARD%5D%5BDont Recall%5D%5BDont Recall%5D%5BC%5D%5B1%5D.mp3?raw=true}
@@ -1214,6 +1220,7 @@
 {True Damage}{Giants}{Giants}{C}{2}{38,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTrue Damage%5D%5BGiants%5D%5BGiants%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {TTS (Girls Generation)}{Holler}{Holler}{C}{1}{28,488}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (Girls Generation)%5D%5BHoller%5D%5BHoller%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TTS (Girls Generation)}{Twinkle}{Twinkle}{C}{2}{26,88}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTTS (Girls Generation)%5D%5BTwinkle%5D%5BTwinkle%5D%5BC%5D%5B2%5D.mp3?raw=true}
+{TVXQ}{Catch Me}{Catch Me}{C}{1}{39,072}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BCatch Me%5D%5BCatch Me%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {TVXQ}{Mirotic}{Mirotic}{C}{1}{33,044875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTVXQ%5D%5BMirotic%5D%5BMirotic%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Twice}{&TWICE}{Fake & True}{C}{2}{40,0718125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5B&TWICE%5D%5BFake & True%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Twice}{BDZ}{BDZ}{C}{2}{39,216}{https://github.com/giannistek1/rpd-audio/blob/main/%5BTwice%5D%5BBDZ%5D%5BBDZ%5D%5BC%5D%5B2%5D.mp3?raw=true}
