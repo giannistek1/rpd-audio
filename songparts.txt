@@ -738,7 +738,13 @@
 {LE SSERAFIM}{FEARLESS}{FEARLESS}{C}{1}{36,96}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BFEARLESS%5D%5BFEARLESS%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LE SSERAFIM}{Perfect Night}{Perfect Night}{C}{1}{40,128}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BPerfect Night%5D%5BPerfect Night%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LE SSERAFIM}{UNFORGIVEN}{UNFORGIVEN}{C}{1}{37,296}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLE SSERAFIM%5D%5BUNFORGIVEN%5D%5BUNFORGIVEN%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{HUSH RUSH}{HUSH RUSH}{C}{1}{53,112}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BHUSH RUSH%5D%5BHUSH RUSH%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Lee Chae Yeon (IZ ONE)}{Over The Moon}{KNOCK}{C}{1}{36,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BOver The Moon%5D%5BKNOCK%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{SHOWDOWN}{Dont}{CDB}{2}{51,816}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BSHOWDOWN%5D%5BDont%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{SHOWDOWN}{Dont}{C}{1}{42,408}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BSHOWDOWN%5D%5BDont%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{SHOWDOWN}{Dont}{DB}{1}{18,048}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BSHOWDOWN%5D%5BDont%5D%5BDB%5D%5B1%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{The Move Street}{Cave}{C}{1}{28,224}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BThe Move Street%5D%5BCave%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Lee Chae Yeon (IZ ONE)}{The Move Street}{LETS DANCE}{C}{1}{42,264}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5BThe Move Street%5D%5BLETS DANCE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Lee Jinhyuk (UP10TION)}{S.O.L}{I Like That}{C}{1}{29,7534375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLee Jinhyuk (UP10TION)%5D%5BS.O.L%5D%5BI Like That%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {LISA (Blackpink)}{LALISA}{LALISA}{P}{1}{34,324875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLISA (Blackpink)%5D%5BLALISA%5D%5BLALISA%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {LISA (Blackpink)}{LALISA}{Money}{C}{1}{18,755875}{https://github.com/giannistek1/rpd-audio/blob/main/%5BLISA (Blackpink)%5D%5BLALISA%5D%5BMoney%5D%5BC%5D%5B1%5D.mp3?raw=true}
