@@ -649,7 +649,9 @@
 {Jessi}{What Type of X}{What Type of X}{C}{1}{28,752}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJessi%5D%5BWhat Type of X%5D%5BWhat Type of X%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{CLOSER}{C}{1}{42,456}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BCLOSER%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JIHYO (Twice)}{ZONE}{KILLIN ME GOOD}{C}{1}{35,52}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJIHYO (Twice)%5D%5BZONE%5D%5BKILLIN ME GOOD%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Jimin (BTS)}{Face}{Like Crazy}{C}{1}{43,032}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJimin (BTS)%5D%5BFace%5D%5BLike Crazy%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jimin (BTS)}{Muse}{Who}{C}{1}{24,672}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJimin (BTS)%5D%5BMuse%5D%5BWho%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{Jimin (BTS)}{Set Me Free Pt.2}{Set Me Free Pt.2}{C}{1}{42,888}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJimin (BTS)%5D%5BSet Me Free Pt.2%5D%5BSet Me Free Pt.2%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {JISOO (Blackpink)}{Me}{Flower}{C}{1}{23,856}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJISOO (Blackpink)%5D%5BMe%5D%5BFlower%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}{48,696}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJo Yuri (IZ ONE)%5D%5BGLASSY%5D%5BGLASSY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {Jo Yuri (IZ ONE)}{LOVE ALL}{TAXI}{C}{1}{37,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5BJo Yuri (IZ ONE)%5D%5BLOVE ALL%5D%5BTAXI%5D%5BC%5D%5B1%5D.mp3?raw=true}
