@@ -397,7 +397,7 @@
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{1}{18,624}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BROMANCE UNTOLD%5D%5BXO (Only If You Say Yes)%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{2}{36,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BROMANCE UNTOLD%5D%5BXO (Only If You Say Yes)%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {ENHYPEN}{ROMANCE UNTOLD}{XO (Only If You Say Yes)}{C}{3}{37,032}{https://github.com/giannistek1/rpd-audio/blob/main/%5BENHYPEN%5D%5BROMANCE UNTOLD%5D%5BXO (Only If You Say Yes)%5D%5BC%5D%5B3%5D.mp3?raw=true}
-{EVERGLOW}{-77.82X-78.29}{La Di Da}{P}{1}{36,3624375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5B-77.82X-78.29%5D%5BLa Di Da%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{EVERGLOW}{-77.82X-78.29}{La Di Da}{C}{1}{36,3624375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5B-77.82X-78.29%5D%5BLa Di Da%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{ALL MY GIRLS}{SLAY}{C}{1}{48,0}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BALL MY GIRLS%5D%5BSLAY%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{Arrival of Everglow}{Bon Bon Chocolat}{P}{1}{30,171375}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BArrival of Everglow%5D%5BBon Bon Chocolat%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {EVERGLOW}{Hush}{Adios}{C}{1}{42,8408125}{https://github.com/giannistek1/rpd-audio/blob/main/%5BEVERGLOW%5D%5BHush%5D%5BAdios%5D%5BC%5D%5B1%5D.mp3?raw=true}
