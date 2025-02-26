@@ -52,6 +52,7 @@
 {A.C.E}{Under Cover}{Under Cover}{C}{1}{33,12325}{https://github.com/giannistek1/rpd-audio/blob/main/%5BA.C.E%5D%5BUnder Cover%5D%5BUnder Cover%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{DBE}{1}{50,352}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BArmageddon%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {aespa}{Armageddon}{Armageddon}{P}{1}{46,728}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BArmageddon%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{aespa}{Armageddon}{Mine}{C}{2}{24,685714285714287}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BMine%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {aespa}{Armageddon}{Set The Tone}{CE}{3}{50,688}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BCE%5D%5B3%5D.mp3?raw=true}
 {aespa}{Armageddon}{Set The Tone}{C}{1}{33,12}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Armageddon}{Set The Tone}{C}{2}{26,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BArmageddon%5D%5BSet The Tone%5D%5BC%5D%5B2%5D.mp3?raw=true}
@@ -70,11 +71,14 @@
 {aespa}{Hot Mess}{Hot Mess}{DBE}{1}{58,584}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BHot Mess%5D%5BHot Mess%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
 {aespa}{Illusion}{Illusion}{C}{1}{46,32}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BIllusion%5D%5BIllusion%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}{30,288}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BLifes Too Short%5D%5BLifes Too Short%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{aespa}{MY WORLD}{Salty & Sweet}{C}{1}{32,60081632653061}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BMY WORLD%5D%5BSalty & Sweet%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{MY WORLD}{Spicy}{C}{1}{44,904}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BMY WORLD%5D%5BSpicy%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{aespa}{MY WORLD}{Thirsty}{C}{1}{33,671836734693876}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BMY WORLD%5D%5BThirsty%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Next Level}{Next Level}{P}{1}{32,91425}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BNext Level%5D%5BNext Level%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {aespa}{Savage}{Savage}{P}{1}{44,2775}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSavage%5D%5BSavage%5D%5BP%5D%5B1%5D.mp3?raw=true}
 {aespa}{Supernova}{Supernova}{DB}{1}{30,048}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSupernova%5D%5BSupernova%5D%5BDB%5D%5B1%5D.mp3?raw=true}
 {aespa}{Supernova}{Supernova}{P}{1}{35,304}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BSupernova%5D%5BSupernova%5D%5BP%5D%5B1%5D.mp3?raw=true}
+{aespa}{Whiplash}{Pink Hoodie}{C}{1}{26,827755102040815}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BWhiplash%5D%5BPink Hoodie%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {aespa}{Whiplash}{Whiplash}{C}{2}{40,152}{https://github.com/giannistek1/rpd-audio/blob/main/%5Baespa%5D%5BWhiplash%5D%5BWhiplash%5D%5BC%5D%5B2%5D.mp3?raw=true}
 {Agust D (BTS)}{D-2}{Daechwita}{C}{3}{31,52975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAgust D (BTS)%5D%5BD-2%5D%5BDaechwita%5D%5BC%5D%5B3%5D.mp3?raw=true}
 {Ailee}{Invitation}{I Will Show You}{CE}{3}{52,896}{https://github.com/giannistek1/rpd-audio/blob/main/%5BAilee%5D%5BInvitation%5D%5BI Will Show You%5D%5BCE%5D%5B3%5D.mp3?raw=true}
@@ -612,6 +616,7 @@
 {IVE}{CRUSH}{CRUSH}{C}{1}{44,496}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BCRUSH%5D%5BCRUSH%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{ELEVEN}{ELEVEN}{C}{1}{29,5705625}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BELEVEN%5D%5BELEVEN%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{I WANT (IVE x PEPSI)}{I WANT}{C}{1}{35,034975}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BI WANT (IVE x PEPSI)%5D%5BI WANT%5D%5BC%5D%5B1%5D.mp3?raw=true}
+{IVE}{IVE EMPATHY}{ATTITUDE}{C}{1}{44,564897959183675}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BIVE EMPATHY%5D%5BATTITUDE%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{Ive IVE}{Blue Blood}{CDB}{2}{54,648}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BIve IVE%5D%5BBlue Blood%5D%5BCDB%5D%5B2%5D.mp3?raw=true}
 {IVE}{Ive IVE}{Blue Blood}{C}{1}{35,328}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BIve IVE%5D%5BBlue Blood%5D%5BC%5D%5B1%5D.mp3?raw=true}
 {IVE}{Ive IVE}{Blue Blood}{DBE}{1}{47,184}{https://github.com/giannistek1/rpd-audio/blob/main/%5BIVE%5D%5BIve IVE%5D%5BBlue Blood%5D%5BDBE%5D%5B1%5D.mp3?raw=true}
